@@ -368,6 +368,26 @@ DESCRIPTION:LASK – SCR Altach
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:1fa6b7c2@fussball-kalender.julian
+DTSTAMP:20260801T082847Z
+DTSTART:20260903T220000Z
+DTEND:20260909T215900Z
+SUMMARY:Termin vorläufig: FC Blau-Weiß Linz – FC Wacker Innsbruck
+LOCATION:Hofmann Personal Stadion
+DESCRIPTION:Blau-Weiß Linz – ÖFB-Cup. Quelle: offizieller Vereinsspielplan. Datum und Anstoßzeit sind noch nicht endgültig festgelegt.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c37d9e54@fussball-kalender.julian
+DTSTAMP:20260801T082847Z
+DTSTART:20260904T220000Z
+DTEND:20260906T215900Z
+SUMMARY:Termin vorläufig: Deutschlandsberger SC – LASK
+LOCATION:Koralmstadion
+DESCRIPTION:LASK – ÖFB-Cup. Quelle: offizieller Vereinsspielplan. Datum und Anstoßzeit sind noch nicht endgültig festgelegt.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:5c875ec1@fussball-kalender.julian
 DTSTAMP:20260711T120102Z
 DTSTART:20260902T184500Z
