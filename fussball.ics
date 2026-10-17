@@ -14,7 +14,8 @@ DTSTART:20260711T150000Z
 DTEND:20260711T170000Z
 SUMMARY:Puskás FC – FC Blau-Weiß Linz
 LOCATION:Bad Wimsbach
-DESCRIPTION:Blau-Weiß Linz – Testspiel. Quelle: offizieller Vereinsspielplan.
+DESCRIPTION:Blau-Weiß Linz – Testspiel. Quelle: offizieller Vereinsspiel
+ plan.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -29,7 +30,8 @@ DTSTART:20260712T083000Z
 DTEND:20260712T103000Z
 SUMMARY:SPG Pregarten – FC Blau-Weiß Linz
 LOCATION:#glaubandich Arena Pregarten
-DESCRIPTION:Blau-Weiß Linz – Testspiel. Quelle: offizieller Vereinsspielplan.
+DESCRIPTION:Blau-Weiß Linz – Testspiel. Quelle: offizieller Vereinsspiel
+ plan.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -74,7 +76,8 @@ DTSTART:20260718T160000Z
 DTEND:20260718T180000Z
 SUMMARY:FC Blau-Weiß Linz – Eintracht Braunschweig
 LOCATION:Hofmann Personal Stadion
-DESCRIPTION:Blau-Weiß Linz – Testspiel. Quelle: offizieller Vereinsspielplan.
+DESCRIPTION:Blau-Weiß Linz – Testspiel. Quelle: offizieller Vereinsspiel
+ plan.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -89,7 +92,8 @@ DTSTART:20260724T173000Z
 DTEND:20260724T193000Z
 SUMMARY:Union Raiffeisen Gurten – FC Blau-Weiß Linz
 LOCATION:Park21-Arena Gurten
-DESCRIPTION:Blau-Weiß Linz – ÖFB-Cup. Quelle: offizieller Vereinsspielplan.
+DESCRIPTION:Blau-Weiß Linz – ÖFB-Cup. Quelle: offizieller Vereinsspielp
+ lan.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -104,7 +108,8 @@ DTSTART:20260725T133000Z
 DTEND:20260725T153000Z
 SUMMARY:SV Wehen Wiesbaden – FC Bayern München
 LOCATION:Brita-Arena\, Wiesbaden
-DESCRIPTION:FC Bayern München – Testspiel. Quelle: offizieller Vereinsspielplan.
+DESCRIPTION:FC Bayern München – Testspiel. Quelle: offizieller Vereinssp
+ ielplan.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -134,7 +139,8 @@ DTSTART:20260730T160000Z
 DTEND:20260730T180000Z
 SUMMARY:FC Rottach-Egern – FC Bayern München
 LOCATION:Sportplatz Birkenmoos
-DESCRIPTION:FC Bayern München – Testspiel. Quelle: offizieller Vereinsspielplan.
+DESCRIPTION:FC Bayern München – Testspiel. Quelle: offizieller Vereinssp
+ ielplan.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -149,7 +155,8 @@ DTSTART:20260731T163000Z
 DTEND:20260731T183000Z
 SUMMARY:Young Violets Austria Wien – FC Blau-Weiß Linz
 LOCATION:Generali Arena
-DESCRIPTION:Blau-Weiß Linz – 2. Liga. Quelle: offizieller Vereinsspielplan.
+DESCRIPTION:Blau-Weiß Linz – 2. Liga. Quelle: offizieller Vereinsspielpl
+ an.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -179,7 +186,8 @@ DTSTART:20260804T110000Z
 DTEND:20260804T130000Z
 SUMMARY:Jeju SK FC – FC Bayern München
 LOCATION:Jeju World Cup Stadium
-DESCRIPTION:FC Bayern München – Audi Football Summit. Quelle: offizieller Vereinsspielplan.
+DESCRIPTION:FC Bayern München – Audi Football Summit. Quelle: offizielle
+ r Vereinsspielplan.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -194,7 +202,8 @@ DTSTART:20260807T120000Z
 DTEND:20260807T140000Z
 SUMMARY:FC Bayern München – Aston Villa
 LOCATION:Kai Tak Sports Park\, Hongkong
-DESCRIPTION:FC Bayern München – Audi Football Summit. Quelle: offizieller Vereinsspielplan.
+DESCRIPTION:FC Bayern München – Audi Football Summit. Quelle: offizielle
+ r Vereinsspielplan.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -209,7 +218,8 @@ DTSTART:20260807T183000Z
 DTEND:20260807T203000Z
 SUMMARY:FC Blau-Weiß Linz – FC Wacker Innsbruck
 LOCATION:Hofmann Personal Stadion
-DESCRIPTION:Blau-Weiß Linz – 2. Liga. Quelle: offizieller Vereinsspielplan.
+DESCRIPTION:Blau-Weiß Linz – 2. Liga. Quelle: offizieller Vereinsspielpl
+ an.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -239,7 +249,8 @@ DTSTART:20260814T183000Z
 DTEND:20260814T203000Z
 SUMMARY:SKN St. Pölten – FC Blau-Weiß Linz
 LOCATION:NV Arena
-DESCRIPTION:Blau-Weiß Linz – 2. Liga. Quelle: offizieller Vereinsspielplan.
+DESCRIPTION:Blau-Weiß Linz – 2. Liga. Quelle: offizieller Vereinsspielpl
+ an.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -269,7 +280,8 @@ DTSTART:20260815T133000Z
 DTEND:20260815T153000Z
 SUMMARY:FC Bayern München – RB Leipzig
 LOCATION:Allianz Arena
-DESCRIPTION:FC Bayern München – Telekom Cup. Quelle: offizieller Vereinsspielplan.
+DESCRIPTION:FC Bayern München – Telekom Cup. Quelle: offizieller Vereins
+ spielplan.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -284,7 +296,8 @@ DTSTART:20260818T160000Z
 DTEND:20260818T180000Z
 SUMMARY:1. FC Heidenheim 1846 – FC Bayern München
 LOCATION:Voith-Arena\, Heidenheim
-DESCRIPTION:FC Bayern München – Testspiel. Quelle: offizieller Vereinsspielplan.
+DESCRIPTION:FC Bayern München – Testspiel. Quelle: offizieller Vereinssp
+ ielplan.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -299,7 +312,8 @@ DTSTART:20260819T190000Z
 DTEND:20260819T210000Z
 SUMMARY:Celtic FC – LASK
 LOCATION:Celtic Park
-DESCRIPTION:LASK – UEFA Champions League Play-off Hinspiel. Quelle: offizieller Vereinsspielplan.
+DESCRIPTION:LASK – UEFA Champions League Play-off Hinspiel. Quelle: offiz
+ ieller Vereinsspielplan.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -314,7 +328,8 @@ DTSTART:20260823T083000Z
 DTEND:20260823T103000Z
 SUMMARY:FC Blau-Weiß Linz – ASK Voitsberg
 LOCATION:Hofmann Personal Stadion
-DESCRIPTION:Blau-Weiß Linz – 2. Liga. Quelle: offizieller Vereinsspielplan.
+DESCRIPTION:Blau-Weiß Linz – 2. Liga. Quelle: offizieller Vereinsspielpl
+ an.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -344,7 +359,8 @@ DTSTART:20260822T183000Z
 DTEND:20260822T203000Z
 SUMMARY:Borussia Dortmund – FC Bayern München
 LOCATION:Signal Iduna Park
-DESCRIPTION:FC Bayern München – Supercup. Quelle: offizieller Vereinsspielplan.
+DESCRIPTION:FC Bayern München – Supercup. Quelle: offizieller Vereinsspi
+ elplan.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -359,7 +375,8 @@ DTSTART:20260825T190000Z
 DTEND:20260825T210000Z
 SUMMARY:LASK – Celtic FC
 LOCATION:Oberösterreich Arena
-DESCRIPTION:LASK – UEFA Champions League Play-off Rückspiel. Quelle: offizieller Vereinsspielplan.
+DESCRIPTION:LASK – UEFA Champions League Play-off Rückspiel. Quelle: off
+ izieller Vereinsspielplan.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -374,7 +391,8 @@ DTSTART:20260828T163000Z
 DTEND:20260828T183000Z
 SUMMARY:KSV 1919 – FC Blau-Weiß Linz
 LOCATION:Alpenstadion
-DESCRIPTION:Blau-Weiß Linz – 2. Liga. Quelle: offizieller Vereinsspielplan.
+DESCRIPTION:Blau-Weiß Linz – 2. Liga. Quelle: offizieller Vereinsspielpl
+ an.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -389,7 +407,8 @@ DTSTART:20260828T183000Z
 DTEND:20260828T203000Z
 SUMMARY:FC Bayern München – VfB Stuttgart
 LOCATION:Allianz Arena
-DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereinsspielplan.
+DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereinss
+ pielplan.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -419,7 +438,8 @@ DTSTART:20260905T133000Z
 DTEND:20260905T153000Z
 SUMMARY:FC Blau-Weiß Linz – FC Wacker Innsbruck
 LOCATION:Hofmann Personal Stadion
-DESCRIPTION:Blau-Weiß Linz – ÖFB-Cup. Quelle: offizieller Vereinsspielplan.
+DESCRIPTION:Blau-Weiß Linz – ÖFB-Cup. Quelle: offizieller Vereinsspielp
+ lan.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -449,7 +469,8 @@ DTSTART:20260902T184500Z
 DTEND:20260902T204500Z
 SUMMARY:VfL Osnabrück – FC Bayern München
 LOCATION:Bremer Brücke
-DESCRIPTION:FC Bayern München – DFB-Pokal. Quelle: offizieller Vereinsspielplan.
+DESCRIPTION:FC Bayern München – DFB-Pokal. Quelle: offizieller Vereinssp
+ ielplan.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -464,7 +485,8 @@ DTSTART:20260905T163000Z
 DTEND:20260905T183000Z
 SUMMARY:FC Schalke 04 – FC Bayern München
 LOCATION:VELTINS-Arena
-DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereinsspielplan.
+DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereinss
+ pielplan.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -479,7 +501,8 @@ DTSTART:20260912T153000Z
 DTEND:20260912T173000Z
 SUMMARY:FC Blau-Weiß Linz – FC Hertha Wels
 LOCATION:Hofmann Personal Stadion
-DESCRIPTION:Blau-Weiß Linz – 2. Liga. Quelle: offizieller Vereinsspielplan.
+DESCRIPTION:Blau-Weiß Linz – 2. Liga. Quelle: offizieller Vereinsspielpl
+ an.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -494,7 +517,8 @@ DTSTART:20260913T153000Z
 DTEND:20260913T173000Z
 SUMMARY:SV Elversberg – FC Bayern München
 LOCATION:URSAPHARM-Arena an der Kaiserlinde
-DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereinsspielplan.
+DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereinss
+ pielplan.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -524,7 +548,8 @@ DTSTART:20260918T183000Z
 DTEND:20260918T203000Z
 SUMMARY:FC Blau-Weiß Linz – Admira Wacker
 LOCATION:Hofmann Personal Stadion
-DESCRIPTION:Blau-Weiß Linz – 2. Liga. Quelle: offizieller Vereinsspielplan.
+DESCRIPTION:Blau-Weiß Linz – 2. Liga. Quelle: offizieller Vereinsspielpl
+ an.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -539,7 +564,8 @@ DTSTART:20260918T183000Z
 DTEND:20260918T203000Z
 SUMMARY:FC Bayern München – 1. FC Union Berlin
 LOCATION:Allianz Arena
-DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereinsspielplan.
+DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereinss
+ pielplan.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -564,18 +590,21 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:5b8378b@fussball-kalender.julian
-DTSTAMP:20260711T120102Z
+DTSTAMP:20261017T081125Z
 DTSTART:20261009T163000Z
 DTEND:20261009T183000Z
 SUMMARY:SKU Amstetten – FC Blau-Weiß Linz
-LOCATION:Ertl Glas Arena
-DESCRIPTION:Blau-Weiß Linz – 2. Liga. Quelle: offizieller Vereinsspielplan.
+LOCATION:Ertl Glas Stadion
+DESCRIPTION:Blau-Weiß Linz – 2. Liga. Quelle: offizieller Vereinsspielpl
+ an.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:SKU Amstetten – FC Blau-Weiß Linz
 END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261017T081125Z
 END:VEVENT
 BEGIN:VEVENT
 UID:9061e28c@fussball-kalender.julian
@@ -584,7 +613,8 @@ DTSTART:20261010T133000Z
 DTEND:20261010T153000Z
 SUMMARY:FC Augsburg – FC Bayern München
 LOCATION:WWK Arena
-DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereinsspielplan.
+DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereinss
+ pielplan.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -614,7 +644,8 @@ DTSTART:20261017T153000Z
 DTEND:20261017T173000Z
 SUMMARY:FC Blau-Weiß Linz – FC Liefering
 LOCATION:Hofmann Personal Stadion
-DESCRIPTION:Blau-Weiß Linz – 2. Liga. Quelle: offizieller Vereinsspielplan.
+DESCRIPTION:Blau-Weiß Linz – 2. Liga. Quelle: offizieller Vereinsspielpl
+ an.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -629,7 +660,8 @@ DTSTART:20261017T163000Z
 DTEND:20261017T183000Z
 SUMMARY:FC Bayern München – RB Leipzig
 LOCATION:Allianz Arena
-DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereinsspielplan.
+DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereinss
+ pielplan.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -659,7 +691,8 @@ DTSTART:20261023T183000Z
 DTEND:20261023T203000Z
 SUMMARY:SV Austria Salzburg – FC Blau-Weiß Linz
 LOCATION:Austria Stadion
-DESCRIPTION:Blau-Weiß Linz – 2. Liga. Quelle: offizieller Vereinsspielplan.
+DESCRIPTION:Blau-Weiß Linz – 2. Liga. Quelle: offizieller Vereinsspielpl
+ an.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -674,7 +707,8 @@ DTSTART:20261025T163000Z
 DTEND:20261025T183000Z
 SUMMARY:SC Freiburg – FC Bayern München
 LOCATION:Europa-Park Stadion
-DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereinsspielplan.
+DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereinss
+ pielplan.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -704,7 +738,8 @@ DTSTART:20261031T160000Z
 DTEND:20261031T180000Z
 SUMMARY:First Vienna FC 1894 – FC Blau-Weiß Linz
 LOCATION:Hohe Warte
-DESCRIPTION:Blau-Weiß Linz – 2. Liga. Quelle: offizieller Vereinsspielplan.
+DESCRIPTION:Blau-Weiß Linz – 2. Liga. Quelle: offizieller Vereinsspielpl
+ an.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -719,7 +754,8 @@ DTSTART:20261031T173000Z
 DTEND:20261031T193000Z
 SUMMARY:FC Bayern München – Borussia Dortmund
 LOCATION:Allianz Arena
-DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereinsspielplan.
+DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereinss
+ pielplan.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -749,7 +785,8 @@ DTSTART:20261107T163000Z
 DTEND:20261107T183000Z
 SUMMARY:FC Blau-Weiß Linz – FAC Wien
 LOCATION:Hofmann Personal Stadion
-DESCRIPTION:Blau-Weiß Linz – 2. Liga. Quelle: offizieller Vereinsspielplan.
+DESCRIPTION:Blau-Weiß Linz – 2. Liga. Quelle: offizieller Vereinsspielpl
+ an.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -764,7 +801,8 @@ DTSTART:20261107T143000Z
 DTEND:20261107T163000Z
 SUMMARY:1. FSV Mainz 05 – FC Bayern München
 LOCATION:MEWA Arena
-DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereinsspielplan.
+DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereinss
+ pielplan.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -794,7 +832,8 @@ DTSTART:20261120T173000Z
 DTEND:20261120T193000Z
 SUMMARY:SK Rapid II – FC Blau-Weiß Linz
 LOCATION:Allianz Stadion
-DESCRIPTION:Blau-Weiß Linz – 2. Liga. Quelle: offizieller Vereinsspielplan.
+DESCRIPTION:Blau-Weiß Linz – 2. Liga. Quelle: offizieller Vereinsspielpl
+ an.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -809,7 +848,8 @@ DTSTART:20261120T193000Z
 DTEND:20261120T213000Z
 SUMMARY:FC Bayern München – 1. FC Köln
 LOCATION:Allianz Arena
-DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereinsspielplan.
+DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereinss
+ pielplan.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -839,7 +879,8 @@ DTSTART:20261128T163000Z
 DTEND:20261128T183000Z
 SUMMARY:FC Blau-Weiß Linz – SK Sturm Graz II
 LOCATION:Hofmann Personal Stadion
-DESCRIPTION:Blau-Weiß Linz – 2. Liga. Quelle: offizieller Vereinsspielplan.
+DESCRIPTION:Blau-Weiß Linz – 2. Liga. Quelle: offizieller Vereinsspielpl
+ an.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -854,7 +895,8 @@ DTSTART:20261128T143000Z
 DTEND:20261128T163000Z
 SUMMARY:Hamburger SV – FC Bayern München
 LOCATION:Volksparkstadion
-DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereinsspielplan.
+DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereinss
+ pielplan.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -884,7 +926,8 @@ DTSTART:20261205T163000Z
 DTEND:20261205T183000Z
 SUMMARY:FC Blau-Weiß Linz – Schwarz-Weiß Bregenz
 LOCATION:Hofmann Personal Stadion
-DESCRIPTION:Blau-Weiß Linz – 2. Liga. Quelle: offizieller Vereinsspielplan.
+DESCRIPTION:Blau-Weiß Linz – 2. Liga. Quelle: offizieller Vereinsspielpl
+ an.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -899,7 +942,8 @@ DTSTART:20261203T230000Z
 DTEND:20261206T225900Z
 SUMMARY:Termin vorläufig: FC Bayern München – SC Paderborn 07
 LOCATION:Allianz Arena
-DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereinsspielplan. Datum und Anstoßzeit sind noch nicht endgültig festgelegt.
+DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereinss
+ pielplan. Datum und Anstoßzeit sind noch nicht endgültig festgelegt.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -924,7 +968,8 @@ DTSTART:20261212T143000Z
 DTEND:20261212T163000Z
 SUMMARY:ASK Voitsberg – FC Blau-Weiß Linz
 LOCATION:Münzer Bioindustrie Sportpark
-DESCRIPTION:Blau-Weiß Linz – 2. Liga. Quelle: offizieller Vereinsspielplan.
+DESCRIPTION:Blau-Weiß Linz – 2. Liga. Quelle: offizieller Vereinsspielpl
+ an.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -939,7 +984,8 @@ DTSTART:20261210T230000Z
 DTEND:20261213T225900Z
 SUMMARY:Termin vorläufig: TSG Hoffenheim – FC Bayern München
 LOCATION:SNP Arena
-DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereinsspielplan. Datum und Anstoßzeit sind noch nicht endgültig festgelegt.
+DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereinss
+ pielplan. Datum und Anstoßzeit sind noch nicht endgültig festgelegt.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -964,7 +1010,8 @@ DTSTART:20261217T230000Z
 DTEND:20261220T225900Z
 SUMMARY:Termin vorläufig: FC Bayern München – Werder Bremen
 LOCATION:Allianz Arena
-DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereinsspielplan. Datum und Anstoßzeit sind noch nicht endgültig festgelegt.
+DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereinss
+ pielplan. Datum und Anstoßzeit sind noch nicht endgültig festgelegt.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -974,7 +1021,8 @@ DTSTART:20270107T230000Z
 DTEND:20270110T225900Z
 SUMMARY:Termin vorläufig: Borussia Mönchengladbach – FC Bayern München
 LOCATION:Borussia-Park
-DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereinsspielplan. Datum und Anstoßzeit sind noch nicht endgültig festgelegt.
+DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereinss
+ pielplan. Datum und Anstoßzeit sind noch nicht endgültig festgelegt.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -984,7 +1032,8 @@ DTSTART:20270111T230000Z
 DTEND:20270114T225900Z
 SUMMARY:Termin vorläufig: FC Bayern München – Bayer 04 Leverkusen
 LOCATION:Allianz Arena
-DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereinsspielplan. Datum und Anstoßzeit sind noch nicht endgültig festgelegt.
+DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereinss
+ pielplan. Datum und Anstoßzeit sind noch nicht endgültig festgelegt.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -994,7 +1043,8 @@ DTSTART:20270114T230000Z
 DTEND:20270117T225900Z
 SUMMARY:Termin vorläufig: Eintracht Frankfurt – FC Bayern München
 LOCATION:Deutsche Bank Park
-DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereinsspielplan. Datum und Anstoßzeit sind noch nicht endgültig festgelegt.
+DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereinss
+ pielplan. Datum und Anstoßzeit sind noch nicht endgültig festgelegt.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1004,7 +1054,8 @@ DTSTART:20270121T230000Z
 DTEND:20270124T225900Z
 SUMMARY:Termin vorläufig: VfB Stuttgart – FC Bayern München
 LOCATION:MHP Arena
-DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereinsspielplan. Datum und Anstoßzeit sind noch nicht endgültig festgelegt.
+DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereinss
+ pielplan. Datum und Anstoßzeit sind noch nicht endgültig festgelegt.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1014,7 +1065,8 @@ DTSTART:20270122T230000Z
 DTEND:20270124T225900Z
 SUMMARY:Termin vorläufig: WSG Tirol – LASK
 LOCATION:Tivoli
-DESCRIPTION:LASK – Bundesliga. Quelle: offizieller Vereinsspielplan. Datum und Anstoßzeit sind noch nicht endgültig festgelegt.
+DESCRIPTION:LASK – Bundesliga. Quelle: offizieller Vereinsspielplan. Datu
+ m und Anstoßzeit sind noch nicht endgültig festgelegt.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1024,7 +1076,8 @@ DTSTART:20270128T230000Z
 DTEND:20270131T225900Z
 SUMMARY:Termin vorläufig: FC Bayern München – FC Schalke 04
 LOCATION:Allianz Arena
-DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereinsspielplan. Datum und Anstoßzeit sind noch nicht endgültig festgelegt.
+DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereinss
+ pielplan. Datum und Anstoßzeit sind noch nicht endgültig festgelegt.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1034,7 +1087,8 @@ DTSTART:20270129T230000Z
 DTEND:20270131T225900Z
 SUMMARY:Termin vorläufig: LASK – SK Sturm Graz
 LOCATION:Raiffeisen Arena
-DESCRIPTION:LASK – Bundesliga. Quelle: offizieller Vereinsspielplan. Datum und Anstoßzeit sind noch nicht endgültig festgelegt.
+DESCRIPTION:LASK – Bundesliga. Quelle: offizieller Vereinsspielplan. Datu
+ m und Anstoßzeit sind noch nicht endgültig festgelegt.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1044,7 +1098,8 @@ DTSTART:20270204T230000Z
 DTEND:20270207T225900Z
 SUMMARY:Termin vorläufig: FC Bayern München – SV Elversberg
 LOCATION:Allianz Arena
-DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereinsspielplan. Datum und Anstoßzeit sind noch nicht endgültig festgelegt.
+DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereinss
+ pielplan. Datum und Anstoßzeit sind noch nicht endgültig festgelegt.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1054,7 +1109,8 @@ DTSTART:20270205T230000Z
 DTEND:20270207T225900Z
 SUMMARY:Termin vorläufig: LASK – RZ Pellets WAC
 LOCATION:Raiffeisen Arena
-DESCRIPTION:LASK – Bundesliga. Quelle: offizieller Vereinsspielplan. Datum und Anstoßzeit sind noch nicht endgültig festgelegt.
+DESCRIPTION:LASK – Bundesliga. Quelle: offizieller Vereinsspielplan. Datu
+ m und Anstoßzeit sind noch nicht endgültig festgelegt.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1064,7 +1120,8 @@ DTSTART:20270211T230000Z
 DTEND:20270214T225900Z
 SUMMARY:Termin vorläufig: 1. FC Union Berlin – FC Bayern München
 LOCATION:Stadion An der Alten Försterei
-DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereinsspielplan. Datum und Anstoßzeit sind noch nicht endgültig festgelegt.
+DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereinss
+ pielplan. Datum und Anstoßzeit sind noch nicht endgültig festgelegt.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1074,7 +1131,8 @@ DTSTART:20270212T230000Z
 DTEND:20270214T225900Z
 SUMMARY:Termin vorläufig: SCR Altach – LASK
 LOCATION:Stadion Schnabelholz
-DESCRIPTION:LASK – Bundesliga. Quelle: offizieller Vereinsspielplan. Datum und Anstoßzeit sind noch nicht endgültig festgelegt.
+DESCRIPTION:LASK – Bundesliga. Quelle: offizieller Vereinsspielplan. Datu
+ m und Anstoßzeit sind noch nicht endgültig festgelegt.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1084,7 +1142,8 @@ DTSTART:20270218T230000Z
 DTEND:20270221T225900Z
 SUMMARY:Termin vorläufig: FC Bayern München – FC Augsburg
 LOCATION:Allianz Arena
-DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereinsspielplan. Datum und Anstoßzeit sind noch nicht endgültig festgelegt.
+DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereinss
+ pielplan. Datum und Anstoßzeit sind noch nicht endgültig festgelegt.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1094,7 +1153,8 @@ DTSTART:20270219T230000Z
 DTEND:20270221T225900Z
 SUMMARY:Termin vorläufig: GAK – LASK
 LOCATION:Merkur Arena
-DESCRIPTION:LASK – Bundesliga. Quelle: offizieller Vereinsspielplan. Datum und Anstoßzeit sind noch nicht endgültig festgelegt.
+DESCRIPTION:LASK – Bundesliga. Quelle: offizieller Vereinsspielplan. Datu
+ m und Anstoßzeit sind noch nicht endgültig festgelegt.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1104,7 +1164,8 @@ DTSTART:20270225T230000Z
 DTEND:20270228T225900Z
 SUMMARY:Termin vorläufig: RB Leipzig – FC Bayern München
 LOCATION:Red Bull Arena Leipzig
-DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereinsspielplan. Datum und Anstoßzeit sind noch nicht endgültig festgelegt.
+DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereinss
+ pielplan. Datum und Anstoßzeit sind noch nicht endgültig festgelegt.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1114,7 +1175,8 @@ DTSTART:20270226T230000Z
 DTEND:20270228T225900Z
 SUMMARY:Termin vorläufig: LASK – SC Austria Lustenau
 LOCATION:Raiffeisen Arena
-DESCRIPTION:LASK – Bundesliga. Quelle: offizieller Vereinsspielplan. Datum und Anstoßzeit sind noch nicht endgültig festgelegt.
+DESCRIPTION:LASK – Bundesliga. Quelle: offizieller Vereinsspielplan. Datu
+ m und Anstoßzeit sind noch nicht endgültig festgelegt.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1124,7 +1186,8 @@ DTSTART:20270301T230000Z
 DTEND:20270304T225900Z
 SUMMARY:Termin vorläufig: FC Bayern München – SC Freiburg
 LOCATION:Allianz Arena
-DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereinsspielplan. Datum und Anstoßzeit sind noch nicht endgültig festgelegt.
+DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereinss
+ pielplan. Datum und Anstoßzeit sind noch nicht endgültig festgelegt.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1134,7 +1197,8 @@ DTSTART:20270304T230000Z
 DTEND:20270307T225900Z
 SUMMARY:Termin vorläufig: Borussia Dortmund – FC Bayern München
 LOCATION:Signal Iduna Park
-DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereinsspielplan. Datum und Anstoßzeit sind noch nicht endgültig festgelegt.
+DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereinss
+ pielplan. Datum und Anstoßzeit sind noch nicht endgültig festgelegt.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1144,7 +1208,8 @@ DTSTART:20270311T230000Z
 DTEND:20270314T225900Z
 SUMMARY:Termin vorläufig: FC Bayern München – 1. FSV Mainz 05
 LOCATION:Allianz Arena
-DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereinsspielplan. Datum und Anstoßzeit sind noch nicht endgültig festgelegt.
+DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereinss
+ pielplan. Datum und Anstoßzeit sind noch nicht endgültig festgelegt.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1154,7 +1219,8 @@ DTSTART:20270318T230000Z
 DTEND:20270321T225900Z
 SUMMARY:Termin vorläufig: 1. FC Köln – FC Bayern München
 LOCATION:RheinEnergieStadion
-DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereinsspielplan. Datum und Anstoßzeit sind noch nicht endgültig festgelegt.
+DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereinss
+ pielplan. Datum und Anstoßzeit sind noch nicht endgültig festgelegt.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1164,7 +1230,8 @@ DTSTART:20270401T220000Z
 DTEND:20270404T215900Z
 SUMMARY:Termin vorläufig: FC Bayern München – Hamburger SV
 LOCATION:Allianz Arena
-DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereinsspielplan. Datum und Anstoßzeit sind noch nicht endgültig festgelegt.
+DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereinss
+ pielplan. Datum und Anstoßzeit sind noch nicht endgültig festgelegt.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1174,7 +1241,8 @@ DTSTART:20270408T220000Z
 DTEND:20270411T215900Z
 SUMMARY:Termin vorläufig: SC Paderborn 07 – FC Bayern München
 LOCATION:Home Deluxe Arena
-DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereinsspielplan. Datum und Anstoßzeit sind noch nicht endgültig festgelegt.
+DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereinss
+ pielplan. Datum und Anstoßzeit sind noch nicht endgültig festgelegt.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1184,7 +1252,8 @@ DTSTART:20270415T220000Z
 DTEND:20270418T215900Z
 SUMMARY:Termin vorläufig: FC Bayern München – TSG Hoffenheim
 LOCATION:Allianz Arena
-DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereinsspielplan. Datum und Anstoßzeit sind noch nicht endgültig festgelegt.
+DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereinss
+ pielplan. Datum und Anstoßzeit sind noch nicht endgültig festgelegt.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1194,7 +1263,8 @@ DTSTART:20270422T220000Z
 DTEND:20270425T215900Z
 SUMMARY:Termin vorläufig: Werder Bremen – FC Bayern München
 LOCATION:Weserstadion
-DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereinsspielplan. Datum und Anstoßzeit sind noch nicht endgültig festgelegt.
+DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereinss
+ pielplan. Datum und Anstoßzeit sind noch nicht endgültig festgelegt.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1204,7 +1274,8 @@ DTSTART:20270506T220000Z
 DTEND:20270509T215900Z
 SUMMARY:Termin vorläufig: FC Bayern München – Borussia Mönchengladbach
 LOCATION:Allianz Arena
-DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereinsspielplan. Datum und Anstoßzeit sind noch nicht endgültig festgelegt.
+DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereinss
+ pielplan. Datum und Anstoßzeit sind noch nicht endgültig festgelegt.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1214,7 +1285,8 @@ DTSTART:20270513T220000Z
 DTEND:20270516T215900Z
 SUMMARY:Termin vorläufig: Bayer 04 Leverkusen – FC Bayern München
 LOCATION:BayArena
-DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereinsspielplan. Datum und Anstoßzeit sind noch nicht endgültig festgelegt.
+DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereinss
+ pielplan. Datum und Anstoßzeit sind noch nicht endgültig festgelegt.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1224,7 +1296,8 @@ DTSTART:20270522T133000Z
 DTEND:20270522T153000Z
 SUMMARY:FC Bayern München – Eintracht Frankfurt
 LOCATION:Allianz Arena
-DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereinsspielplan.
+DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereinss
+ pielplan.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -1239,7 +1312,8 @@ DTSTART:20260904T161500Z
 DTEND:20260904T181500Z
 SUMMARY:Gallneukirchen – ASKÖ DONAU Linz
 LOCATION:Gusenpark Gallneukirchen
-DESCRIPTION:ASKÖ DONAU Linz – Landesliga Ost. Quelle: offizieller ÖFB-Spielplan.
+DESCRIPTION:ASKÖ DONAU Linz – Landesliga Ost. Quelle: offizieller ÖFB-S
+ pielplan.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -1254,7 +1328,8 @@ DTSTART:20260911T163000Z
 DTEND:20260911T183000Z
 SUMMARY:ASKÖ DONAU Linz – ASKÖ SV Viktoria Marchtrenk
 LOCATION:LINZ AG Arena
-DESCRIPTION:ASKÖ DONAU Linz – Landesliga Ost. Quelle: offizieller ÖFB-Spielplan.
+DESCRIPTION:ASKÖ DONAU Linz – Landesliga Ost. Quelle: offizieller ÖFB-S
+ pielplan.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -1269,7 +1344,8 @@ DTSTART:20260918T170000Z
 DTEND:20260918T190000Z
 SUMMARY:Oedt – ASKÖ DONAU Linz
 LOCATION:Transdanubia Sportanlage Oedt
-DESCRIPTION:ASKÖ DONAU Linz – Landesliga Ost. Quelle: offizieller ÖFB-Spielplan.
+DESCRIPTION:ASKÖ DONAU Linz – Landesliga Ost. Quelle: offizieller ÖFB-S
+ pielplan.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -1284,7 +1360,8 @@ DTSTART:20260925T163000Z
 DTEND:20260925T183000Z
 SUMMARY:ASKÖ DONAU Linz – BW Linz Amateure
 LOCATION:LINZ AG Arena
-DESCRIPTION:ASKÖ DONAU Linz – Landesliga Ost. Quelle: offizieller ÖFB-Spielplan.
+DESCRIPTION:ASKÖ DONAU Linz – Landesliga Ost. Quelle: offizieller ÖFB-S
+ pielplan.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -1299,7 +1376,8 @@ DTSTART:20261003T130000Z
 DTEND:20261003T150000Z
 SUMMARY:Metallbau Blauensteiner Naarn – ASKÖ DONAU Linz
 LOCATION:Donauwell-Stadion\, Naarn
-DESCRIPTION:ASKÖ DONAU Linz – Landesliga Ost. Quelle: offizieller ÖFB-Spielplan.
+DESCRIPTION:ASKÖ DONAU Linz – Landesliga Ost. Quelle: offizieller ÖFB-S
+ pielplan.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -1314,7 +1392,8 @@ DTSTART:20261009T163000Z
 DTEND:20261009T183000Z
 SUMMARY:ASKÖ DONAU Linz – SK St. Magdalena
 LOCATION:LINZ AG Arena
-DESCRIPTION:ASKÖ DONAU Linz – Landesliga Ost. Quelle: offizieller ÖFB-Spielplan.
+DESCRIPTION:ASKÖ DONAU Linz – Landesliga Ost. Quelle: offizieller ÖFB-S
+ pielplan.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -1329,7 +1408,8 @@ DTSTART:20261017T133000Z
 DTEND:20261017T153000Z
 SUMMARY:SV Haka Traun – ASKÖ DONAU Linz
 LOCATION:Sportplatz Traun
-DESCRIPTION:ASKÖ DONAU Linz – Landesliga Ost. Quelle: offizieller ÖFB-Spielplan.
+DESCRIPTION:ASKÖ DONAU Linz – Landesliga Ost. Quelle: offizieller ÖFB-S
+ pielplan.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -1344,7 +1424,8 @@ DTSTART:20261023T163000Z
 DTEND:20261023T183000Z
 SUMMARY:ASKÖ DONAU Linz – SPG Rohrbach-Berg/Altenfelden
 LOCATION:LINZ AG Arena
-DESCRIPTION:ASKÖ DONAU Linz – Landesliga Ost. Quelle: offizieller ÖFB-Spielplan.
+DESCRIPTION:ASKÖ DONAU Linz – Landesliga Ost. Quelle: offizieller ÖFB-S
+ pielplan.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -1359,7 +1440,8 @@ DTSTART:20261031T143000Z
 DTEND:20261031T163000Z
 SUMMARY:SC Marchtrenk – ASKÖ DONAU Linz
 LOCATION:WIMBERGER ARENA Marchtrenk SC
-DESCRIPTION:ASKÖ DONAU Linz – Landesliga Ost. Quelle: offizieller ÖFB-Spielplan.
+DESCRIPTION:ASKÖ DONAU Linz – Landesliga Ost. Quelle: offizieller ÖFB-S
+ pielplan.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -1374,7 +1456,8 @@ DTSTART:20261106T180000Z
 DTEND:20261106T200000Z
 SUMMARY:ASKÖ DONAU Linz – Union Ansfelden
 LOCATION:LINZ AG Arena
-DESCRIPTION:ASKÖ DONAU Linz – Landesliga Ost. Quelle: offizieller ÖFB-Spielplan.
+DESCRIPTION:ASKÖ DONAU Linz – Landesliga Ost. Quelle: offizieller ÖFB-S
+ pielplan.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -1389,7 +1472,8 @@ DTSTART:20270213T120000Z
 DTEND:20270213T140000Z
 SUMMARY:DSG Union Perg – ASKÖ DONAU Linz
 LOCATION:Sparkasse Pregarten Stadion
-DESCRIPTION:ASKÖ DONAU Linz – Testspiel. Quelle: offizieller ÖFB-Spielplan.
+DESCRIPTION:ASKÖ DONAU Linz – Testspiel. Quelle: offizieller ÖFB-Spielp
+ lan.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -1404,7 +1488,8 @@ DTSTART:20270306T140000Z
 DTEND:20270306T160000Z
 SUMMARY:ASKÖ DONAU Linz – Enns
 LOCATION:LINZ AG Arena
-DESCRIPTION:ASKÖ DONAU Linz – Landesliga Ost. Quelle: offizieller ÖFB-Spielplan.
+DESCRIPTION:ASKÖ DONAU Linz – Landesliga Ost. Quelle: offizieller ÖFB-S
+ pielplan.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -1419,7 +1504,8 @@ DTSTART:20270313T140000Z
 DTEND:20270313T160000Z
 SUMMARY:USV St. Ulrich – ASKÖ DONAU Linz
 LOCATION:HAIDER ENTERPRISES STADION - St. Ulrich OÖ.
-DESCRIPTION:ASKÖ DONAU Linz – Landesliga Ost. Quelle: offizieller ÖFB-Spielplan.
+DESCRIPTION:ASKÖ DONAU Linz – Landesliga Ost. Quelle: offizieller ÖFB-S
+ pielplan.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -1434,7 +1520,8 @@ DTSTART:20270320T143000Z
 DTEND:20270320T163000Z
 SUMMARY:ASKÖ Steinbach Schwertberg – ASKÖ DONAU Linz
 LOCATION:Steinbach Stadion Schwertberg
-DESCRIPTION:ASKÖ DONAU Linz – Landesliga Ost. Quelle: offizieller ÖFB-Spielplan.
+DESCRIPTION:ASKÖ DONAU Linz – Landesliga Ost. Quelle: offizieller ÖFB-S
+ pielplan.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -1449,7 +1536,8 @@ DTSTART:20270327T143000Z
 DTEND:20270327T163000Z
 SUMMARY:ASKÖ DONAU Linz – SPG St. Florian/Niederneukirchen
 LOCATION:LINZ AG Arena
-DESCRIPTION:ASKÖ DONAU Linz – Landesliga Ost. Quelle: offizieller ÖFB-Spielplan.
+DESCRIPTION:ASKÖ DONAU Linz – Landesliga Ost. Quelle: offizieller ÖFB-S
+ pielplan.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -1464,7 +1552,8 @@ DTSTART:20270403T143000Z
 DTEND:20270403T163000Z
 SUMMARY:SC Hörsching – ASKÖ DONAU Linz
 LOCATION:Westbahn Stadion Hörsching
-DESCRIPTION:ASKÖ DONAU Linz – Landesliga Ost. Quelle: offizieller ÖFB-Spielplan.
+DESCRIPTION:ASKÖ DONAU Linz – Landesliga Ost. Quelle: offizieller ÖFB-S
+ pielplan.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -1479,7 +1568,8 @@ DTSTART:20270410T143000Z
 DTEND:20270410T163000Z
 SUMMARY:ASKÖ DONAU Linz – Gallneukirchen
 LOCATION:LINZ AG Arena
-DESCRIPTION:ASKÖ DONAU Linz – Landesliga Ost. Quelle: offizieller ÖFB-Spielplan.
+DESCRIPTION:ASKÖ DONAU Linz – Landesliga Ost. Quelle: offizieller ÖFB-S
+ pielplan.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -1494,7 +1584,8 @@ DTSTART:20270417T143000Z
 DTEND:20270417T163000Z
 SUMMARY:ASKÖ SV Viktoria Marchtrenk – ASKÖ DONAU Linz
 LOCATION:ASKÖ Breitenfellner Personal Arena Marchtrenk
-DESCRIPTION:ASKÖ DONAU Linz – Landesliga Ost. Quelle: offizieller ÖFB-Spielplan.
+DESCRIPTION:ASKÖ DONAU Linz – Landesliga Ost. Quelle: offizieller ÖFB-S
+ pielplan.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -1509,7 +1600,8 @@ DTSTART:20270424T143000Z
 DTEND:20270424T163000Z
 SUMMARY:ASKÖ DONAU Linz – Oedt
 LOCATION:LINZ AG Arena
-DESCRIPTION:ASKÖ DONAU Linz – Landesliga Ost. Quelle: offizieller ÖFB-Spielplan.
+DESCRIPTION:ASKÖ DONAU Linz – Landesliga Ost. Quelle: offizieller ÖFB-S
+ pielplan.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -1524,7 +1616,8 @@ DTSTART:20270501T150000Z
 DTEND:20270501T170000Z
 SUMMARY:BW Linz Amateure – ASKÖ DONAU Linz
 LOCATION:Hofmann Personal Stadion
-DESCRIPTION:ASKÖ DONAU Linz – Landesliga Ost. Quelle: offizieller ÖFB-Spielplan.
+DESCRIPTION:ASKÖ DONAU Linz – Landesliga Ost. Quelle: offizieller ÖFB-S
+ pielplan.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -1539,7 +1632,8 @@ DTSTART:20270508T150000Z
 DTEND:20270508T170000Z
 SUMMARY:ASKÖ DONAU Linz – Metallbau Blauensteiner Naarn
 LOCATION:LINZ AG Arena
-DESCRIPTION:ASKÖ DONAU Linz – Landesliga Ost. Quelle: offizieller ÖFB-Spielplan.
+DESCRIPTION:ASKÖ DONAU Linz – Landesliga Ost. Quelle: offizieller ÖFB-S
+ pielplan.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -1554,7 +1648,8 @@ DTSTART:20270515T150000Z
 DTEND:20270515T170000Z
 SUMMARY:SK St. Magdalena – ASKÖ DONAU Linz
 LOCATION:Sonnleitner Stadion (St. Magdalena)
-DESCRIPTION:ASKÖ DONAU Linz – Landesliga Ost. Quelle: offizieller ÖFB-Spielplan.
+DESCRIPTION:ASKÖ DONAU Linz – Landesliga Ost. Quelle: offizieller ÖFB-S
+ pielplan.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -1569,7 +1664,8 @@ DTSTART:20270522T150000Z
 DTEND:20270522T170000Z
 SUMMARY:ASKÖ DONAU Linz – SV Haka Traun
 LOCATION:LINZ AG Arena
-DESCRIPTION:ASKÖ DONAU Linz – Landesliga Ost. Quelle: offizieller ÖFB-Spielplan.
+DESCRIPTION:ASKÖ DONAU Linz – Landesliga Ost. Quelle: offizieller ÖFB-S
+ pielplan.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -1584,7 +1680,8 @@ DTSTART:20270529T150000Z
 DTEND:20270529T170000Z
 SUMMARY:SPG Rohrbach-Berg/Altenfelden – ASKÖ DONAU Linz
 LOCATION:Raiffeisen Arena Rohrbach-Berg
-DESCRIPTION:ASKÖ DONAU Linz – Landesliga Ost. Quelle: offizieller ÖFB-Spielplan.
+DESCRIPTION:ASKÖ DONAU Linz – Landesliga Ost. Quelle: offizieller ÖFB-S
+ pielplan.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -1599,7 +1696,8 @@ DTSTART:20270605T150000Z
 DTEND:20270605T170000Z
 SUMMARY:ASKÖ DONAU Linz – SC Marchtrenk
 LOCATION:LINZ AG Arena
-DESCRIPTION:ASKÖ DONAU Linz – Landesliga Ost. Quelle: offizieller ÖFB-Spielplan.
+DESCRIPTION:ASKÖ DONAU Linz – Landesliga Ost. Quelle: offizieller ÖFB-S
+ pielplan.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -1614,7 +1712,8 @@ DTSTART:20270612T150000Z
 DTEND:20270612T170000Z
 SUMMARY:Union Ansfelden – ASKÖ DONAU Linz
 LOCATION:Zaunergroup Arena ANSFELDEN
-DESCRIPTION:ASKÖ DONAU Linz – Landesliga Ost. Quelle: offizieller ÖFB-Spielplan.
+DESCRIPTION:ASKÖ DONAU Linz – Landesliga Ost. Quelle: offizieller ÖFB-S
+ pielplan.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -1629,7 +1728,8 @@ DTSTART:20260908T164500Z
 DTEND:20260908T184500Z
 SUMMARY:AEK Athen – LASK
 LOCATION:AEK Arena
-DESCRIPTION:LASK – UEFA Champions League\, Ligaphase Spieltag 1. Quelle: offizielle UEFA-/Vereinsspielpläne.
+DESCRIPTION:LASK – UEFA Champions League\, Ligaphase Spieltag 1. Quelle: 
+ offizielle UEFA-/Vereinsspielpläne.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -1644,7 +1744,8 @@ DTSTART:20260910T190000Z
 DTEND:20260910T210000Z
 SUMMARY:FC Bayern München – FK Bodø/Glimt
 LOCATION:Allianz Arena
-DESCRIPTION:FC Bayern München – UEFA Champions League\, Ligaphase Spieltag 1. Quelle: offizielle UEFA-/Vereinsspielpläne.
+DESCRIPTION:FC Bayern München – UEFA Champions League\, Ligaphase Spielt
+ ag 1. Quelle: offizielle UEFA-/Vereinsspielpläne.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -1659,7 +1760,8 @@ DTSTART:20261013T190000Z
 DTEND:20261013T210000Z
 SUMMARY:Viking Stavanger – FC Bayern München
 LOCATION:Lyse Arena
-DESCRIPTION:FC Bayern München – UEFA Champions League\, Ligaphase Spieltag 2. Quelle: offizielle UEFA-/Vereinsspielpläne.
+DESCRIPTION:FC Bayern München – UEFA Champions League\, Ligaphase Spielt
+ ag 2. Quelle: offizielle UEFA-/Vereinsspielpläne.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -1674,7 +1776,8 @@ DTSTART:20261014T164500Z
 DTEND:20261014T184500Z
 SUMMARY:LASK – FC Liverpool
 LOCATION:Oberösterreich Arena
-DESCRIPTION:LASK – UEFA Champions League\, Ligaphase Spieltag 2. Quelle: offizielle UEFA-/Vereinsspielpläne.
+DESCRIPTION:LASK – UEFA Champions League\, Ligaphase Spieltag 2. Quelle: 
+ offizielle UEFA-/Vereinsspielpläne.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -1689,7 +1792,8 @@ DTSTART:20261021T190000Z
 DTEND:20261021T210000Z
 SUMMARY:FC Bayern München – FC Arsenal
 LOCATION:Allianz Arena
-DESCRIPTION:FC Bayern München – UEFA Champions League\, Ligaphase Spieltag 3. Quelle: offizielle UEFA-/Vereinsspielpläne.
+DESCRIPTION:FC Bayern München – UEFA Champions League\, Ligaphase Spielt
+ ag 3. Quelle: offizielle UEFA-/Vereinsspielpläne.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -1704,7 +1808,8 @@ DTSTART:20261021T190000Z
 DTEND:20261021T210000Z
 SUMMARY:Sporting CP – LASK
 LOCATION:Estádio José Alvalade
-DESCRIPTION:LASK – UEFA Champions League\, Ligaphase Spieltag 3. Quelle: offizielle UEFA-/Vereinsspielpläne.
+DESCRIPTION:LASK – UEFA Champions League\, Ligaphase Spieltag 3. Quelle: 
+ offizielle UEFA-/Vereinsspielpläne.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -1719,7 +1824,8 @@ DTSTART:20261103T200000Z
 DTEND:20261103T220000Z
 SUMMARY:Atlético Madrid – FC Bayern München
 LOCATION:Riyadh Air Metropolitano
-DESCRIPTION:FC Bayern München – UEFA Champions League\, Ligaphase Spieltag 4. Quelle: offizielle UEFA-/Vereinsspielpläne.
+DESCRIPTION:FC Bayern München – UEFA Champions League\, Ligaphase Spielt
+ ag 4. Quelle: offizielle UEFA-/Vereinsspielpläne.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -1734,7 +1840,8 @@ DTSTART:20261103T200000Z
 DTEND:20261103T220000Z
 SUMMARY:LASK – SK Slovan Bratislava
 LOCATION:Oberösterreich Arena
-DESCRIPTION:LASK – UEFA Champions League\, Ligaphase Spieltag 4. Quelle: offizielle UEFA-/Vereinsspielpläne.
+DESCRIPTION:LASK – UEFA Champions League\, Ligaphase Spieltag 4. Quelle: 
+ offizielle UEFA-/Vereinsspielpläne.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -1749,7 +1856,8 @@ DTSTART:20261124T174500Z
 DTEND:20261124T194500Z
 SUMMARY:FK Bodø/Glimt – LASK
 LOCATION:Aspmyra Stadion
-DESCRIPTION:LASK – UEFA Champions League\, Ligaphase Spieltag 5. Quelle: offizielle UEFA-/Vereinsspielpläne.
+DESCRIPTION:LASK – UEFA Champions League\, Ligaphase Spieltag 5. Quelle: 
+ offizielle UEFA-/Vereinsspielpläne.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -1764,7 +1872,8 @@ DTSTART:20261125T200000Z
 DTEND:20261125T220000Z
 SUMMARY:OSC Lille – FC Bayern München
 LOCATION:Decathlon Arena – Stade Pierre-Mauroy
-DESCRIPTION:FC Bayern München – UEFA Champions League\, Ligaphase Spieltag 5. Quelle: offizielle UEFA-/Vereinsspielpläne.
+DESCRIPTION:FC Bayern München – UEFA Champions League\, Ligaphase Spielt
+ ag 5. Quelle: offizielle UEFA-/Vereinsspielpläne.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -1779,7 +1888,8 @@ DTSTART:20261208T200000Z
 DTEND:20261208T220000Z
 SUMMARY:FC Bayern München – Slavia Prag
 LOCATION:Allianz Arena
-DESCRIPTION:FC Bayern München – UEFA Champions League\, Ligaphase Spieltag 6. Quelle: offizielle UEFA-/Vereinsspielpläne.
+DESCRIPTION:FC Bayern München – UEFA Champions League\, Ligaphase Spielt
+ ag 6. Quelle: offizielle UEFA-/Vereinsspielpläne.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -1794,7 +1904,8 @@ DTSTART:20261209T200000Z
 DTEND:20261209T220000Z
 SUMMARY:LASK – Fenerbahçe
 LOCATION:Oberösterreich Arena
-DESCRIPTION:LASK – UEFA Champions League\, Ligaphase Spieltag 6. Quelle: offizielle UEFA-/Vereinsspielpläne.
+DESCRIPTION:LASK – UEFA Champions League\, Ligaphase Spieltag 6. Quelle: 
+ offizielle UEFA-/Vereinsspielpläne.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -1809,7 +1920,8 @@ DTSTART:20270119T200000Z
 DTEND:20270119T220000Z
 SUMMARY:Real Madrid – LASK
 LOCATION:Bernabéu
-DESCRIPTION:LASK – UEFA Champions League\, Ligaphase Spieltag 7. Quelle: offizielle UEFA-/Vereinsspielpläne.
+DESCRIPTION:LASK – UEFA Champions League\, Ligaphase Spieltag 7. Quelle: 
+ offizielle UEFA-/Vereinsspielpläne.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -1824,7 +1936,8 @@ DTSTART:20270120T200000Z
 DTEND:20270120T220000Z
 SUMMARY:Manchester United – FC Bayern München
 LOCATION:Old Trafford
-DESCRIPTION:FC Bayern München – UEFA Champions League\, Ligaphase Spieltag 7. Quelle: offizielle UEFA-/Vereinsspielpläne.
+DESCRIPTION:FC Bayern München – UEFA Champions League\, Ligaphase Spielt
+ ag 7. Quelle: offizielle UEFA-/Vereinsspielpläne.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -1839,7 +1952,8 @@ DTSTART:20270127T200000Z
 DTEND:20270127T220000Z
 SUMMARY:FC Bayern München – Real Betis
 LOCATION:Allianz Arena
-DESCRIPTION:FC Bayern München – UEFA Champions League\, Ligaphase Spieltag 8. Quelle: offizielle UEFA-/Vereinsspielpläne.
+DESCRIPTION:FC Bayern München – UEFA Champions League\, Ligaphase Spielt
+ ag 8. Quelle: offizielle UEFA-/Vereinsspielpläne.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -1854,7 +1968,8 @@ DTSTART:20270127T200000Z
 DTEND:20270127T220000Z
 SUMMARY:LASK – FC Porto
 LOCATION:Oberösterreich Arena
-DESCRIPTION:LASK – UEFA Champions League\, Ligaphase Spieltag 8. Quelle: offizielle UEFA-/Vereinsspielpläne.
+DESCRIPTION:LASK – UEFA Champions League\, Ligaphase Spieltag 8. Quelle: 
+ offizielle UEFA-/Vereinsspielpläne.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -1869,7 +1984,8 @@ DTSTART:20261028T194500Z
 DTEND:20261028T214500Z
 SUMMARY:FC Bayern München – 1. FC Magdeburg
 LOCATION:Allianz Arena
-DESCRIPTION:FC Bayern München – DFB-Pokal, 2. Runde. Quelle: offizieller Vereinsspielplan.
+DESCRIPTION:FC Bayern München – DFB-Pokal, 2. Runde. Quelle: offizieller
+  Vereinsspielplan.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -1884,7 +2000,8 @@ DTSTART:20261028T193000Z
 DTEND:20261028T213000Z
 SUMMARY:LASK – SV Oberbank Ried
 LOCATION:Raiffeisen Arena
-DESCRIPTION:LASK – UNIQA ÖFB-Cup, Achtelfinale. Quelle: offizieller Vereinsspielplan.
+DESCRIPTION:LASK – UNIQA ÖFB-Cup, Achtelfinale. Quelle: offizieller Vere
+ insspielplan.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -1899,7 +2016,8 @@ DTSTART:20270206T190000Z
 DTEND:20270206T210000Z
 SUMMARY:SV Green Campus Garsten – ASKÖ DONAU Linz
 LOCATION:DietachArena
-DESCRIPTION:ASKÖ DONAU Linz – Testspiel. Quelle: offizieller ÖFB-Spielplan.
+DESCRIPTION:ASKÖ DONAU Linz – Testspiel. Quelle: offizieller ÖFB-Spielp
+ lan.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -1914,7 +2032,8 @@ DTSTART:20261002T153000Z
 DTEND:20261002T173000Z
 SUMMARY:FC Red Bull Salzburg – FC Blau-Weiß Linz
 LOCATION:Deisl Kies Arena Pischelsdorf
-DESCRIPTION:FC Blau-Weiß Linz – Testspiel. Quelle: offizieller Vereinsspielplan.
+DESCRIPTION:FC Blau-Weiß Linz – Testspiel. Quelle: offizieller Vereinssp
+ ielplan.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -1939,17 +2058,20 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:oefb-match-4198332@fussball-kalender.julian
-DTSTAMP:20261010T082600Z
+DTSTAMP:20261017T081125Z
 DTSTART:20270226T190000Z
 DTEND:20270226T210000Z
 SUMMARY:SPG Allhaming/Weißkirchen Juniors 1b – ASKÖ DONAU Linz
-LOCATION:SparkassenArena Allhaming
-DESCRIPTION:ASKÖ DONAU Linz – Testspiel. Quelle: offizieller ÖFB-Spielplan.
+LOCATION:Sportpark am Weyerbach-Weißkirchen
+DESCRIPTION:ASKÖ DONAU Linz – Testspiel. Quelle: offizieller ÖFB-Spielp
+ lan.
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:SPG Allhaming/Weißkirchen Juniors 1b – ASKÖ DONAU Linz
 END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261017T081125Z
 END:VEVENT
 END:VCALENDAR
