@@ -9,680 +9,825 @@ REFRESH-INTERVAL;VALUE=DURATION:P7D
 X-PUBLISHED-TTL:P7D
 BEGIN:VEVENT
 UID:6b7e6c4a@fussball-kalender.julian
-DTSTAMP:20260711T120102Z
+DTSTAMP:20261018T063616Z
 DTSTART:20260711T150000Z
 DTEND:20260711T170000Z
-SUMMARY:Puskás FC – FC Blau-Weiß Linz
+SUMMARY:Puskás FC – FC Blau-Weiß Linz (1:1)
 LOCATION:Bad Wimsbach
-DESCRIPTION:Blau-Weiß Linz – Testspiel. Quelle: offizieller Vereinsspiel
- plan.
+DESCRIPTION:Blau-Weiß Linz – Testspiel. Quelle: offizieller Vereinsspie
+ lplan.\nEndstand: 1:1. Ergebnisquelle: https://blauweiss-linz.at/profis/ 
+ (geprüft am 18.10.2026).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Puskás FC – FC Blau-Weiß Linz
 END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261018T063616Z
 END:VEVENT
 BEGIN:VEVENT
 UID:9d689a32@fussball-kalender.julian
-DTSTAMP:20260711T120102Z
+DTSTAMP:20261018T063616Z
 DTSTART:20260712T083000Z
 DTEND:20260712T103000Z
-SUMMARY:SPG Pregarten – FC Blau-Weiß Linz
+SUMMARY:SPG Pregarten – FC Blau-Weiß Linz (0:2)
 LOCATION:#glaubandich Arena Pregarten
-DESCRIPTION:Blau-Weiß Linz – Testspiel. Quelle: offizieller Vereinsspiel
- plan.
+DESCRIPTION:Blau-Weiß Linz – Testspiel. Quelle: offizieller Vereinsspie
+ lplan.\nEndstand: 0:2. Ergebnisquelle: https://blauweiss-linz.at/profis/ 
+ (geprüft am 18.10.2026).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:SPG Pregarten – FC Blau-Weiß Linz
 END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261018T063616Z
 END:VEVENT
 BEGIN:VEVENT
 UID:3256461b@fussball-kalender.julian
-DTSTAMP:20260711T120102Z
+DTSTAMP:20261018T063616Z
 DTSTART:20260714T173000Z
 DTEND:20260714T193000Z
-SUMMARY:LASK – Fenerbahçe
+SUMMARY:LASK – Fenerbahçe (1:2)
 LOCATION:Raiffeisen Arena
-DESCRIPTION:LASK – Testspiel. Quelle: offizieller Vereinsspielplan.
+DESCRIPTION:LASK – Testspiel. Quelle: offizieller Vereinsspielplan.\nEnd
+ stand: 1:2. Ergebnisquelle: https://www.lask.at/de/f/matches/pros/fixture
+ s/2026-2027 (geprüft am 18.10.2026).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:LASK – Fenerbahçe
 END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261018T063616Z
 END:VEVENT
 BEGIN:VEVENT
 UID:619ed30f@fussball-kalender.julian
-DTSTAMP:20260711T120102Z
+DTSTAMP:20261018T063616Z
 DTSTART:20260718T133000Z
 DTEND:20260718T153000Z
-SUMMARY:LASK – Fortuna Düsseldorf
+SUMMARY:LASK – Fortuna Düsseldorf (2:0)
 LOCATION:Raiffeisen Arena
-DESCRIPTION:LASK – Testspiel. Quelle: offizieller Vereinsspielplan.
+DESCRIPTION:LASK – Testspiel. Quelle: offizieller Vereinsspielplan.\nEnd
+ stand: 2:0. Ergebnisquelle: https://www.lask.at/de/f/matches/pros/fixture
+ s/2026-2027 (geprüft am 18.10.2026).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:LASK – Fortuna Düsseldorf
 END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261018T063616Z
 END:VEVENT
 BEGIN:VEVENT
 UID:b50fea10@fussball-kalender.julian
-DTSTAMP:20260711T120102Z
+DTSTAMP:20261018T063616Z
 DTSTART:20260718T160000Z
 DTEND:20260718T180000Z
-SUMMARY:FC Blau-Weiß Linz – Eintracht Braunschweig
+SUMMARY:FC Blau-Weiß Linz – Eintracht Braunschweig (1:1)
 LOCATION:Hofmann Personal Stadion
-DESCRIPTION:Blau-Weiß Linz – Testspiel. Quelle: offizieller Vereinsspiel
- plan.
+DESCRIPTION:Blau-Weiß Linz – Testspiel. Quelle: offizieller Vereinsspie
+ lplan.\nEndstand: 1:1. Ergebnisquelle: https://blauweiss-linz.at/profis/ 
+ (geprüft am 18.10.2026).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:FC Blau-Weiß Linz – Eintracht Braunschweig
 END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261018T063616Z
 END:VEVENT
 BEGIN:VEVENT
 UID:b7b7afef@fussball-kalender.julian
-DTSTAMP:20260711T120102Z
+DTSTAMP:20261018T063616Z
 DTSTART:20260724T173000Z
 DTEND:20260724T193000Z
-SUMMARY:Union Raiffeisen Gurten – FC Blau-Weiß Linz
+SUMMARY:Union Raiffeisen Gurten – FC Blau-Weiß Linz (1:3)
 LOCATION:Park21-Arena Gurten
-DESCRIPTION:Blau-Weiß Linz – ÖFB-Cup. Quelle: offizieller Vereinsspielp
- lan.
+DESCRIPTION:Blau-Weiß Linz – ÖFB-Cup. Quelle: offizieller Vereinsspiel
+ plan.\nEndstand: 1:3. Ergebnisquelle: https://blauweiss-linz.at/profis/ (
+ geprüft am 18.10.2026).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Union Raiffeisen Gurten – FC Blau-Weiß Linz
 END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261018T063616Z
 END:VEVENT
 BEGIN:VEVENT
 UID:79848f48@fussball-kalender.julian
-DTSTAMP:20260711T120102Z
+DTSTAMP:20261018T063616Z
 DTSTART:20260725T133000Z
 DTEND:20260725T153000Z
-SUMMARY:SV Wehen Wiesbaden – FC Bayern München
+SUMMARY:SV Wehen Wiesbaden – FC Bayern München (2:1)
 LOCATION:Brita-Arena\, Wiesbaden
-DESCRIPTION:FC Bayern München – Testspiel. Quelle: offizieller Vereinssp
- ielplan.
+DESCRIPTION:FC Bayern München – Testspiel. Quelle: offizieller Vereinss
+ pielplan.\nEndstand: 2:1. Ergebnisquelle: https://fcbayern.com/en/match-c
+ enter/matchplan (geprüft am 18.10.2026).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:SV Wehen Wiesbaden – FC Bayern München
 END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261018T063616Z
 END:VEVENT
 BEGIN:VEVENT
 UID:c45e627a@fussball-kalender.julian
-DTSTAMP:20260711T120102Z
+DTSTAMP:20261018T063616Z
 DTSTART:20260725T160000Z
 DTEND:20260725T180000Z
-SUMMARY:SC Kalsdorf – LASK
+SUMMARY:SC Kalsdorf – LASK (0:7)
 LOCATION:Sportplatz Kalsdorf
-DESCRIPTION:LASK – ÖFB-Cup. Quelle: offizieller Vereinsspielplan.
+DESCRIPTION:LASK – ÖFB-Cup. Quelle: offizieller Vereinsspielplan.\nEnds
+ tand: 0:7. Ergebnisquelle: https://www.lask.at/de/f/matches/pros/fixtures
+ /2026-2027 (geprüft am 18.10.2026).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:SC Kalsdorf – LASK
 END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261018T063616Z
 END:VEVENT
 BEGIN:VEVENT
 UID:5d6cfa44@fussball-kalender.julian
-DTSTAMP:20260718T084215Z
+DTSTAMP:20261018T063616Z
 DTSTART:20260730T160000Z
 DTEND:20260730T180000Z
-SUMMARY:FC Rottach-Egern – FC Bayern München
+SUMMARY:FC Rottach-Egern – FC Bayern München (0:15)
 LOCATION:Sportplatz Birkenmoos
-DESCRIPTION:FC Bayern München – Testspiel. Quelle: offizieller Vereinssp
- ielplan.
+DESCRIPTION:FC Bayern München – Testspiel. Quelle: offizieller Vereinss
+ pielplan.\nEndstand: 0:15. Ergebnisquelle: https://fcbayern.com/en/match-
+ center/matchplan (geprüft am 18.10.2026).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:FC Rottach-Egern – FC Bayern München
 END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261018T063616Z
 END:VEVENT
 BEGIN:VEVENT
 UID:63353a78@fussball-kalender.julian
-DTSTAMP:20260711T120102Z
+DTSTAMP:20261018T063616Z
 DTSTART:20260731T163000Z
 DTEND:20260731T183000Z
-SUMMARY:Young Violets Austria Wien – FC Blau-Weiß Linz
+SUMMARY:Young Violets Austria Wien – FC Blau-Weiß Linz (0:3)
 LOCATION:Generali Arena
-DESCRIPTION:Blau-Weiß Linz – 2. Liga. Quelle: offizieller Vereinsspielpl
- an.
+DESCRIPTION:Blau-Weiß Linz – 2. Liga. Quelle: offizieller Vereinsspielp
+ lan.\nEndstand: 0:3. Ergebnisquelle: https://blauweiss-linz.at/profis/ (g
+ eprüft am 18.10.2026).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Young Violets Austria Wien – FC Blau-Weiß Linz
 END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261018T063616Z
 END:VEVENT
 BEGIN:VEVENT
 UID:f55c12e6@fussball-kalender.julian
-DTSTAMP:20260711T120102Z
+DTSTAMP:20261018T063616Z
 DTSTART:20260731T173000Z
 DTEND:20260731T193000Z
-SUMMARY:LASK – GAK
+SUMMARY:LASK – GAK (3:0)
 LOCATION:Raiffeisen Arena
-DESCRIPTION:LASK – Bundesliga. Quelle: offizieller Vereinsspielplan.
+DESCRIPTION:LASK – Bundesliga. Quelle: offizieller Vereinsspielplan.\nEn
+ dstand: 3:0. Ergebnisquelle: https://www.lask.at/de/f/matches/pros/fixtur
+ es/2026-2027 (geprüft am 18.10.2026).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:LASK – GAK
 END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261018T063616Z
 END:VEVENT
 BEGIN:VEVENT
 UID:114e4cca@fussball-kalender.julian
-DTSTAMP:20260711T120102Z
+DTSTAMP:20261018T063616Z
 DTSTART:20260804T110000Z
 DTEND:20260804T130000Z
-SUMMARY:Jeju SK FC – FC Bayern München
+SUMMARY:Jeju SK FC – FC Bayern München (1:2)
 LOCATION:Jeju World Cup Stadium
-DESCRIPTION:FC Bayern München – Audi Football Summit. Quelle: offizielle
- r Vereinsspielplan.
+DESCRIPTION:FC Bayern München – Audi Football Summit. Quelle: offiziell
+ er Vereinsspielplan.\nEndstand: 1:2. Ergebnisquelle: https://fcbayern.com
+ /en/match-center/matchplan (geprüft am 18.10.2026).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Jeju SK FC – FC Bayern München
 END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261018T063616Z
 END:VEVENT
 BEGIN:VEVENT
 UID:d26ff74a@fussball-kalender.julian
-DTSTAMP:20260711T120102Z
+DTSTAMP:20261018T063616Z
 DTSTART:20260807T120000Z
 DTEND:20260807T140000Z
-SUMMARY:FC Bayern München – Aston Villa
+SUMMARY:FC Bayern München – Aston Villa (2:1)
 LOCATION:Kai Tak Sports Park\, Hongkong
-DESCRIPTION:FC Bayern München – Audi Football Summit. Quelle: offizielle
- r Vereinsspielplan.
+DESCRIPTION:FC Bayern München – Audi Football Summit. Quelle: offiziell
+ er Vereinsspielplan.\nEndstand: 2:1. Ergebnisquelle: https://fcbayern.com
+ /en/match-center/matchplan (geprüft am 18.10.2026).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:FC Bayern München – Aston Villa
 END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261018T063616Z
 END:VEVENT
 BEGIN:VEVENT
 UID:395b9cf5@fussball-kalender.julian
-DTSTAMP:20260711T120102Z
+DTSTAMP:20261018T063616Z
 DTSTART:20260807T183000Z
 DTEND:20260807T203000Z
-SUMMARY:FC Blau-Weiß Linz – FC Wacker Innsbruck
+SUMMARY:FC Blau-Weiß Linz – FC Wacker Innsbruck (3:0)
 LOCATION:Hofmann Personal Stadion
-DESCRIPTION:Blau-Weiß Linz – 2. Liga. Quelle: offizieller Vereinsspielpl
- an.
+DESCRIPTION:Blau-Weiß Linz – 2. Liga. Quelle: offizieller Vereinsspielp
+ lan.\nEndstand: 3:0. Ergebnisquelle: https://blauweiss-linz.at/profis/ (g
+ eprüft am 18.10.2026).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:FC Blau-Weiß Linz – FC Wacker Innsbruck
 END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261018T063616Z
 END:VEVENT
 BEGIN:VEVENT
 UID:f3d648cd@fussball-kalender.julian
-DTSTAMP:20260711T120102Z
+DTSTAMP:20261018T063616Z
 DTSTART:20260809T170000Z
 DTEND:20260809T190000Z
-SUMMARY:FK Austria Wien – LASK
+SUMMARY:FK Austria Wien – LASK (0:2)
 LOCATION:Generali-Arena
-DESCRIPTION:LASK – Bundesliga. Quelle: offizieller Vereinsspielplan.
+DESCRIPTION:LASK – Bundesliga. Quelle: offizieller Vereinsspielplan.\nEn
+ dstand: 0:2. Ergebnisquelle: https://www.lask.at/de/f/matches/pros/fixtur
+ es/2026-2027 (geprüft am 18.10.2026).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:FK Austria Wien – LASK
 END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261018T063616Z
 END:VEVENT
 BEGIN:VEVENT
 UID:32553858@fussball-kalender.julian
-DTSTAMP:20260725T083611Z
+DTSTAMP:20261018T063616Z
 DTSTART:20260814T183000Z
 DTEND:20260814T203000Z
-SUMMARY:SKN St. Pölten – FC Blau-Weiß Linz
+SUMMARY:SKN St. Pölten – FC Blau-Weiß Linz (0:1)
 LOCATION:NV Arena
-DESCRIPTION:Blau-Weiß Linz – 2. Liga. Quelle: offizieller Vereinsspielpl
- an.
+DESCRIPTION:Blau-Weiß Linz – 2. Liga. Quelle: offizieller Vereinsspielp
+ lan.\nEndstand: 0:1. Ergebnisquelle: https://blauweiss-linz.at/profis/ (g
+ eprüft am 18.10.2026).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:SKN St. Pölten – FC Blau-Weiß Linz
 END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261018T063616Z
 END:VEVENT
 BEGIN:VEVENT
 UID:be527352@fussball-kalender.julian
-DTSTAMP:20260711T120102Z
+DTSTAMP:20261018T063616Z
 DTSTART:20260814T173000Z
 DTEND:20260814T193000Z
-SUMMARY:LASK – SV Oberbank Ried
+SUMMARY:LASK – SV Oberbank Ried (4:1)
 LOCATION:Raiffeisen Arena
-DESCRIPTION:LASK – Bundesliga. Quelle: offizieller Vereinsspielplan.
+DESCRIPTION:LASK – Bundesliga. Quelle: offizieller Vereinsspielplan.\nEn
+ dstand: 4:1. Ergebnisquelle: https://www.lask.at/de/f/matches/pros/fixtur
+ es/2026-2027 (geprüft am 18.10.2026).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:LASK – SV Oberbank Ried
 END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261018T063616Z
 END:VEVENT
 BEGIN:VEVENT
 UID:c23e4eb2@fussball-kalender.julian
-DTSTAMP:20260711T120102Z
+DTSTAMP:20261018T063616Z
 DTSTART:20260815T133000Z
 DTEND:20260815T153000Z
-SUMMARY:FC Bayern München – RB Leipzig
+SUMMARY:FC Bayern München – RB Leipzig (3:1)
 LOCATION:Allianz Arena
-DESCRIPTION:FC Bayern München – Telekom Cup. Quelle: offizieller Vereins
- spielplan.
+DESCRIPTION:FC Bayern München – Telekom Cup. Quelle: offizieller Verein
+ sspielplan.\nEndstand: 3:1. Ergebnisquelle: https://fcbayern.com/en/match
+ -center/matchplan (geprüft am 18.10.2026).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:FC Bayern München – RB Leipzig
 END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261018T063616Z
 END:VEVENT
 BEGIN:VEVENT
 UID:bayern-heidenheim-20260818@fussball-kalender.julian
-DTSTAMP:20260829T083754Z
+DTSTAMP:20261018T063616Z
 DTSTART:20260818T160000Z
 DTEND:20260818T180000Z
-SUMMARY:1. FC Heidenheim 1846 – FC Bayern München
+SUMMARY:1. FC Heidenheim 1846 – FC Bayern München (2:4)
 LOCATION:Voith-Arena\, Heidenheim
-DESCRIPTION:FC Bayern München – Testspiel. Quelle: offizieller Vereinssp
- ielplan.
+DESCRIPTION:FC Bayern München – Testspiel. Quelle: offizieller Vereinss
+ pielplan.\nEndstand: 2:4. Ergebnisquelle: https://fcbayern.com/en/match-c
+ enter/matchplan (geprüft am 18.10.2026).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:1. FC Heidenheim 1846 – FC Bayern München
 END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261018T063616Z
 END:VEVENT
 BEGIN:VEVENT
 UID:74de21ac@fussball-kalender.julian
-DTSTAMP:20260808T080832Z
+DTSTAMP:20261018T063616Z
 DTSTART:20260819T190000Z
 DTEND:20260819T210000Z
-SUMMARY:Celtic FC – LASK
+SUMMARY:Celtic FC – LASK (3:0)
 LOCATION:Celtic Park
-DESCRIPTION:LASK – UEFA Champions League Play-off Hinspiel. Quelle: offiz
- ieller Vereinsspielplan.
+DESCRIPTION:LASK – UEFA Champions League Play-off Hinspiel. Quelle: offi
+ zieller Vereinsspielplan.\nEndstand: 3:0. Ergebnisquelle: https://www.las
+ k.at/de/f/matches/pros/fixtures/2026-2027 (geprüft am 18.10.2026).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Celtic FC – LASK
 END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261018T063616Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2f85be4d@fussball-kalender.julian
-DTSTAMP:20260725T083611Z
+DTSTAMP:20261018T063616Z
 DTSTART:20260823T083000Z
 DTEND:20260823T103000Z
-SUMMARY:FC Blau-Weiß Linz – ASK Voitsberg
+SUMMARY:FC Blau-Weiß Linz – ASK Voitsberg (5:1)
 LOCATION:Hofmann Personal Stadion
-DESCRIPTION:Blau-Weiß Linz – 2. Liga. Quelle: offizieller Vereinsspielpl
- an.
+DESCRIPTION:Blau-Weiß Linz – 2. Liga. Quelle: offizieller Vereinsspielp
+ lan.\nEndstand: 5:1. Ergebnisquelle: https://blauweiss-linz.at/profis/ (g
+ eprüft am 18.10.2026).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:FC Blau-Weiß Linz – ASK Voitsberg
 END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261018T063616Z
 END:VEVENT
 BEGIN:VEVENT
 UID:5ae9f3ac@fussball-kalender.julian
-DTSTAMP:20260808T080832Z
+DTSTAMP:20261018T063616Z
 DTSTART:20260901T173000Z
 DTEND:20260901T193000Z
-SUMMARY:RZ Pellets WAC – LASK
+SUMMARY:RZ Pellets WAC – LASK (1:3)
 LOCATION:Lavanttal-Arena
-DESCRIPTION:LASK – Bundesliga. Quelle: offizieller Vereinsspielplan.
+DESCRIPTION:LASK – Bundesliga. Quelle: offizieller Vereinsspielplan.\nEn
+ dstand: 1:3. Ergebnisquelle: https://www.lask.at/de/f/matches/pros/fixtur
+ es/2026-2027 (geprüft am 18.10.2026).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:RZ Pellets WAC – LASK
 END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261018T063616Z
 END:VEVENT
 BEGIN:VEVENT
 UID:e90e2c22@fussball-kalender.julian
-DTSTAMP:20260711T120102Z
+DTSTAMP:20261018T063616Z
 DTSTART:20260822T183000Z
 DTEND:20260822T203000Z
-SUMMARY:Borussia Dortmund – FC Bayern München
+SUMMARY:Borussia Dortmund – FC Bayern München (1:2)
 LOCATION:Signal Iduna Park
-DESCRIPTION:FC Bayern München – Supercup. Quelle: offizieller Vereinsspi
- elplan.
+DESCRIPTION:FC Bayern München – Supercup. Quelle: offizieller Vereinssp
+ ielplan.\nEndstand: 1:2. Ergebnisquelle: https://fcbayern.com/de/club/erf
+ olge/deutscher-supercup/franz-beckenbauer-supercup-sieger-2026 (geprüft 
+ am 18.10.2026).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Borussia Dortmund – FC Bayern München
 END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261018T063616Z
 END:VEVENT
 BEGIN:VEVENT
 UID:b83fa762@fussball-kalender.julian
-DTSTAMP:20260808T080832Z
+DTSTAMP:20261018T063616Z
 DTSTART:20260825T190000Z
 DTEND:20260825T210000Z
-SUMMARY:LASK – Celtic FC
+SUMMARY:LASK – Celtic FC (5:1 n. V.)
 LOCATION:Oberösterreich Arena
-DESCRIPTION:LASK – UEFA Champions League Play-off Rückspiel. Quelle: off
- izieller Vereinsspielplan.
+DESCRIPTION:LASK – UEFA Champions League Play-off Rückspiel. Quelle: of
+ fizieller Vereinsspielplan.\nEndstand: 5:1 n. V.. Ergebnisquelle: https:/
+ /www.lask.at/de/m/matches/pros/uefa-champions-league/uefa-champions-leagu
+ e-play-off-rueckspiel (geprüft am 18.10.2026).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:LASK – Celtic FC
 END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261018T063616Z
 END:VEVENT
 BEGIN:VEVENT
 UID:764e8e51@fussball-kalender.julian
-DTSTAMP:20260711T120102Z
+DTSTAMP:20261018T063616Z
 DTSTART:20260828T163000Z
 DTEND:20260828T183000Z
-SUMMARY:KSV 1919 – FC Blau-Weiß Linz
+SUMMARY:KSV 1919 – FC Blau-Weiß Linz (2:1)
 LOCATION:Alpenstadion
-DESCRIPTION:Blau-Weiß Linz – 2. Liga. Quelle: offizieller Vereinsspielpl
- an.
+DESCRIPTION:Blau-Weiß Linz – 2. Liga. Quelle: offizieller Vereinsspielp
+ lan.\nEndstand: 2:1. Ergebnisquelle: https://blauweiss-linz.at/profis/ (g
+ eprüft am 18.10.2026).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:KSV 1919 – FC Blau-Weiß Linz
 END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261018T063616Z
 END:VEVENT
 BEGIN:VEVENT
 UID:616f1e03@fussball-kalender.julian
-DTSTAMP:20260711T120102Z
+DTSTAMP:20261018T063616Z
 DTSTART:20260828T183000Z
 DTEND:20260828T203000Z
-SUMMARY:FC Bayern München – VfB Stuttgart
+SUMMARY:FC Bayern München – VfB Stuttgart (5:1)
 LOCATION:Allianz Arena
-DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereinss
- pielplan.
+DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereins
+ spielplan.\nEndstand: 5:1. Ergebnisquelle: https://fcbayern.com/de/match-
+ center/matchplan/profis/bundesliga/2026-2027 (geprüft am 18.10.2026).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:FC Bayern München – VfB Stuttgart
 END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261018T063616Z
 END:VEVENT
 BEGIN:VEVENT
 UID:f2e1068a@fussball-kalender.julian
-DTSTAMP:20260711T120102Z
+DTSTAMP:20261018T063616Z
 DTSTART:20260829T173000Z
 DTEND:20260829T193000Z
-SUMMARY:LASK – SCR Altach
+SUMMARY:LASK – SCR Altach (3:0)
 LOCATION:Raiffeisen Arena
-DESCRIPTION:LASK – Bundesliga. Quelle: offizieller Vereinsspielplan.
+DESCRIPTION:LASK – Bundesliga. Quelle: offizieller Vereinsspielplan.\nEn
+ dstand: 3:0. Ergebnisquelle: https://www.lask.at/de/f/matches/pros/fixtur
+ es/2026-2027 (geprüft am 18.10.2026).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:LASK – SCR Altach
 END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261018T063616Z
 END:VEVENT
 BEGIN:VEVENT
 UID:1fa6b7c2@fussball-kalender.julian
-DTSTAMP:20260808T080832Z
+DTSTAMP:20261018T063616Z
 DTSTART:20260905T133000Z
 DTEND:20260905T153000Z
-SUMMARY:FC Blau-Weiß Linz – FC Wacker Innsbruck
+SUMMARY:FC Blau-Weiß Linz – FC Wacker Innsbruck (2:3)
 LOCATION:Hofmann Personal Stadion
-DESCRIPTION:Blau-Weiß Linz – ÖFB-Cup. Quelle: offizieller Vereinsspielp
- lan.
+DESCRIPTION:Blau-Weiß Linz – ÖFB-Cup. Quelle: offizieller Vereinsspiel
+ plan.\nEndstand: 2:3. Ergebnisquelle: https://blauweiss-linz.at/profis/ (
+ geprüft am 18.10.2026).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:FC Blau-Weiß Linz – FC Wacker Innsbruck
 END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261018T063616Z
 END:VEVENT
 BEGIN:VEVENT
 UID:c37d9e54@fussball-kalender.julian
-DTSTAMP:20260808T080832Z
+DTSTAMP:20261018T063616Z
 DTSTART:20260905T133000Z
 DTEND:20260905T153000Z
-SUMMARY:Deutschlandsberger SC – LASK
+SUMMARY:Deutschlandsberger SC – LASK (1:6)
 LOCATION:Koralmstadion
-DESCRIPTION:LASK – ÖFB-Cup. Quelle: offizieller Vereinsspielplan.
+DESCRIPTION:LASK – ÖFB-Cup. Quelle: offizieller Vereinsspielplan.\nEnds
+ tand: 1:6. Ergebnisquelle: https://www.lask.at/de/f/matches/pros/fixtures
+ /2026-2027 (geprüft am 18.10.2026).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Deutschlandsberger SC – LASK
 END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261018T063616Z
 END:VEVENT
 BEGIN:VEVENT
 UID:5c875ec1@fussball-kalender.julian
-DTSTAMP:20260711T120102Z
+DTSTAMP:20261018T063616Z
 DTSTART:20260902T184500Z
 DTEND:20260902T204500Z
-SUMMARY:VfL Osnabrück – FC Bayern München
+SUMMARY:VfL Osnabrück – FC Bayern München (1:4)
 LOCATION:Bremer Brücke
-DESCRIPTION:FC Bayern München – DFB-Pokal. Quelle: offizieller Vereinssp
- ielplan.
+DESCRIPTION:FC Bayern München – DFB-Pokal. Quelle: offizieller Vereinss
+ pielplan.\nEndstand: 1:4. Ergebnisquelle: https://fcbayern.com/de/news/sp
+ ielberichte/2026/09/spielbericht-dfb-pokal-vfl-osnabrueck-fc-bayern (gepr
+ üft am 18.10.2026).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:VfL Osnabrück – FC Bayern München
 END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261018T063616Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2865b986@fussball-kalender.julian
-DTSTAMP:20260718T084215Z
+DTSTAMP:20261018T063616Z
 DTSTART:20260905T163000Z
 DTEND:20260905T183000Z
-SUMMARY:FC Schalke 04 – FC Bayern München
+SUMMARY:FC Schalke 04 – FC Bayern München (0:0)
 LOCATION:VELTINS-Arena
-DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereinss
- pielplan.
+DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereins
+ spielplan.\nEndstand: 0:0. Ergebnisquelle: https://fcbayern.com/de/match-
+ center/matchplan/profis/bundesliga/2026-2027 (geprüft am 18.10.2026).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:FC Schalke 04 – FC Bayern München
 END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261018T063616Z
 END:VEVENT
 BEGIN:VEVENT
 UID:a626016c@fussball-kalender.julian
-DTSTAMP:20260711T120102Z
+DTSTAMP:20261018T063616Z
 DTSTART:20260912T153000Z
 DTEND:20260912T173000Z
-SUMMARY:FC Blau-Weiß Linz – FC Hertha Wels
+SUMMARY:FC Blau-Weiß Linz – FC Hertha Wels (4:1)
 LOCATION:Hofmann Personal Stadion
-DESCRIPTION:Blau-Weiß Linz – 2. Liga. Quelle: offizieller Vereinsspielpl
- an.
+DESCRIPTION:Blau-Weiß Linz – 2. Liga. Quelle: offizieller Vereinsspielp
+ lan.\nEndstand: 4:1. Ergebnisquelle: https://blauweiss-linz.at/profis/ (g
+ eprüft am 18.10.2026).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:FC Blau-Weiß Linz – FC Hertha Wels
 END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261018T063616Z
 END:VEVENT
 BEGIN:VEVENT
 UID:7e620e14@fussball-kalender.julian
-DTSTAMP:20260718T084215Z
+DTSTAMP:20261018T063616Z
 DTSTART:20260913T153000Z
 DTEND:20260913T173000Z
-SUMMARY:SV Elversberg – FC Bayern München
+SUMMARY:SV Elversberg – FC Bayern München (1:2)
 LOCATION:URSAPHARM-Arena an der Kaiserlinde
-DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereinss
- pielplan.
+DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereins
+ spielplan.\nEndstand: 1:2. Ergebnisquelle: https://fcbayern.com/de/match-
+ center/matchplan/profis/bundesliga/2026-2027 (geprüft am 18.10.2026).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:SV Elversberg – FC Bayern München
 END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261018T063616Z
 END:VEVENT
 BEGIN:VEVENT
 UID:14f99564@fussball-kalender.julian
-DTSTAMP:20260822T083844Z
+DTSTAMP:20261018T063616Z
 DTSTART:20260913T150000Z
 DTEND:20260913T170000Z
-SUMMARY:SK Sturm Graz – LASK
+SUMMARY:SK Sturm Graz – LASK (2:1)
 LOCATION:Merkur Arena
-DESCRIPTION:LASK – Bundesliga. Quelle: offizieller Vereinsspielplan.
+DESCRIPTION:LASK – Bundesliga. Quelle: offizieller Vereinsspielplan.\nEn
+ dstand: 2:1. Ergebnisquelle: https://www.lask.at/de/f/matches/pros/fixtur
+ es/2026-2027 (geprüft am 18.10.2026).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:SK Sturm Graz – LASK
 END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261018T063616Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2332f64f@fussball-kalender.julian
-DTSTAMP:20260822T083844Z
+DTSTAMP:20261018T063616Z
 DTSTART:20260918T183000Z
 DTEND:20260918T203000Z
-SUMMARY:FC Blau-Weiß Linz – Admira Wacker
+SUMMARY:FC Blau-Weiß Linz – Admira Wacker (3:0)
 LOCATION:Hofmann Personal Stadion
-DESCRIPTION:Blau-Weiß Linz – 2. Liga. Quelle: offizieller Vereinsspielpl
- an.
+DESCRIPTION:Blau-Weiß Linz – 2. Liga. Quelle: offizieller Vereinsspielp
+ lan.\nEndstand: 3:0. Ergebnisquelle: https://blauweiss-linz.at/profis/ (g
+ eprüft am 18.10.2026).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:FC Blau-Weiß Linz – Admira Wacker
 END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261018T063616Z
 END:VEVENT
 BEGIN:VEVENT
 UID:5f547fe@fussball-kalender.julian
-DTSTAMP:20260718T084215Z
+DTSTAMP:20261018T063616Z
 DTSTART:20260918T183000Z
 DTEND:20260918T203000Z
-SUMMARY:FC Bayern München – 1. FC Union Berlin
+SUMMARY:FC Bayern München – 1. FC Union Berlin (7:0)
 LOCATION:Allianz Arena
-DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereinss
- pielplan.
+DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereins
+ spielplan.\nEndstand: 7:0. Ergebnisquelle: https://fcbayern.com/de/match-
+ center/matchplan/profis/bundesliga/2026-2027 (geprüft am 18.10.2026).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:FC Bayern München – 1. FC Union Berlin
 END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261018T063616Z
 END:VEVENT
 BEGIN:VEVENT
 UID:a18cf1a2@fussball-kalender.julian
-DTSTAMP:20260822T083844Z
+DTSTAMP:20261018T063616Z
 DTSTART:20260920T123000Z
 DTEND:20260920T143000Z
-SUMMARY:TSV Hartberg – LASK
+SUMMARY:TSV Hartberg – LASK (3:3)
 LOCATION:Profertil Arena
-DESCRIPTION:LASK – Bundesliga. Quelle: offizieller Vereinsspielplan.
+DESCRIPTION:LASK – Bundesliga. Quelle: offizieller Vereinsspielplan.\nEn
+ dstand: 3:3. Ergebnisquelle: https://www.lask.at/de/f/matches/pros/fixtur
+ es/2026-2027 (geprüft am 18.10.2026).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:TSV Hartberg – LASK
 END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261018T063616Z
 END:VEVENT
 BEGIN:VEVENT
 UID:5b8378b@fussball-kalender.julian
-DTSTAMP:20261017T081125Z
+DTSTAMP:20261018T063616Z
 DTSTART:20261009T163000Z
 DTEND:20261009T183000Z
-SUMMARY:SKU Amstetten – FC Blau-Weiß Linz
-LOCATION:Ertl Glas Stadion
-DESCRIPTION:Blau-Weiß Linz – 2. Liga. Quelle: offizieller Vereinsspielpl
- an.
+SUMMARY:SKU Amstetten – FC Blau-Weiß Linz (1:1)
+LOCATION:Ertl Glas Stadion
+DESCRIPTION:Blau-Weiß Linz – 2. Liga. Quelle: offizieller Vereinsspielp
+ lan.\nEndstand: 1:1. Ergebnisquelle: https://blauweiss-linz.at/profis/ (g
+ eprüft am 18.10.2026).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:SKU Amstetten – FC Blau-Weiß Linz
 END:VALARM
-SEQUENCE:1
-LAST-MODIFIED:20261017T081125Z
+SEQUENCE:2
+LAST-MODIFIED:20261018T063616Z
 END:VEVENT
 BEGIN:VEVENT
 UID:9061e28c@fussball-kalender.julian
-DTSTAMP:20260912T084334Z
+DTSTAMP:20261018T063616Z
 DTSTART:20261010T133000Z
 DTEND:20261010T153000Z
-SUMMARY:FC Augsburg – FC Bayern München
+SUMMARY:FC Augsburg – FC Bayern München (2:2)
 LOCATION:WWK Arena
-DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereinss
- pielplan.
+DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereins
+ spielplan.\nEndstand: 2:2. Ergebnisquelle: https://fcbayern.com/de/news/s
+ pielberichte/2026/10/spielbericht-bundesliga-fc-augsburg-fc-bayern (gepr
+ üft am 18.10.2026).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:FC Augsburg – FC Bayern München
 END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261018T063616Z
 END:VEVENT
 BEGIN:VEVENT
 UID:d73b7e64@fussball-kalender.julian
-DTSTAMP:20260905T084016Z
+DTSTAMP:20261018T063616Z
 DTSTART:20261011T150000Z
 DTEND:20261011T170000Z
-SUMMARY:LASK – SK Rapid
+SUMMARY:LASK – SK Rapid (0:2)
 LOCATION:Raiffeisen Arena
-DESCRIPTION:LASK – Bundesliga. Quelle: offizieller Vereinsspielplan.
+DESCRIPTION:LASK – Bundesliga. Quelle: offizieller Vereinsspielplan.\nEn
+ dstand: 0:2. Ergebnisquelle: https://www.lask.at/de/f/matches/pros/fixtur
+ es/2026-2027 (geprüft am 18.10.2026).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:LASK – SK Rapid
 END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261018T063616Z
 END:VEVENT
 BEGIN:VEVENT
 UID:18fe84d5@fussball-kalender.julian
-DTSTAMP:20260711T120102Z
+DTSTAMP:20261018T063616Z
 DTSTART:20261017T153000Z
 DTEND:20261017T173000Z
-SUMMARY:FC Blau-Weiß Linz – FC Liefering
+SUMMARY:FC Blau-Weiß Linz – FC Liefering (4:1)
 LOCATION:Hofmann Personal Stadion
-DESCRIPTION:Blau-Weiß Linz – 2. Liga. Quelle: offizieller Vereinsspielpl
- an.
+DESCRIPTION:Blau-Weiß Linz – 2. Liga. Quelle: offizieller Vereinsspielp
+ lan.\nEndstand: 4:1. Ergebnisquelle: https://blauweiss-linz.at/profis/ (g
+ eprüft am 18.10.2026).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:FC Blau-Weiß Linz – FC Liefering
 END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261018T063616Z
 END:VEVENT
 BEGIN:VEVENT
 UID:9b93916d@fussball-kalender.julian
-DTSTAMP:20260912T084334Z
+DTSTAMP:20261018T063616Z
 DTSTART:20261017T163000Z
 DTEND:20261017T183000Z
-SUMMARY:FC Bayern München – RB Leipzig
+SUMMARY:FC Bayern München – RB Leipzig (6:1)
 LOCATION:Allianz Arena
-DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereinss
- pielplan.
+DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereins
+ spielplan.\nEndstand: 6:1. Ergebnisquelle: https://fcbayern.com/de/news/2
+ 026/10/nachbericht-bundesliga-fc-bayern-rb-leipzig (geprüft am 18.10.202
+ 6).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:FC Bayern München – RB Leipzig
 END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261018T063616Z
 END:VEVENT
 BEGIN:VEVENT
 UID:8a7d60f0@fussball-kalender.julian
-DTSTAMP:20260905T084016Z
+DTSTAMP:20261018T063616Z
 DTSTART:20261017T150000Z
 DTEND:20261017T170000Z
-SUMMARY:SC Austria Lustenau – LASK
+SUMMARY:SC Austria Lustenau – LASK (0:4)
 LOCATION:Sun Minimeal Arena
-DESCRIPTION:LASK – Bundesliga. Quelle: offizieller Vereinsspielplan.
+DESCRIPTION:LASK – Bundesliga. Quelle: offizieller Vereinsspielplan.\nEn
+ dstand: 0:4. Ergebnisquelle: https://www.lask.at/de/f/matches/pros/fixtur
+ es/2026-2027 (geprüft am 18.10.2026).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:SC Austria Lustenau – LASK
 END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261018T063616Z
 END:VEVENT
 BEGIN:VEVENT
 UID:873450fb@fussball-kalender.julian
@@ -1307,115 +1452,143 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:oefb-match-4104636@fussball-kalender.julian
-DTSTAMP:20260829T131441Z
+DTSTAMP:20261018T063616Z
 DTSTART:20260904T161500Z
 DTEND:20260904T181500Z
-SUMMARY:Gallneukirchen – ASKÖ DONAU Linz
+SUMMARY:Gallneukirchen – ASKÖ DONAU Linz (0:1)
 LOCATION:Gusenpark Gallneukirchen
-DESCRIPTION:ASKÖ DONAU Linz – Landesliga Ost. Quelle: offizieller ÖFB-S
- pielplan.
+DESCRIPTION:ASKÖ DONAU Linz – Landesliga Ost. Quelle: offizieller ÖFB-
+ Spielplan.\nEndstand: 0:1. Ergebnisquelle: https://vereine.oefb.at/donaul
+ inz/Spielbericht/?Gallneukirchen-vs-ASKOE-DONAU-Linz&:s=4104636 (geprüft
+  am 18.10.2026).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Gallneukirchen – ASKÖ DONAU Linz
 END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261018T063616Z
 END:VEVENT
 BEGIN:VEVENT
 UID:oefb-match-4104593@fussball-kalender.julian
-DTSTAMP:20260829T131441Z
+DTSTAMP:20261018T063616Z
 DTSTART:20260911T163000Z
 DTEND:20260911T183000Z
-SUMMARY:ASKÖ DONAU Linz – ASKÖ SV Viktoria Marchtrenk
+SUMMARY:ASKÖ DONAU Linz – ASKÖ SV Viktoria Marchtrenk (3:1)
 LOCATION:LINZ AG Arena
-DESCRIPTION:ASKÖ DONAU Linz – Landesliga Ost. Quelle: offizieller ÖFB-S
- pielplan.
+DESCRIPTION:ASKÖ DONAU Linz – Landesliga Ost. Quelle: offizieller ÖFB-
+ Spielplan.\nEndstand: 3:1. Ergebnisquelle: https://vereine.oefb.at/donaul
+ inz/Spielbericht/?ASKOE-DONAU-Linz-vs-ASKOE-SV-Mauky-s-Verfliesung-Viktor
+ ia-Marchtrenk&:s=4104593 (geprüft am 18.10.2026).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:ASKÖ DONAU Linz – ASKÖ SV Viktoria Marchtrenk
 END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261018T063616Z
 END:VEVENT
 BEGIN:VEVENT
 UID:oefb-match-4104663@fussball-kalender.julian
-DTSTAMP:20260829T131441Z
+DTSTAMP:20261018T063616Z
 DTSTART:20260918T170000Z
 DTEND:20260918T190000Z
-SUMMARY:Oedt – ASKÖ DONAU Linz
+SUMMARY:Oedt – ASKÖ DONAU Linz (3:1)
 LOCATION:Transdanubia Sportanlage Oedt
-DESCRIPTION:ASKÖ DONAU Linz – Landesliga Ost. Quelle: offizieller ÖFB-S
- pielplan.
+DESCRIPTION:ASKÖ DONAU Linz – Landesliga Ost. Quelle: offizieller ÖFB-
+ Spielplan.\nEndstand: 3:1. Ergebnisquelle: https://vereine.oefb.at/donaul
+ inz/Spielbericht/?Oedt-vs-ASKOE-DONAU-Linz&:s=4104663 (geprüft am 18.10.
+ 2026).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Oedt – ASKÖ DONAU Linz
 END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261018T063616Z
 END:VEVENT
 BEGIN:VEVENT
 UID:oefb-match-4104614@fussball-kalender.julian
-DTSTAMP:20260829T131441Z
+DTSTAMP:20261018T063616Z
 DTSTART:20260925T163000Z
 DTEND:20260925T183000Z
-SUMMARY:ASKÖ DONAU Linz – BW Linz Amateure
+SUMMARY:ASKÖ DONAU Linz – BW Linz Amateure (3:1)
 LOCATION:LINZ AG Arena
-DESCRIPTION:ASKÖ DONAU Linz – Landesliga Ost. Quelle: offizieller ÖFB-S
- pielplan.
+DESCRIPTION:ASKÖ DONAU Linz – Landesliga Ost. Quelle: offizieller ÖFB-
+ Spielplan.\nEndstand: 3:1. Ergebnisquelle: https://vereine.oefb.at/donaul
+ inz/Spielbericht/?ASKOE-DONAU-Linz-vs-BW-Linz-Amat-&:s=4104614 (geprüft 
+ am 18.10.2026).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:ASKÖ DONAU Linz – BW Linz Amateure
 END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261018T063616Z
 END:VEVENT
 BEGIN:VEVENT
 UID:oefb-match-4104714@fussball-kalender.julian
-DTSTAMP:20260829T131441Z
+DTSTAMP:20261018T063616Z
 DTSTART:20261003T130000Z
 DTEND:20261003T150000Z
-SUMMARY:Metallbau Blauensteiner Naarn – ASKÖ DONAU Linz
+SUMMARY:Metallbau Blauensteiner Naarn – ASKÖ DONAU Linz (0:2)
 LOCATION:Donauwell-Stadion\, Naarn
-DESCRIPTION:ASKÖ DONAU Linz – Landesliga Ost. Quelle: offizieller ÖFB-S
- pielplan.
+DESCRIPTION:ASKÖ DONAU Linz – Landesliga Ost. Quelle: offizieller ÖFB-
+ Spielplan.\nEndstand: 0:2. Ergebnisquelle: https://vereine.oefb.at/donaul
+ inz/Spielbericht/?Metallbau-Blauensteiner-Naarn-vs-ASKOE-DONAU-Linz&:s=41
+ 04714 (geprüft am 18.10.2026).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Metallbau Blauensteiner Naarn – ASKÖ DONAU Linz
 END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261018T063616Z
 END:VEVENT
 BEGIN:VEVENT
 UID:oefb-match-4104572@fussball-kalender.julian
-DTSTAMP:20260829T131441Z
+DTSTAMP:20261018T063616Z
 DTSTART:20261009T163000Z
 DTEND:20261009T183000Z
-SUMMARY:ASKÖ DONAU Linz – SK St. Magdalena
+SUMMARY:ASKÖ DONAU Linz – SK St. Magdalena (4:1)
 LOCATION:LINZ AG Arena
-DESCRIPTION:ASKÖ DONAU Linz – Landesliga Ost. Quelle: offizieller ÖFB-S
- pielplan.
+DESCRIPTION:ASKÖ DONAU Linz – Landesliga Ost. Quelle: offizieller ÖFB-
+ Spielplan.\nEndstand: 4:1. Ergebnisquelle: https://vereine.oefb.at/donaul
+ inz/Spielbericht/?ASKOE-DONAU-Linz-vs-SK-St-Magdalena&:s=4104572 (geprüf
+ t am 18.10.2026).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:ASKÖ DONAU Linz – SK St. Magdalena
 END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261018T063616Z
 END:VEVENT
 BEGIN:VEVENT
 UID:oefb-match-4104548@fussball-kalender.julian
-DTSTAMP:20260829T131441Z
+DTSTAMP:20261018T063616Z
 DTSTART:20261017T133000Z
 DTEND:20261017T153000Z
-SUMMARY:SV Haka Traun – ASKÖ DONAU Linz
+SUMMARY:SV Haka Traun – ASKÖ DONAU Linz (0:7)
 LOCATION:Sportplatz Traun
-DESCRIPTION:ASKÖ DONAU Linz – Landesliga Ost. Quelle: offizieller ÖFB-S
- pielplan.
+DESCRIPTION:ASKÖ DONAU Linz – Landesliga Ost. Quelle: offizieller ÖFB-
+ Spielplan.\nEndstand: 0:7. Ergebnisquelle: https://vereine.oefb.at/donaul
+ inz/Spielbericht/?SV-Haka-Traun-vs-ASKOE-DONAU-Linz&:s=4104548 (geprüft 
+ am 18.10.2026).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:SV Haka Traun – ASKÖ DONAU Linz
 END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261018T063616Z
 END:VEVENT
 BEGIN:VEVENT
 UID:oefb-match-4104556@fussball-kalender.julian
@@ -1723,67 +1896,83 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ucl-lask-2026-md1@fussball-kalender.julian
-DTSTAMP:20260829T180109Z
+DTSTAMP:20261018T063616Z
 DTSTART:20260908T164500Z
 DTEND:20260908T184500Z
-SUMMARY:AEK Athen – LASK
+SUMMARY:AEK Athen – LASK (1:0)
 LOCATION:AEK Arena
-DESCRIPTION:LASK – UEFA Champions League\, Ligaphase Spieltag 1. Quelle: 
- offizielle UEFA-/Vereinsspielpläne.
+DESCRIPTION:LASK – UEFA Champions League\, Ligaphase Spieltag 1. Quelle:
+  offizielle UEFA-/Vereinsspielpläne.\nEndstand: 1:0. Ergebnisquelle: htt
+ ps://www.lask.at/de/f/matches/pros/fixtures/2026-2027 (geprüft am 18.10.
+ 2026).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:AEK Athen – LASK
 END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261018T063616Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ucl-bayern-2026-md1@fussball-kalender.julian
-DTSTAMP:20260829T180109Z
+DTSTAMP:20261018T063616Z
 DTSTART:20260910T190000Z
 DTEND:20260910T210000Z
-SUMMARY:FC Bayern München – FK Bodø/Glimt
+SUMMARY:FC Bayern München – FK Bodø/Glimt (5:0)
 LOCATION:Allianz Arena
-DESCRIPTION:FC Bayern München – UEFA Champions League\, Ligaphase Spielt
- ag 1. Quelle: offizielle UEFA-/Vereinsspielpläne.
+DESCRIPTION:FC Bayern München – UEFA Champions League\, Ligaphase Spiel
+ tag 1. Quelle: offizielle UEFA-/Vereinsspielpläne.\nEndstand: 5:0. Ergeb
+ nisquelle: https://fcbayern.com/de/news/spielberichte/2026/09/spielberich
+ t-champions-league-fc-bayern-fk-bodo-glimt (geprüft am 18.10.2026).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:FC Bayern München – FK Bodø/Glimt
 END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261018T063616Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ucl-bayern-2026-md2@fussball-kalender.julian
-DTSTAMP:20260829T180109Z
+DTSTAMP:20261018T063616Z
 DTSTART:20261013T190000Z
 DTEND:20261013T210000Z
-SUMMARY:Viking Stavanger – FC Bayern München
+SUMMARY:Viking Stavanger – FC Bayern München (3:3)
 LOCATION:Lyse Arena
-DESCRIPTION:FC Bayern München – UEFA Champions League\, Ligaphase Spielt
- ag 2. Quelle: offizielle UEFA-/Vereinsspielpläne.
+DESCRIPTION:FC Bayern München – UEFA Champions League\, Ligaphase Spiel
+ tag 2. Quelle: offizielle UEFA-/Vereinsspielpläne.\nEndstand: 3:3. Ergeb
+ nisquelle: https://fcbayern.com/de/news/2026/10/die-stimmen-zum-champions
+ -league-spiel-bei-viking-stavanger (geprüft am 18.10.2026).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Viking Stavanger – FC Bayern München
 END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261018T063616Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ucl-lask-2026-md2@fussball-kalender.julian
-DTSTAMP:20260829T180109Z
+DTSTAMP:20261018T063616Z
 DTSTART:20261014T164500Z
 DTEND:20261014T184500Z
-SUMMARY:LASK – FC Liverpool
+SUMMARY:LASK – FC Liverpool (3:6)
 LOCATION:Oberösterreich Arena
-DESCRIPTION:LASK – UEFA Champions League\, Ligaphase Spieltag 2. Quelle: 
- offizielle UEFA-/Vereinsspielpläne.
+DESCRIPTION:LASK – UEFA Champions League\, Ligaphase Spieltag 2. Quelle:
+  offizielle UEFA-/Vereinsspielpläne.\nEndstand: 3:6. Ergebnisquelle: htt
+ ps://www.lask.at/de/f/matches/pros/fixtures/2026-2027 (geprüft am 18.10.
+ 2026).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:LASK – FC Liverpool
 END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261018T063616Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ucl-bayern-2026-md3@fussball-kalender.julian
@@ -2027,34 +2216,41 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:bw-test-20261002-salzburg@fussball-kalender.julian
-DTSTAMP:20261003T084931Z
+DTSTAMP:20261018T063616Z
 DTSTART:20261002T153000Z
 DTEND:20261002T173000Z
-SUMMARY:FC Red Bull Salzburg – FC Blau-Weiß Linz
+SUMMARY:FC Red Bull Salzburg – FC Blau-Weiß Linz (1:2)
 LOCATION:Deisl Kies Arena Pischelsdorf
-DESCRIPTION:FC Blau-Weiß Linz – Testspiel. Quelle: offizieller Vereinssp
- ielplan.
+DESCRIPTION:FC Blau-Weiß Linz – Testspiel. Quelle: offizieller Vereinss
+ pielplan.\nEndstand: 1:2. Ergebnisquelle: https://blauweiss-linz.at/profi
+ s/ (geprüft am 18.10.2026).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:FC Red Bull Salzburg – FC Blau-Weiß Linz
 END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261018T063616Z
 END:VEVENT
 BEGIN:VEVENT
 UID:lask-test-20261002-firstvienna@fussball-kalender.julian
-DTSTAMP:20261003T084931Z
+DTSTAMP:20261018T063616Z
 DTSTART:20261002T123000Z
 DTEND:20261002T143000Z
-SUMMARY:LASK – First Vienna FC 1894
+SUMMARY:LASK – First Vienna FC 1894 (2:1)
 LOCATION:voestalpine Stadion
-DESCRIPTION:LASK – Testspiel. Quelle: offizieller Vereinsspielplan.
+DESCRIPTION:LASK – Testspiel. Quelle: offizieller Vereinsspielplan.\nEnd
+ stand: 2:1. Ergebnisquelle: https://www.lask.at/de/f/matches/pros/fixture
+ s/2026-2027 (geprüft am 18.10.2026).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:LASK – First Vienna FC 1894
 END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261018T063616Z
 END:VEVENT
 BEGIN:VEVENT
 UID:oefb-match-4198332@fussball-kalender.julian
