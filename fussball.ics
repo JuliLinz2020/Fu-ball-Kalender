@@ -2272,195 +2272,268 @@ LAST-MODIFIED:20261017T081125Z
 END:VEVENT
 BEGIN:VEVENT
 UID:bw-2liga-2026-27-56923@fussball-kalender.julian
-DTSTAMP:20261018T061650Z
-DTSTART;VALUE=DATE:20270226
-DTEND;VALUE=DATE:20270301
-SUMMARY:Termin vorläufig: FAC WIEN – FC Blau-Weiß Linz
-DESCRIPTION:Blau-Weiß Linz – ADMIRAL 2. Liga 2026/27\, Runde 17. Offizie
- lles Terminfenster: 26.02.2027 bis 28.02.2027. Anstoßzeit noch nicht fest
- gelegt. Ganztägiger Platzhalter für das Terminfenster\, keine bestätigt
- e Uhrzeit. Quelle: https://www.2liga.at/de/spielbericht/saison-2026-2027/5
- 6923/vorbericht
+DTSTAMP:20261018T064120Z
+DTSTART:20270226T173000Z
+DTEND:20270228T113000Z
+SUMMARY:Zeitfenster vorläufig: FAC WIEN – FC Blau-Weiß Linz
+DESCRIPTION:Blau-Weiß Linz – ADMIRAL 2. Liga 2026/27\, Runde 17. Offizi
+ elles Terminfenster: 26.02.2027 bis 28.02.2027. Anstoßzeit noch nicht fe
+ stgelegt. Vorläufiges durchgehendes Auswahlfenster anhand der offizielle
+ n Anstoß-Slots (Europe/Vienna)\; kein bestätigter Anstoß und keine tat
+ sächliche Spieldauer. Ende enthält 2 Stunden Planungsreserve nach dem s
+ pätesten regulären Anstoß. Sonderansetzungen bleiben möglich. Quelle:
+  https://www.2liga.at/de/spielbericht/saison-2026-2027/56923/vorbericht\n
+ Zeitfenster-Quellen: https://www.2liga.at/de/news/artikel/spielplan-der-a
+ dmiral-2-liga-2026-27 sowie Spielbetriebsrichtlinien §6 (Stand 18.10.202
+ 6).
 URL:https://www.2liga.at/de/spielbericht/saison-2026-2027/56923/vorbericht
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
-SEQUENCE:0
+SEQUENCE:1
+LAST-MODIFIED:20261018T064120Z
 END:VEVENT
 BEGIN:VEVENT
 UID:bw-2liga-2026-27-56929@fussball-kalender.julian
-DTSTAMP:20261018T061650Z
-DTSTART;VALUE=DATE:20270305
-DTEND;VALUE=DATE:20270308
-SUMMARY:Termin vorläufig: FC Blau-Weiß Linz – First Vienna FC 1894
-DESCRIPTION:Blau-Weiß Linz – ADMIRAL 2. Liga 2026/27\, Runde 18. Offizie
- lles Terminfenster: 05.03.2027 bis 07.03.2027. Anstoßzeit noch nicht fest
- gelegt. Ganztägiger Platzhalter für das Terminfenster\, keine bestätigt
- e Uhrzeit. Quelle: https://www.2liga.at/de/spielbericht/saison-2026-2027/5
- 6929/vorbericht
+DTSTAMP:20261018T064120Z
+DTSTART:20270305T173000Z
+DTEND:20270307T113000Z
+SUMMARY:Zeitfenster vorläufig: FC Blau-Weiß Linz – First Vienna FC 189
+ 4
+DESCRIPTION:Blau-Weiß Linz – ADMIRAL 2. Liga 2026/27\, Runde 18. Offizi
+ elles Terminfenster: 05.03.2027 bis 07.03.2027. Anstoßzeit noch nicht fe
+ stgelegt. Vorläufiges durchgehendes Auswahlfenster anhand der offizielle
+ n Anstoß-Slots (Europe/Vienna)\; kein bestätigter Anstoß und keine tat
+ sächliche Spieldauer. Ende enthält 2 Stunden Planungsreserve nach dem s
+ pätesten regulären Anstoß. Sonderansetzungen bleiben möglich. Quelle:
+  https://www.2liga.at/de/spielbericht/saison-2026-2027/56929/vorbericht\n
+ Zeitfenster-Quellen: https://www.2liga.at/de/news/artikel/spielplan-der-a
+ dmiral-2-liga-2026-27 sowie Spielbetriebsrichtlinien §6 (Stand 18.10.202
+ 6).
 URL:https://www.2liga.at/de/spielbericht/saison-2026-2027/56929/vorbericht
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
-SEQUENCE:0
+SEQUENCE:1
+LAST-MODIFIED:20261018T064120Z
 END:VEVENT
 BEGIN:VEVENT
 UID:bw-2liga-2026-27-56941@fussball-kalender.julian
-DTSTAMP:20261018T061650Z
-DTSTART;VALUE=DATE:20270312
-DTEND;VALUE=DATE:20270315
-SUMMARY:Termin vorläufig: FC Hertha Wels – FC Blau-Weiß Linz
-DESCRIPTION:Blau-Weiß Linz – ADMIRAL 2. Liga 2026/27\, Runde 19. Offizie
- lles Terminfenster: 12.03.2027 bis 14.03.2027. Anstoßzeit noch nicht fest
- gelegt. Ganztägiger Platzhalter für das Terminfenster\, keine bestätigt
- e Uhrzeit. Quelle: https://www.2liga.at/de/spielbericht/saison-2026-2027/5
- 6941/vorbericht
+DTSTAMP:20261018T064120Z
+DTSTART:20270312T173000Z
+DTEND:20270314T113000Z
+SUMMARY:Zeitfenster vorläufig: FC Hertha Wels – FC Blau-Weiß Linz
+DESCRIPTION:Blau-Weiß Linz – ADMIRAL 2. Liga 2026/27\, Runde 19. Offizi
+ elles Terminfenster: 12.03.2027 bis 14.03.2027. Anstoßzeit noch nicht fe
+ stgelegt. Vorläufiges durchgehendes Auswahlfenster anhand der offizielle
+ n Anstoß-Slots (Europe/Vienna)\; kein bestätigter Anstoß und keine tat
+ sächliche Spieldauer. Ende enthält 2 Stunden Planungsreserve nach dem s
+ pätesten regulären Anstoß. Sonderansetzungen bleiben möglich. Quelle:
+  https://www.2liga.at/de/spielbericht/saison-2026-2027/56941/vorbericht\n
+ Zeitfenster-Quellen: https://www.2liga.at/de/news/artikel/spielplan-der-a
+ dmiral-2-liga-2026-27 sowie Spielbetriebsrichtlinien §6 (Stand 18.10.202
+ 6).
 URL:https://www.2liga.at/de/spielbericht/saison-2026-2027/56941/vorbericht
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
-SEQUENCE:0
+SEQUENCE:1
+LAST-MODIFIED:20261018T064120Z
 END:VEVENT
 BEGIN:VEVENT
 UID:bw-2liga-2026-27-56945@fussball-kalender.julian
-DTSTAMP:20261018T061650Z
-DTSTART;VALUE=DATE:20270319
-DTEND;VALUE=DATE:20270322
-SUMMARY:Termin vorläufig: FC Blau-Weiß Linz – KSV 1919
-DESCRIPTION:Blau-Weiß Linz – ADMIRAL 2. Liga 2026/27\, Runde 20. Offizie
- lles Terminfenster: 19.03.2027 bis 21.03.2027. Anstoßzeit noch nicht fest
- gelegt. Ganztägiger Platzhalter für das Terminfenster\, keine bestätigt
- e Uhrzeit. Quelle: https://www.2liga.at/de/spielbericht/saison-2026-2027/5
- 6945/vorbericht
+DTSTAMP:20261018T064120Z
+DTSTART:20270319T173000Z
+DTEND:20270321T113000Z
+SUMMARY:Zeitfenster vorläufig: FC Blau-Weiß Linz – KSV 1919
+DESCRIPTION:Blau-Weiß Linz – ADMIRAL 2. Liga 2026/27\, Runde 20. Offizi
+ elles Terminfenster: 19.03.2027 bis 21.03.2027. Anstoßzeit noch nicht fe
+ stgelegt. Vorläufiges durchgehendes Auswahlfenster anhand der offizielle
+ n Anstoß-Slots (Europe/Vienna)\; kein bestätigter Anstoß und keine tat
+ sächliche Spieldauer. Ende enthält 2 Stunden Planungsreserve nach dem s
+ pätesten regulären Anstoß. Sonderansetzungen bleiben möglich. Quelle:
+  https://www.2liga.at/de/spielbericht/saison-2026-2027/56945/vorbericht\n
+ Zeitfenster-Quellen: https://www.2liga.at/de/news/artikel/spielplan-der-a
+ dmiral-2-liga-2026-27 sowie Spielbetriebsrichtlinien §6 (Stand 18.10.202
+ 6).
 URL:https://www.2liga.at/de/spielbericht/saison-2026-2027/56945/vorbericht
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
-SEQUENCE:0
+SEQUENCE:1
+LAST-MODIFIED:20261018T064120Z
 END:VEVENT
 BEGIN:VEVENT
 UID:bw-2liga-2026-27-56960@fussball-kalender.julian
-DTSTAMP:20261018T061650Z
-DTSTART;VALUE=DATE:20270402
-DTEND;VALUE=DATE:20270405
-SUMMARY:Termin vorläufig: FC Wacker Innsbruck – FC Blau-Weiß Linz
-DESCRIPTION:Blau-Weiß Linz – ADMIRAL 2. Liga 2026/27\, Runde 21. Offizie
- lles Terminfenster: 02.04.2027 bis 04.04.2027. Anstoßzeit noch nicht fest
- gelegt. Ganztägiger Platzhalter für das Terminfenster\, keine bestätigt
- e Uhrzeit. Quelle: https://www.2liga.at/de/spielbericht/saison-2026-2027/5
- 6960/vorbericht
+DTSTAMP:20261018T064120Z
+DTSTART:20270402T163000Z
+DTEND:20270404T103000Z
+SUMMARY:Zeitfenster vorläufig: FC Wacker Innsbruck – FC Blau-Weiß Linz
+DESCRIPTION:Blau-Weiß Linz – ADMIRAL 2. Liga 2026/27\, Runde 21. Offizi
+ elles Terminfenster: 02.04.2027 bis 04.04.2027. Anstoßzeit noch nicht fe
+ stgelegt. Vorläufiges durchgehendes Auswahlfenster anhand der offizielle
+ n Anstoß-Slots (Europe/Vienna)\; kein bestätigter Anstoß und keine tat
+ sächliche Spieldauer. Ende enthält 2 Stunden Planungsreserve nach dem s
+ pätesten regulären Anstoß. Sonderansetzungen bleiben möglich. Quelle:
+  https://www.2liga.at/de/spielbericht/saison-2026-2027/56960/vorbericht\n
+ Zeitfenster-Quellen: https://www.2liga.at/de/news/artikel/spielplan-der-a
+ dmiral-2-liga-2026-27 sowie Spielbetriebsrichtlinien §6 (Stand 18.10.202
+ 6).
 URL:https://www.2liga.at/de/spielbericht/saison-2026-2027/56960/vorbericht
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
-SEQUENCE:0
+SEQUENCE:1
+LAST-MODIFIED:20261018T064120Z
 END:VEVENT
 BEGIN:VEVENT
 UID:bw-2liga-2026-27-56961@fussball-kalender.julian
-DTSTAMP:20261018T061650Z
-DTSTART;VALUE=DATE:20270406
-DTEND;VALUE=DATE:20270408
-SUMMARY:Termin vorläufig: FC Blau-Weiß Linz – SV Austria Salzburg
-DESCRIPTION:Blau-Weiß Linz – ADMIRAL 2. Liga 2026/27\, Runde 22. Offizie
- lles Terminfenster: 06.04.2027 bis 07.04.2027. Anstoßzeit noch nicht fest
- gelegt. Ganztägiger Platzhalter für das Terminfenster\, keine bestätigt
- e Uhrzeit. Quelle: https://www.2liga.at/de/spielbericht/saison-2026-2027/5
- 6961/vorbericht
+DTSTAMP:20261018T064120Z
+DTSTART:20270406T163000Z
+DTEND:20270407T203000Z
+SUMMARY:Zeitfenster vorläufig: FC Blau-Weiß Linz – SV Austria Salzburg
+DESCRIPTION:Blau-Weiß Linz – ADMIRAL 2. Liga 2026/27\, Runde 22. Offizi
+ elles Terminfenster: 06.04.2027 bis 07.04.2027. Anstoßzeit noch nicht fe
+ stgelegt. Vorläufiges durchgehendes Auswahlfenster anhand der offizielle
+ n Anstoß-Slots (Europe/Vienna)\; kein bestätigter Anstoß und keine tat
+ sächliche Spieldauer. Ende enthält 2 Stunden Planungsreserve nach dem s
+ pätesten regulären Anstoß. Sonderansetzungen bleiben möglich. Quelle:
+  https://www.2liga.at/de/spielbericht/saison-2026-2027/56961/vorbericht\n
+ Zeitfenster-Quellen: https://www.2liga.at/de/news/artikel/spielplan-der-a
+ dmiral-2-liga-2026-27 sowie Spielbetriebsrichtlinien §6 (Stand 18.10.202
+ 6).
 URL:https://www.2liga.at/de/spielbericht/saison-2026-2027/56961/vorbericht
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
-SEQUENCE:0
+SEQUENCE:1
+LAST-MODIFIED:20261018T064120Z
 END:VEVENT
 BEGIN:VEVENT
 UID:bw-2liga-2026-27-56969@fussball-kalender.julian
-DTSTAMP:20261018T061650Z
-DTSTART;VALUE=DATE:20270409
-DTEND;VALUE=DATE:20270412
-SUMMARY:Termin vorläufig: Admira Wacker – FC Blau-Weiß Linz
-DESCRIPTION:Blau-Weiß Linz – ADMIRAL 2. Liga 2026/27\, Runde 23. Offizie
- lles Terminfenster: 09.04.2027 bis 11.04.2027. Anstoßzeit noch nicht fest
- gelegt. Ganztägiger Platzhalter für das Terminfenster\, keine bestätigt
- e Uhrzeit. Quelle: https://www.2liga.at/de/spielbericht/saison-2026-2027/5
- 6969/vorbericht
+DTSTAMP:20261018T064120Z
+DTSTART:20270409T163000Z
+DTEND:20270411T103000Z
+SUMMARY:Zeitfenster vorläufig: Admira Wacker – FC Blau-Weiß Linz
+DESCRIPTION:Blau-Weiß Linz – ADMIRAL 2. Liga 2026/27\, Runde 23. Offizi
+ elles Terminfenster: 09.04.2027 bis 11.04.2027. Anstoßzeit noch nicht fe
+ stgelegt. Vorläufiges durchgehendes Auswahlfenster anhand der offizielle
+ n Anstoß-Slots (Europe/Vienna)\; kein bestätigter Anstoß und keine tat
+ sächliche Spieldauer. Ende enthält 2 Stunden Planungsreserve nach dem s
+ pätesten regulären Anstoß. Sonderansetzungen bleiben möglich. Quelle:
+  https://www.2liga.at/de/spielbericht/saison-2026-2027/56969/vorbericht\n
+ Zeitfenster-Quellen: https://www.2liga.at/de/news/artikel/spielplan-der-a
+ dmiral-2-liga-2026-27 sowie Spielbetriebsrichtlinien §6 (Stand 18.10.202
+ 6).
 URL:https://www.2liga.at/de/spielbericht/saison-2026-2027/56969/vorbericht
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
-SEQUENCE:0
+SEQUENCE:1
+LAST-MODIFIED:20261018T064120Z
 END:VEVENT
 BEGIN:VEVENT
 UID:bw-2liga-2026-27-56977@fussball-kalender.julian
-DTSTAMP:20261018T061650Z
-DTSTART;VALUE=DATE:20270416
-DTEND;VALUE=DATE:20270419
-SUMMARY:Termin vorläufig: FC Blau-Weiß Linz – Young Violets Austria Wie
- n
-DESCRIPTION:Blau-Weiß Linz – ADMIRAL 2. Liga 2026/27\, Runde 24. Offizie
- lles Terminfenster: 16.04.2027 bis 18.04.2027. Anstoßzeit noch nicht fest
- gelegt. Ganztägiger Platzhalter für das Terminfenster\, keine bestätigt
- e Uhrzeit. Quelle: https://www.2liga.at/de/spielbericht/saison-2026-2027/5
- 6977/vorbericht
+DTSTAMP:20261018T064120Z
+DTSTART:20270416T163000Z
+DTEND:20270418T103000Z
+SUMMARY:Zeitfenster vorläufig: FC Blau-Weiß Linz – Young Violets Austr
+ ia Wien
+DESCRIPTION:Blau-Weiß Linz – ADMIRAL 2. Liga 2026/27\, Runde 24. Offizi
+ elles Terminfenster: 16.04.2027 bis 18.04.2027. Anstoßzeit noch nicht fe
+ stgelegt. Vorläufiges durchgehendes Auswahlfenster anhand der offizielle
+ n Anstoß-Slots (Europe/Vienna)\; kein bestätigter Anstoß und keine tat
+ sächliche Spieldauer. Ende enthält 2 Stunden Planungsreserve nach dem s
+ pätesten regulären Anstoß. Sonderansetzungen bleiben möglich. Quelle:
+  https://www.2liga.at/de/spielbericht/saison-2026-2027/56977/vorbericht\n
+ Zeitfenster-Quellen: https://www.2liga.at/de/news/artikel/spielplan-der-a
+ dmiral-2-liga-2026-27 sowie Spielbetriebsrichtlinien §6 (Stand 18.10.202
+ 6).
 URL:https://www.2liga.at/de/spielbericht/saison-2026-2027/56977/vorbericht
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
-SEQUENCE:0
+SEQUENCE:1
+LAST-MODIFIED:20261018T064120Z
 END:VEVENT
 BEGIN:VEVENT
 UID:bw-2liga-2026-27-56985@fussball-kalender.julian
-DTSTAMP:20261018T061650Z
-DTSTART;VALUE=DATE:20270423
-DTEND;VALUE=DATE:20270426
-SUMMARY:Termin vorläufig: FC Blau-Weiß Linz – SKN St. Pölten
-DESCRIPTION:Blau-Weiß Linz – ADMIRAL 2. Liga 2026/27\, Runde 25. Offizie
- lles Terminfenster: 23.04.2027 bis 25.04.2027. Anstoßzeit noch nicht fest
- gelegt. Ganztägiger Platzhalter für das Terminfenster\, keine bestätigt
- e Uhrzeit. Quelle: https://www.2liga.at/de/spielbericht/saison-2026-2027/5
- 6985/vorbericht
+DTSTAMP:20261018T064120Z
+DTSTART:20270423T163000Z
+DTEND:20270425T103000Z
+SUMMARY:Zeitfenster vorläufig: FC Blau-Weiß Linz – SKN St. Pölten
+DESCRIPTION:Blau-Weiß Linz – ADMIRAL 2. Liga 2026/27\, Runde 25. Offizi
+ elles Terminfenster: 23.04.2027 bis 25.04.2027. Anstoßzeit noch nicht fe
+ stgelegt. Vorläufiges durchgehendes Auswahlfenster anhand der offizielle
+ n Anstoß-Slots (Europe/Vienna)\; kein bestätigter Anstoß und keine tat
+ sächliche Spieldauer. Ende enthält 2 Stunden Planungsreserve nach dem s
+ pätesten regulären Anstoß. Sonderansetzungen bleiben möglich. Quelle:
+  https://www.2liga.at/de/spielbericht/saison-2026-2027/56985/vorbericht\n
+ Zeitfenster-Quellen: https://www.2liga.at/de/news/artikel/spielplan-der-a
+ dmiral-2-liga-2026-27 sowie Spielbetriebsrichtlinien §6 (Stand 18.10.202
+ 6).
 URL:https://www.2liga.at/de/spielbericht/saison-2026-2027/56985/vorbericht
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
-SEQUENCE:0
+SEQUENCE:1
+LAST-MODIFIED:20261018T064120Z
 END:VEVENT
 BEGIN:VEVENT
 UID:bw-2liga-2026-27-56999@fussball-kalender.julian
-DTSTAMP:20261018T061650Z
-DTSTART;VALUE=DATE:20270430
-DTEND;VALUE=DATE:20270503
-SUMMARY:Termin vorläufig: SK Sturm Graz II – FC Blau-Weiß Linz
-DESCRIPTION:Blau-Weiß Linz – ADMIRAL 2. Liga 2026/27\, Runde 26. Offizie
- lles Terminfenster: 30.04.2027 bis 02.05.2027. Anstoßzeit noch nicht fest
- gelegt. Ganztägiger Platzhalter für das Terminfenster\, keine bestätigt
- e Uhrzeit. Quelle: https://www.2liga.at/de/spielbericht/saison-2026-2027/5
- 6999/vorbericht
+DTSTAMP:20261018T064120Z
+DTSTART:20270430T163000Z
+DTEND:20270502T103000Z
+SUMMARY:Zeitfenster vorläufig: SK Sturm Graz II – FC Blau-Weiß Linz
+DESCRIPTION:Blau-Weiß Linz – ADMIRAL 2. Liga 2026/27\, Runde 26. Offizi
+ elles Terminfenster: 30.04.2027 bis 02.05.2027. Anstoßzeit noch nicht fe
+ stgelegt. Vorläufiges durchgehendes Auswahlfenster anhand der offizielle
+ n Anstoß-Slots (Europe/Vienna)\; kein bestätigter Anstoß und keine tat
+ sächliche Spieldauer. Ende enthält 2 Stunden Planungsreserve nach dem s
+ pätesten regulären Anstoß. Sonderansetzungen bleiben möglich. Quelle:
+  https://www.2liga.at/de/spielbericht/saison-2026-2027/56999/vorbericht\n
+ Zeitfenster-Quellen: https://www.2liga.at/de/news/artikel/spielplan-der-a
+ dmiral-2-liga-2026-27 sowie Spielbetriebsrichtlinien §6 (Stand 18.10.202
+ 6).
 URL:https://www.2liga.at/de/spielbericht/saison-2026-2027/56999/vorbericht
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
-SEQUENCE:0
+SEQUENCE:1
+LAST-MODIFIED:20261018T064120Z
 END:VEVENT
 BEGIN:VEVENT
 UID:bw-2liga-2026-27-57002@fussball-kalender.julian
-DTSTAMP:20261018T061650Z
-DTSTART;VALUE=DATE:20270507
-DTEND;VALUE=DATE:20270510
-SUMMARY:Termin vorläufig: FC Liefering – FC Blau-Weiß Linz
-DESCRIPTION:Blau-Weiß Linz – ADMIRAL 2. Liga 2026/27\, Runde 27. Offizie
- lles Terminfenster: 07.05.2027 bis 09.05.2027. Anstoßzeit noch nicht fest
- gelegt. Ganztägiger Platzhalter für das Terminfenster\, keine bestätigt
- e Uhrzeit. Quelle: https://www.2liga.at/de/spielbericht/saison-2026-2027/5
- 7002/vorbericht
+DTSTAMP:20261018T064120Z
+DTSTART:20270507T163000Z
+DTEND:20270509T103000Z
+SUMMARY:Zeitfenster vorläufig: FC Liefering – FC Blau-Weiß Linz
+DESCRIPTION:Blau-Weiß Linz – ADMIRAL 2. Liga 2026/27\, Runde 27. Offizi
+ elles Terminfenster: 07.05.2027 bis 09.05.2027. Anstoßzeit noch nicht fe
+ stgelegt. Vorläufiges durchgehendes Auswahlfenster anhand der offizielle
+ n Anstoß-Slots (Europe/Vienna)\; kein bestätigter Anstoß und keine tat
+ sächliche Spieldauer. Ende enthält 2 Stunden Planungsreserve nach dem s
+ pätesten regulären Anstoß. Sonderansetzungen bleiben möglich. Quelle:
+  https://www.2liga.at/de/spielbericht/saison-2026-2027/57002/vorbericht\n
+ Zeitfenster-Quellen: https://www.2liga.at/de/news/artikel/spielplan-der-a
+ dmiral-2-liga-2026-27 sowie Spielbetriebsrichtlinien §6 (Stand 18.10.202
+ 6).
 URL:https://www.2liga.at/de/spielbericht/saison-2026-2027/57002/vorbericht
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
-SEQUENCE:0
+SEQUENCE:1
+LAST-MODIFIED:20261018T064120Z
 END:VEVENT
 BEGIN:VEVENT
 UID:bw-2liga-2026-27-57009@fussball-kalender.julian
-DTSTAMP:20261018T061650Z
-DTSTART;VALUE=DATE:20270514
-DTEND;VALUE=DATE:20270515
-SUMMARY:Termin vorläufig: FC Blau-Weiß Linz – SK Rapid II
-DESCRIPTION:Blau-Weiß Linz – ADMIRAL 2. Liga 2026/27\, Runde 28. Offizie
- lles Terminfenster: 14.05.2027. Anstoßzeit noch nicht festgelegt. Ganztä
- giger Platzhalter für das Terminfenster\, keine bestätigte Uhrzeit. Quel
- le: https://www.2liga.at/de/spielbericht/saison-2026-2027/57009/vorbericht
+DTSTAMP:20261018T064120Z
+DTSTART:20270514T163000Z
+DTEND:20270514T203000Z
+SUMMARY:Zeitfenster vorläufig: FC Blau-Weiß Linz – SK Rapid II
+DESCRIPTION:Blau-Weiß Linz – ADMIRAL 2. Liga 2026/27\, Runde 28. Offizi
+ elles Terminfenster: 14.05.2027. Anstoßzeit noch nicht festgelegt. Vorl
+ äufiges durchgehendes Auswahlfenster anhand der offiziellen Anstoß-Slot
+ s (Europe/Vienna)\; kein bestätigter Anstoß und keine tatsächliche Spi
+ eldauer. Ende enthält 2 Stunden Planungsreserve nach dem spätesten regu
+ lären Anstoß. Sonderansetzungen bleiben möglich. Quelle: https://www.2
+ liga.at/de/spielbericht/saison-2026-2027/57009/vorbericht\nZeitfenster-Qu
+ ellen: https://www.2liga.at/de/news/artikel/spielplan-der-admiral-2-liga-
+ 2026-27 sowie Spielbetriebsrichtlinien §6 (Stand 18.10.2026).
 URL:https://www.2liga.at/de/spielbericht/saison-2026-2027/57009/vorbericht
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
-SEQUENCE:0
+SEQUENCE:1
+LAST-MODIFIED:20261018T064120Z
 END:VEVENT
 BEGIN:VEVENT
 UID:bw-2liga-2026-27-57024@fussball-kalender.julian
