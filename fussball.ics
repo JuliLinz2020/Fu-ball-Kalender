@@ -1979,32 +1979,40 @@ UID:ucl-bayern-2026-md3@fussball-kalender.julian
 DTSTAMP:20260829T180109Z
 DTSTART:20261021T190000Z
 DTEND:20261021T210000Z
-SUMMARY:FC Bayern München – FC Arsenal
+SUMMARY:FC Bayern München – FC Arsenal (2:2)
 LOCATION:Allianz Arena
 DESCRIPTION:FC Bayern München – UEFA Champions League\, Ligaphase Spielt
- ag 3. Quelle: offizielle UEFA-/Vereinsspielpläne.
+ ag 3. Quelle: offizielle UEFA-/Vereinsspielpläne.\nEndstand: 2:2. Ergebni
+ squelle: https://fcbayern.com/de/news/spielberichte/2026/10/spielbericht-c
+ hampions-league-fc-bayern-fc-arsenal (geprüft am 22.10.2026).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:FC Bayern München – FC Arsenal
 END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261022T065046Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ucl-lask-2026-md3@fussball-kalender.julian
 DTSTAMP:20260829T180109Z
 DTSTART:20261021T190000Z
 DTEND:20261021T210000Z
-SUMMARY:Sporting CP – LASK
+SUMMARY:Sporting CP – LASK (2:3)
 LOCATION:Estádio José Alvalade
 DESCRIPTION:LASK – UEFA Champions League\, Ligaphase Spieltag 3. Quelle: 
- offizielle UEFA-/Vereinsspielpläne.
+ offizielle UEFA-/Vereinsspielpläne.\nEndstand: 2:3. Ergebnisquelle: https
+ ://www.sporting.pt/pt/noticias/futebol/equipa-principal/2026-10-21/eficien
+ cia-austriaca-deu-a-volta-a-leao-madrugador (geprüft am 22.10.2026).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Sporting CP – LASK
 END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261022T065046Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ucl-bayern-2026-md4@fussball-kalender.julian
