@@ -834,16 +834,19 @@ UID:873450fb@fussball-kalender.julian
 DTSTAMP:20260912T084334Z
 DTSTART:20261023T183000Z
 DTEND:20261023T203000Z
-SUMMARY:SV Austria Salzburg – FC Blau-Weiß Linz
+SUMMARY:SV Austria Salzburg – FC Blau-Weiß Linz (0:1)
 LOCATION:Austria Stadion
 DESCRIPTION:Blau-Weiß Linz – 2. Liga. Quelle: offizieller Vereinsspielpl
- an.
+ an.\nEndstand: 0:1. Ergebnisquelle: https://www.2liga.at/de/spielbericht/s
+ aison-2026-2027/56870/video (geprüft am 24.10.2026).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:SV Austria Salzburg – FC Blau-Weiß Linz
 END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261024T062517Z
 END:VEVENT
 BEGIN:VEVENT
 UID:1789639d@fussball-kalender.julian
@@ -1595,16 +1598,21 @@ UID:oefb-match-4104556@fussball-kalender.julian
 DTSTAMP:20260829T131441Z
 DTSTART:20261023T163000Z
 DTEND:20261023T183000Z
-SUMMARY:ASKÖ DONAU Linz – SPG Rohrbach-Berg/Altenfelden
+SUMMARY:ASKÖ DONAU Linz – SPG Rohrbach-Berg/Altenfelden (3:2)
 LOCATION:LINZ AG Arena
 DESCRIPTION:ASKÖ DONAU Linz – Landesliga Ost. Quelle: offizieller ÖFB-S
- pielplan.
+ pielplan.\nEndstand: 3:2. Ergebnisquelle: https://www.ligaportal.at/ooe/la
+ ndesliga/landesliga-ost/spielberichte/129671-wir-haben-es-auch-verstanden-
+ die-phasen-in-denen-wir-leiden-mussten-mit-bravour-zu-ueberstehen-donau-ho
+ lt-ein-3-2 (geprüft am 24.10.2026).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:ASKÖ DONAU Linz – SPG Rohrbach-Berg/Altenfelden
 END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261024T062517Z
 END:VEVENT
 BEGIN:VEVENT
 UID:oefb-match-4104606@fussball-kalender.julian
