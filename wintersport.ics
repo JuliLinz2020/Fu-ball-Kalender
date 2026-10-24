@@ -1,0 +1,4384 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Julian Kaufmann//Wintersportkalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Julian – Wintersport
+X-WR-CALDESC:Skispringen\, Biathlon und Ski alpin – Damen\, Herren und Mi
+ xed. Wöchentliche Prüfung am Donnerstag.
+X-WR-TIMEZONE:Europe/Vienna
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+X-LIC-LOCATION:Europe/Berlin
+BEGIN:DAYLIGHT
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+DTSTART:19810329T030000
+RRULE:FREQ=YEARLY;INTERVAL=1;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+DTSTART:19961027T030000
+RRULE:FREQ=YEARLY;INTERVAL=1;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:390adea0f863f49942b708c094eb@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20261024T110000
+DTEND;TZID=Europe/Berlin:20261024T130000
+STATUS:CONFIRMED
+SEQUENCE:264
+LOCATION:Rettenbach\, Sölden\, Österreich
+SUMMARY:Ski Alpin Sölden Riesenslalom (Frauen)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:b738faaea0d856e7a76009b4a1eb@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20261025T100000
+DTEND;TZID=Europe/Berlin:20261025T120000
+STATUS:CONFIRMED
+SEQUENCE:264
+LOCATION:Rettenbach\, Sölden\, Österreich
+SUMMARY:Ski Alpin Sölden Riesenslalom (Männer)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:e8ea6b47287d3c9e887a43cfdeea@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20261114T100000
+DTEND;TZID=Europe/Berlin:20261114T120000
+STATUS:CONFIRMED
+SEQUENCE:264
+LOCATION:Levi Black\, Finnland
+SUMMARY:Ski Alpin Levi Slalom (Frauen)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:997548530441863740a1ae743893@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20261115T100000
+DTEND;TZID=Europe/Berlin:20261115T120000
+STATUS:CONFIRMED
+SEQUENCE:264
+LOCATION:Levi Black\, Finnland
+SUMMARY:Ski Alpin Levi Slalom (Männer)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:97d333f6457dbe5d676e8f3223d8@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20261120T160000
+DTEND;TZID=Europe/Berlin:20261120T180000
+STATUS:CONFIRMED
+SEQUENCE:584
+LOCATION:Lysgårdsbakken HS 140\, Lillehammer\, Norwegen
+SUMMARY:Skispringen Lillehammer HS 140 Team (Mixed)
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:fis-JP7796@julian-wintersport
+DTSTAMP:20261024T081731Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Skispringen – Qualifikation Lillehammer (Herren)
+LOCATION:Lillehammer
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+DESCRIPTION:Terminquelle: FIS Weltcupkalender 2026/27. Startzeit noch nicht
+  bestätigt\; vorläufig ganztägig. Änderungen möglich.
+URL:https://www.fis-ski.com/DB/general/results.html?sectorcode=JP&raceid=77
+ 96
+END:VEVENT
+BEGIN:VEVENT
+UID:fis-JP7798@julian-wintersport
+DTSTAMP:20261024T081731Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Skispringen – Qualifikation Lillehammer (Damen)
+LOCATION:Lillehammer
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+DESCRIPTION:Terminquelle: FIS Weltcupkalender 2026/27. Startzeit noch nicht
+  bestätigt\; vorläufig ganztägig. Änderungen möglich.
+URL:https://www.fis-ski.com/DB/general/results.html?sectorcode=JP&raceid=77
+ 98
+END:VEVENT
+BEGIN:VEVENT
+UID:0ea2fa7031c1b5be24c1d8f1a9f2@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20261121T165000
+DTEND;TZID=Europe/Berlin:20261121T185000
+STATUS:CONFIRMED
+SEQUENCE:584
+LOCATION:Lysgårdsbakken HS 140\, Lillehammer\, Norwegen
+SUMMARY:Skispringen Lillehammer HS 140 Einzel (Männer)
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:897f3391e11bf19258515831280a@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20261121T143500
+DTEND;TZID=Europe/Berlin:20261121T163500
+STATUS:CONFIRMED
+SEQUENCE:584
+LOCATION:Lysgårdsbakken HS 140\, Lillehammer\, Norwegen
+SUMMARY:Skispringen Lillehammer HS 140 Einzel (Frauen)
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:efd5055e902c89120b9bdb2a3f71@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20261121T103000
+DTEND;TZID=Europe/Berlin:20261121T123000
+STATUS:CONFIRMED
+SEQUENCE:264
+LOCATION:Kirchenkar\, Gurgl\, Österreich
+SUMMARY:Ski Alpin Gurgl Slalom (Frauen)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:4bca58a1d6e06458ab50465ad127@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20261122T103000
+DTEND;TZID=Europe/Berlin:20261122T123000
+STATUS:CONFIRMED
+SEQUENCE:264
+LOCATION:Kirchenkar\, Gurgl\, Österreich
+SUMMARY:Ski Alpin Gurgl Slalom (Männer)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:7fc3ff5baf8f7a9094a06dc5d89f@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20261122T160000
+DTEND;TZID=Europe/Berlin:20261122T180000
+STATUS:CONFIRMED
+SEQUENCE:584
+LOCATION:Lysgårdsbakken HS 140\, Lillehammer\, Norwegen
+SUMMARY:Skispringen Lillehammer HS 140 Einzel (Männer)
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:f09a4dded8f70047a46784196236@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20261122T120000
+DTEND;TZID=Europe/Berlin:20261122T140000
+STATUS:CONFIRMED
+SEQUENCE:584
+LOCATION:Lysgårdsbakken HS 140\, Lillehammer\, Norwegen
+SUMMARY:Skispringen Lillehammer HS 140 Einzel (Frauen)
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:fis-JP8010@julian-wintersport
+DTSTAMP:20261024T081731Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Skispringen – Qualifikation Lillehammer (Herren)
+LOCATION:Lillehammer
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+DESCRIPTION:Terminquelle: FIS Weltcupkalender 2026/27. Startzeit noch nicht
+  bestätigt\; vorläufig ganztägig. Änderungen möglich.
+URL:https://www.fis-ski.com/DB/general/results.html?sectorcode=JP&raceid=80
+ 10
+END:VEVENT
+BEGIN:VEVENT
+UID:fis-JP8011@julian-wintersport
+DTSTAMP:20261024T081731Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Skispringen – Qualifikation Lillehammer (Damen)
+LOCATION:Lillehammer
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+DESCRIPTION:Terminquelle: FIS Weltcupkalender 2026/27. Startzeit noch nicht
+  bestätigt\; vorläufig ganztägig. Änderungen möglich.
+URL:https://www.fis-ski.com/DB/general/results.html?sectorcode=JP&raceid=80
+ 11
+END:VEVENT
+BEGIN:VEVENT
+UID:248fe965366485ea05e3786ee208@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20261126T161500
+DTEND;TZID=Europe/Berlin:20261126T181500
+STATUS:CONFIRMED
+SEQUENCE:587
+LOCATION:Biathlon Stadium Kontiolahti\, Finnland
+SUMMARY:Biathlon Kontiolahti 20km Einzel (Männer)
+CATEGORIES:Biathlon
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/biathlon
+END:VEVENT
+BEGIN:VEVENT
+UID:0d52aa523d432bd672512eb2c948@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20261127T161500
+DTEND;TZID=Europe/Berlin:20261127T181500
+STATUS:CONFIRMED
+SEQUENCE:587
+LOCATION:Biathlon Stadium Kontiolahti\, Finnland
+SUMMARY:Biathlon Kontiolahti 15km Einzel (Frauen)
+CATEGORIES:Biathlon
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/biathlon
+END:VEVENT
+BEGIN:VEVENT
+UID:3ac145105bb546e820853d87c3e2@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20261128T131000
+DTEND;TZID=Europe/Berlin:20261128T151000
+STATUS:CONFIRMED
+SEQUENCE:587
+LOCATION:Biathlon Stadium Kontiolahti\, Finnland
+SUMMARY:Biathlon Kontiolahti Staffel single mixed (Mixed)
+CATEGORIES:Biathlon
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/biathlon
+END:VEVENT
+BEGIN:VEVENT
+UID:437aae0aac05829ea8590fbe6f83@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20261128T194500
+DTEND;TZID=Europe/Berlin:20261128T214500
+STATUS:CONFIRMED
+SEQUENCE:264
+LOCATION:East Village\, Copper Mountain\, CO\, USA
+SUMMARY:Ski Alpin Copper Mountain Super-G (Männer)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:7ef3faef4538a32de5b129954cef@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20261128T153000
+DTEND;TZID=Europe/Berlin:20261128T173000
+STATUS:CONFIRMED
+SEQUENCE:264
+LOCATION:Superstar\, Killington\, VT\, USA
+SUMMARY:Ski Alpin Killington Riesenslalom (Frauen)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:c5f8b36c8293e7b384745dff354a@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20261128T151500
+DTEND;TZID=Europe/Berlin:20261128T171500
+STATUS:CONFIRMED
+SEQUENCE:587
+LOCATION:Biathlon Stadium Kontiolahti\, Finnland
+SUMMARY:Biathlon Kontiolahti Staffel mixed 4x6km (Mixed)
+CATEGORIES:Biathlon
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/biathlon
+END:VEVENT
+BEGIN:VEVENT
+UID:e3bb41c3ee252973a213d70e2a60@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20261128T163000
+DTEND;TZID=Europe/Berlin:20261128T183000
+STATUS:CONFIRMED
+SEQUENCE:584
+LOCATION:Rukatunturi HS 142\, Finnland
+SUMMARY:Skispringen Ruka HS 142 Einzel (Männer)
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:e4f9bc5ac01519ae73a09da53e07@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20261128T133000
+DTEND;TZID=Europe/Berlin:20261128T153000
+STATUS:CONFIRMED
+SEQUENCE:584
+LOCATION:Energie AG-Skisprung Arena HS 90\, Hinzenbach\, Österreich
+SUMMARY:Skispringen Hinzenbach HS 90 Einzel (Frauen)
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:fis-JP7801@julian-wintersport
+DTSTAMP:20261024T081731Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Skispringen – Qualifikation Ruka (Herren)
+LOCATION:Ruka
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+DESCRIPTION:Terminquelle: FIS Weltcupkalender 2026/27. Startzeit noch nicht
+  bestätigt\; vorläufig ganztägig. Änderungen möglich.
+URL:https://www.fis-ski.com/DB/general/results.html?sectorcode=JP&raceid=78
+ 01
+END:VEVENT
+BEGIN:VEVENT
+UID:fis-JP7818@julian-wintersport
+DTSTAMP:20261024T081731Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Skispringen – Qualifikation Hinzenbach (Damen)
+LOCATION:Hinzenbach
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+DESCRIPTION:Terminquelle: FIS Weltcupkalender 2026/27. Startzeit noch nicht
+  bestätigt\; vorläufig ganztägig. Änderungen möglich.
+URL:https://www.fis-ski.com/DB/general/results.html?sectorcode=JP&raceid=78
+ 18
+END:VEVENT
+BEGIN:VEVENT
+UID:2a5b16ee64d38f7decafc396254c@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20261129T163000
+DTEND;TZID=Europe/Berlin:20261129T183000
+STATUS:CONFIRMED
+SEQUENCE:264
+LOCATION:Superstar\, Killington\, VT\, USA
+SUMMARY:Ski Alpin Killington Slalom (Frauen)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:416adb845ab6b40186c95bbcb173@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20261129T161500
+DTEND;TZID=Europe/Berlin:20261129T181500
+STATUS:CONFIRMED
+SEQUENCE:587
+LOCATION:Biathlon Stadium Kontiolahti\, Finnland
+SUMMARY:Biathlon Kontiolahti 7.5km Sprint (Frauen)
+CATEGORIES:Biathlon
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/biathlon
+END:VEVENT
+BEGIN:VEVENT
+UID:64b60b15e948f22f7d1ca912f011@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20261129T180000
+DTEND;TZID=Europe/Berlin:20261129T200000
+STATUS:CONFIRMED
+SEQUENCE:264
+LOCATION:East Village\, Copper Mountain\, CO\, USA
+SUMMARY:Ski Alpin Copper Mountain Riesenslalom (Männer)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:6a232f0a70037087b8613d43f1aa@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20261129T101500
+DTEND;TZID=Europe/Berlin:20261129T121500
+STATUS:CONFIRMED
+SEQUENCE:584
+LOCATION:Energie AG-Skisprung Arena HS 90\, Hinzenbach\, Österreich
+SUMMARY:Skispringen Hinzenbach HS 90 Einzel (Frauen)
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:b56c8183c30ead60de90c66449c0@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20261129T142000
+DTEND;TZID=Europe/Berlin:20261129T162000
+STATUS:CONFIRMED
+SEQUENCE:584
+LOCATION:Rukatunturi HS 142\, Finnland
+SUMMARY:Skispringen Ruka HS 142 Einzel (Männer)
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:f02b87f37bb65829446d6a162c7c@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20261129T130000
+DTEND;TZID=Europe/Berlin:20261129T150000
+STATUS:CONFIRMED
+SEQUENCE:587
+LOCATION:Biathlon Stadium Kontiolahti\, Finnland
+SUMMARY:Biathlon Kontiolahti 10km Sprint (Männer)
+CATEGORIES:Biathlon
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/biathlon
+END:VEVENT
+BEGIN:VEVENT
+UID:ae86d8cbda2b8b30df5b0b5bdae9@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20261203T190000
+DTEND;TZID=Europe/Berlin:20261203T210000
+STATUS:CONFIRMED
+SEQUENCE:264
+LOCATION:Birds of Prey / Golden Eagle\, Beaver Creek\, CO\, USA
+SUMMARY:Ski Alpin Beaver Creek Abfahrt (Männer)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:44ec67b6a903d580256b72a921a2@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20261204T112500
+DTEND;TZID=Europe/Berlin:20261204T132500
+STATUS:CONFIRMED
+SEQUENCE:587
+LOCATION:Biathlonstadion Hochfilzen\, Österreich
+SUMMARY:Biathlon Hochfilzen 7.5km Sprint (Frauen)
+CATEGORIES:Biathlon
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/biathlon
+END:VEVENT
+BEGIN:VEVENT
+UID:598bf9ad3fe4561be0157fb40b04@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20261204T141500
+DTEND;TZID=Europe/Berlin:20261204T161500
+STATUS:CONFIRMED
+SEQUENCE:587
+LOCATION:Biathlonstadion Hochfilzen\, Österreich
+SUMMARY:Biathlon Hochfilzen 10km Sprint (Männer)
+CATEGORIES:Biathlon
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/biathlon
+END:VEVENT
+BEGIN:VEVENT
+UID:f918ab371559d4f469947b6ea921@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20261204T191500
+DTEND;TZID=Europe/Berlin:20261204T211500
+STATUS:CONFIRMED
+SEQUENCE:264
+LOCATION:Birds of Prey / Golden Eagle\, Beaver Creek\, CO\, USA
+SUMMARY:Ski Alpin Beaver Creek Abfahrt (Männer)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:fec8112f81c62a7127b00b482dc9@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20261204T154500
+DTEND;TZID=Europe/Berlin:20261204T174500
+STATUS:CONFIRMED
+SEQUENCE:584
+LOCATION:Adam-Malysz-Schanze HS 134\, Wisla\, Polen
+SUMMARY:Skispringen Wisla HS 134 Einzel (Frauen)
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:fis-JP7804@julian-wintersport
+DTSTAMP:20261024T081731Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Skispringen – Qualifikation Wisla (Herren)
+LOCATION:Wisla
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+DESCRIPTION:Terminquelle: FIS Weltcupkalender 2026/27. Startzeit noch nicht
+  bestätigt\; vorläufig ganztägig. Änderungen möglich.
+URL:https://www.fis-ski.com/DB/general/results.html?sectorcode=JP&raceid=78
+ 04
+END:VEVENT
+BEGIN:VEVENT
+UID:fis-JP7821@julian-wintersport
+DTSTAMP:20261024T081731Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Skispringen – Qualifikation Wisla (Damen)
+LOCATION:Wisla
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+DESCRIPTION:Terminquelle: FIS Weltcupkalender 2026/27. Startzeit noch nicht
+  bestätigt\; vorläufig ganztägig. Änderungen möglich.
+URL:https://www.fis-ski.com/DB/general/results.html?sectorcode=JP&raceid=78
+ 21
+END:VEVENT
+BEGIN:VEVENT
+UID:31c89c969ffde7b2e09f68e46c1f@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20261205T124500
+DTEND;TZID=Europe/Berlin:20261205T144500
+STATUS:CONFIRMED
+SEQUENCE:584
+LOCATION:Adam-Malysz-Schanze HS 134\, Wisla\, Polen
+SUMMARY:Skispringen Wisla HS 134 Einzel (Frauen)
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:3a5dc636b8a5d32a0bb66d3a5341@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20261205T191500
+DTEND;TZID=Europe/Berlin:20261205T211500
+STATUS:CONFIRMED
+SEQUENCE:264
+LOCATION:Birds of Prey / Golden Eagle\, Beaver Creek\, CO\, USA
+SUMMARY:Ski Alpin Beaver Creek Super-G (Männer)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:af771b5a34e90834156838686193@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20261205T121500
+DTEND;TZID=Europe/Berlin:20261205T141500
+STATUS:CONFIRMED
+SEQUENCE:587
+LOCATION:Biathlonstadion Hochfilzen\, Österreich
+SUMMARY:Biathlon Hochfilzen 10km Verfolgung (Frauen)
+CATEGORIES:Biathlon
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/biathlon
+END:VEVENT
+BEGIN:VEVENT
+UID:b27ab2be7b7b3aa131b0c35d48d7@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20261205T170000
+DTEND;TZID=Europe/Berlin:20261205T190000
+STATUS:CONFIRMED
+SEQUENCE:264
+LOCATION:Tremblant Resort\, Kanada
+SUMMARY:Ski Alpin Tremblant Riesenslalom (Frauen)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:ce85a21142a4bc3c824ef29d8b41@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20261205T160000
+DTEND;TZID=Europe/Berlin:20261205T180000
+STATUS:CONFIRMED
+SEQUENCE:584
+LOCATION:Adam-Malysz-Schanze HS 134\, Wisla\, Polen
+SUMMARY:Skispringen Wisla HS 134 Einzel (Männer)
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:f9b87c1c485ecc39c40746e5e904@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20261205T143000
+DTEND;TZID=Europe/Berlin:20261205T163000
+STATUS:CONFIRMED
+SEQUENCE:587
+LOCATION:Biathlonstadion Hochfilzen\, Österreich
+SUMMARY:Biathlon Hochfilzen 12.5km Verfolgung (Männer)
+CATEGORIES:Biathlon
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/biathlon
+END:VEVENT
+BEGIN:VEVENT
+UID:fis-JP8014@julian-wintersport
+DTSTAMP:20261024T081731Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Skispringen – Qualifikation Wisla (Damen)
+LOCATION:Wisla
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+DESCRIPTION:Terminquelle: FIS Weltcupkalender 2026/27. Startzeit noch nicht
+  bestätigt\; vorläufig ganztägig. Änderungen möglich.
+URL:https://www.fis-ski.com/DB/general/results.html?sectorcode=JP&raceid=80
+ 14
+END:VEVENT
+BEGIN:VEVENT
+UID:2b310137b96d7e0f585753fe12a4@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20261206T180000
+DTEND;TZID=Europe/Berlin:20261206T200000
+STATUS:CONFIRMED
+SEQUENCE:264
+LOCATION:Birds of Prey / Golden Eagle\, Beaver Creek\, CO\, USA
+SUMMARY:Ski Alpin Beaver Creek Riesenslalom (Männer)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:58fa9338bc41ad7d7964dbb9281e@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20261206T163000
+DTEND;TZID=Europe/Berlin:20261206T183000
+STATUS:CONFIRMED
+SEQUENCE:264
+LOCATION:Tremblant Resort\, Kanada
+SUMMARY:Ski Alpin Tremblant Riesenslalom (Frauen)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:5d89c32ee6ff6091c9677b610ad4@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20261206T113000
+DTEND;TZID=Europe/Berlin:20261206T133000
+STATUS:CONFIRMED
+SEQUENCE:587
+LOCATION:Biathlonstadion Hochfilzen\, Österreich
+SUMMARY:Biathlon Hochfilzen Staffel 4x6km (Frauen)
+CATEGORIES:Biathlon
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/biathlon
+END:VEVENT
+BEGIN:VEVENT
+UID:7010146355957fb81c3aa32889e3@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20261206T154000
+DTEND;TZID=Europe/Berlin:20261206T174000
+STATUS:CONFIRMED
+SEQUENCE:584
+LOCATION:Adam-Malysz-Schanze HS 134\, Wisla\, Polen
+SUMMARY:Skispringen Wisla HS 134 Einzel (Männer)
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:b43bde1ee3c71a8286655918a4eb@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20261206T141500
+DTEND;TZID=Europe/Berlin:20261206T161500
+STATUS:CONFIRMED
+SEQUENCE:587
+LOCATION:Biathlonstadion Hochfilzen\, Österreich
+SUMMARY:Biathlon Hochfilzen Staffel 4x7.5km (Männer)
+CATEGORIES:Biathlon
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/biathlon
+END:VEVENT
+BEGIN:VEVENT
+UID:fis-JP8015@julian-wintersport
+DTSTAMP:20261024T081731Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:Skispringen – Qualifikation Wisla (Herren)
+LOCATION:Wisla
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+DESCRIPTION:Terminquelle: FIS Weltcupkalender 2026/27. Startzeit noch nicht
+  bestätigt\; vorläufig ganztägig. Änderungen möglich.
+URL:https://www.fis-ski.com/DB/general/results.html?sectorcode=JP&raceid=80
+ 15
+END:VEVENT
+BEGIN:VEVENT
+UID:1db63cf8721e971bfb528eab80f1@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20261210T141500
+DTEND;TZID=Europe/Berlin:20261210T161500
+STATUS:CONFIRMED
+SEQUENCE:587
+LOCATION:Biathlonstadion Sylvie Becaert\, Annecy\, Frankreich
+SUMMARY:Biathlon Annecy 7.5km Sprint (Frauen)
+CATEGORIES:Biathlon
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/biathlon
+END:VEVENT
+BEGIN:VEVENT
+UID:3049eea37341fb7bcc568c1d2802@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20261211T161000
+DTEND;TZID=Europe/Berlin:20261211T181000
+STATUS:CONFIRMED
+SEQUENCE:584
+LOCATION:Hochfirstschanze HS 142\, Titisee-Neustadt\, Deutschland
+SUMMARY:Skispringen Titisee-Neustadt HS 142 Team (Männer)
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:99578f8f79ca6761a407e703a129@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20261211T190000
+DTEND;TZID=Europe/Berlin:20261211T210000
+STATUS:CONFIRMED
+SEQUENCE:264
+LOCATION:Birds of Prey / Golden Eagle\, Beaver Creek\, CO\, USA
+SUMMARY:Ski Alpin Beaver Creek Abfahrt (Frauen)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:c45335fc84471483c311a6d53520@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20261211T141500
+DTEND;TZID=Europe/Berlin:20261211T161500
+STATUS:CONFIRMED
+SEQUENCE:587
+LOCATION:Biathlonstadion Sylvie Becaert\, Annecy\, Frankreich
+SUMMARY:Biathlon Annecy 10km Sprint (Männer)
+CATEGORIES:Biathlon
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/biathlon
+END:VEVENT
+BEGIN:VEVENT
+UID:30788b74711381acbd148d253c9b@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20261212T190000
+DTEND;TZID=Europe/Berlin:20261212T210000
+STATUS:CONFIRMED
+SEQUENCE:264
+LOCATION:Birds of Prey / Golden Eagle\, Beaver Creek\, CO\, USA
+SUMMARY:Ski Alpin Beaver Creek Abfahrt (Frauen)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:54e63b6c26ede0ec3ac2b0d59d14@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20261212T130000
+DTEND;TZID=Europe/Berlin:20261212T150000
+STATUS:CONFIRMED
+SEQUENCE:584
+LOCATION:Hochfirstschanze HS 142\, Titisee-Neustadt\, Deutschland
+SUMMARY:Skispringen Titisee-Neustadt HS 142 Einzel (Frauen)
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:65441efa4c973fd768e5d7b36eab@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20261212T100000
+DTEND;TZID=Europe/Berlin:20261212T120000
+STATUS:CONFIRMED
+SEQUENCE:264
+LOCATION:La face de Bellevarde\, Val dIsere\, Frankreich
+SUMMARY:Ski Alpin Val dIsere Riesenslalom (Männer)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:7e42e2580606bd8c9bdcc4d48aff@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20261212T121500
+DTEND;TZID=Europe/Berlin:20261212T141500
+STATUS:CONFIRMED
+SEQUENCE:587
+LOCATION:Biathlonstadion Sylvie Becaert\, Annecy\, Frankreich
+SUMMARY:Biathlon Annecy 10km Verfolgung (Frauen)
+CATEGORIES:Biathlon
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/biathlon
+END:VEVENT
+BEGIN:VEVENT
+UID:89e6b5ce7e2b62c8169adc9030ab@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20261212T154000
+DTEND;TZID=Europe/Berlin:20261212T174000
+STATUS:CONFIRMED
+SEQUENCE:584
+LOCATION:Hochfirstschanze HS 142\, Titisee-Neustadt\, Deutschland
+SUMMARY:Skispringen Titisee-Neustadt HS 142 Einzel (Männer)
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:98397fe3bd9698a22b408598050c@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20261212T144500
+DTEND;TZID=Europe/Berlin:20261212T164500
+STATUS:CONFIRMED
+SEQUENCE:587
+LOCATION:Biathlonstadion Sylvie Becaert\, Annecy\, Frankreich
+SUMMARY:Biathlon Annecy 12.5km Verfolgung (Männer)
+CATEGORIES:Biathlon
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/biathlon
+END:VEVENT
+BEGIN:VEVENT
+UID:fis-JP7809@julian-wintersport
+DTSTAMP:20261024T081731Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Skispringen – Qualifikation Titisee-Neustadt (Herren)
+LOCATION:Titisee-Neustadt
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+DESCRIPTION:Terminquelle: FIS Weltcupkalender 2026/27. Startzeit noch nicht
+  bestätigt\; vorläufig ganztägig. Änderungen möglich.
+URL:https://www.fis-ski.com/DB/general/results.html?sectorcode=JP&raceid=78
+ 09
+END:VEVENT
+BEGIN:VEVENT
+UID:fis-JP7824@julian-wintersport
+DTSTAMP:20261024T081731Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Skispringen – Qualifikation Titisee-Neustadt (Damen)
+LOCATION:Titisee-Neustadt
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+DESCRIPTION:Terminquelle: FIS Weltcupkalender 2026/27. Startzeit noch nicht
+  bestätigt\; vorläufig ganztägig. Änderungen möglich.
+URL:https://www.fis-ski.com/DB/general/results.html?sectorcode=JP&raceid=78
+ 24
+END:VEVENT
+BEGIN:VEVENT
+UID:1032f4cd5d6c5c982c28569fa8df@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20261213T144500
+DTEND;TZID=Europe/Berlin:20261213T164500
+STATUS:CONFIRMED
+SEQUENCE:587
+LOCATION:Biathlonstadion Sylvie Becaert\, Annecy\, Frankreich
+SUMMARY:Biathlon Annecy 15km Massenstart (Männer)
+CATEGORIES:Biathlon
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/biathlon
+END:VEVENT
+BEGIN:VEVENT
+UID:3b6405023d9daf6904df48b1a884@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20261213T121500
+DTEND;TZID=Europe/Berlin:20261213T141500
+STATUS:CONFIRMED
+SEQUENCE:587
+LOCATION:Biathlonstadion Sylvie Becaert\, Annecy\, Frankreich
+SUMMARY:Biathlon Annecy 12.5km Massenstart (Frauen)
+CATEGORIES:Biathlon
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/biathlon
+END:VEVENT
+BEGIN:VEVENT
+UID:7f6fe551d1ead0e43dab410edb13@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20261213T130000
+DTEND;TZID=Europe/Berlin:20261213T150000
+STATUS:CONFIRMED
+SEQUENCE:584
+LOCATION:Hochfirstschanze HS 142\, Titisee-Neustadt\, Deutschland
+SUMMARY:Skispringen Titisee-Neustadt HS 142 Einzel (Frauen)
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:8a868643eef0ac5da4eb88259e4d@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20261213T100000
+DTEND;TZID=Europe/Berlin:20261213T120000
+STATUS:CONFIRMED
+SEQUENCE:264
+LOCATION:La face de Bellevarde\, Val dIsere\, Frankreich
+SUMMARY:Ski Alpin Val dIsere Slalom (Männer)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:b684bfddcd4655ff04de903a0e9c@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20261213T190000
+DTEND;TZID=Europe/Berlin:20261213T210000
+STATUS:CONFIRMED
+SEQUENCE:264
+LOCATION:Birds of Prey / Golden Eagle\, Beaver Creek\, CO\, USA
+SUMMARY:Ski Alpin Beaver Creek Super-G (Frauen)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:d68f766b316c8a43af0fa2fd4541@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20261213T153000
+DTEND;TZID=Europe/Berlin:20261213T173000
+STATUS:CONFIRMED
+SEQUENCE:584
+LOCATION:Hochfirstschanze HS 142\, Titisee-Neustadt\, Deutschland
+SUMMARY:Skispringen Titisee-Neustadt HS 142 Einzel (Männer)
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:2250aa696d645badd13bdaabf960@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20261218T103000
+DTEND;TZID=Europe/Berlin:20261218T123000
+STATUS:CONFIRMED
+SEQUENCE:264
+LOCATION:Engiadina\, St. Moritz\, Schweiz
+SUMMARY:Ski Alpin St. Moritz Super-G (Frauen)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:b372fd56e738460d6613cedaeeb9@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20261218T120000
+DTEND;TZID=Europe/Berlin:20261218T140000
+STATUS:CONFIRMED
+SEQUENCE:264
+LOCATION:Saslong\, Gröden\, Italien
+SUMMARY:Ski Alpin Val Gardena / Gröden Super-G (Männer)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:fis-JP7812@julian-wintersport
+DTSTAMP:20261024T081731Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:Skispringen – Qualifikation Engelberg (Damen)
+LOCATION:Engelberg
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+DESCRIPTION:Terminquelle: FIS Weltcupkalender 2026/27. Startzeit noch nicht
+  bestätigt\; vorläufig ganztägig. Änderungen möglich.
+URL:https://www.fis-ski.com/DB/general/results.html?sectorcode=JP&raceid=78
+ 12
+END:VEVENT
+BEGIN:VEVENT
+UID:fis-JP7813@julian-wintersport
+DTSTAMP:20261024T081731Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:Skispringen – Qualifikation Engelberg (Herren)
+LOCATION:Engelberg
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+DESCRIPTION:Terminquelle: FIS Weltcupkalender 2026/27. Startzeit noch nicht
+  bestätigt\; vorläufig ganztägig. Änderungen möglich.
+URL:https://www.fis-ski.com/DB/general/results.html?sectorcode=JP&raceid=78
+ 13
+END:VEVENT
+BEGIN:VEVENT
+UID:5cc72e65595f4cef178072e8f5d9@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20261219T131500
+DTEND;TZID=Europe/Berlin:20261219T151500
+STATUS:CONFIRMED
+SEQUENCE:584
+LOCATION:Groß-Titlis-Schanze HS 140\, Engelberg\, Schweiz
+SUMMARY:Skispringen Engelberg HS 140 Einzel (Frauen)
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:98bdb74991b2ee2130e4705c530d@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20261219T103000
+DTEND;TZID=Europe/Berlin:20261219T123000
+STATUS:CONFIRMED
+SEQUENCE:264
+LOCATION:Engiadina\, St. Moritz\, Schweiz
+SUMMARY:Ski Alpin St. Moritz Super-G (Frauen)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:c2c7f60fbd831d44720447205fe3@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20261219T160000
+DTEND;TZID=Europe/Berlin:20261219T180000
+STATUS:CONFIRMED
+SEQUENCE:584
+LOCATION:Groß-Titlis-Schanze HS 140\, Engelberg\, Schweiz
+SUMMARY:Skispringen Engelberg HS 140 Einzel (Männer)
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:f99d0f7b426eed8e5865363220e3@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20261219T120000
+DTEND;TZID=Europe/Berlin:20261219T140000
+STATUS:CONFIRMED
+SEQUENCE:264
+LOCATION:Saslong\, Gröden\, Italien
+SUMMARY:Ski Alpin Val Gardena / Gröden Abfahrt (Männer)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:10e7940d641ac6de1b9124135126@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20261220T093000
+DTEND;TZID=Europe/Berlin:20261220T113000
+STATUS:CONFIRMED
+SEQUENCE:264
+LOCATION:Engiadina\, St. Moritz\, Schweiz
+SUMMARY:Ski Alpin St. Moritz Riesenslalom (Frauen)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:1ddf87ddc7f18d9d84e59e9edd23@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20261220T103000
+DTEND;TZID=Europe/Berlin:20261220T123000
+STATUS:CONFIRMED
+SEQUENCE:264
+LOCATION:Gran Risa\, Alta Badia\, Italien
+SUMMARY:Ski Alpin Alta Badia Riesenslalom (Männer)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:691a6970daabd9e4b316e80e8fa4@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+STATUS:CONFIRMED
+SEQUENCE:584
+LOCATION:Groß-Titlis-Schanze HS 140\, Engelberg\, Schweiz
+SUMMARY:Skispringen Engelberg HS 140 Einzel (Männer)
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten. Startzeit noch nicht bestätigt\; des
+ halb vorläufig ganztägig.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:800c91347fc27e1c57a26084443c@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20261220T133000
+DTEND;TZID=Europe/Berlin:20261220T153000
+STATUS:CONFIRMED
+SEQUENCE:584
+LOCATION:Groß-Titlis-Schanze HS 140\, Engelberg\, Schweiz
+SUMMARY:Skispringen Engelberg HS 140 Einzel (Frauen)
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:db8996129c223fee8841fb1f1b57@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20261221T174500
+DTEND;TZID=Europe/Berlin:20261221T194500
+STATUS:CONFIRMED
+SEQUENCE:264
+LOCATION:Gran Risa\, Alta Badia\, Italien
+SUMMARY:Ski Alpin Alta Badia Slalom (Männer)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:ae83cd04a72c67ef67d365599852@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20261222T174500
+DTEND;TZID=Europe/Berlin:20261222T194500
+STATUS:CONFIRMED
+SEQUENCE:264
+LOCATION:Stade Emile Allais\, Courchevel\, Frankreich
+SUMMARY:Ski Alpin Courchevel Slalom (Frauen)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:b15fc7e9be72b9e5219c695f91e2@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20261223T174500
+DTEND;TZID=Europe/Berlin:20261223T194500
+STATUS:CONFIRMED
+SEQUENCE:264
+LOCATION:Canalone Miramonti\, Madonna di Campiglio\, Italien
+SUMMARY:Ski Alpin Madonna di Campiglio Slalom (Männer)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:2e9ac5d796b8db000d1039a76d6c@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20261228T151500
+DTEND;TZID=Europe/Berlin:20261228T171500
+STATUS:CONFIRMED
+SEQUENCE:584
+LOCATION:Schattenbergschanze HS 137\, Oberstdorf\, Deutschland
+SUMMARY:Skispringen Vierschanzentournee Oberstdorf (Frauen)
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:81b4d70d0a42664f8c20c5c7f43f@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20261228T113000
+DTEND;TZID=Europe/Berlin:20261228T133000
+STATUS:CONFIRMED
+SEQUENCE:264
+LOCATION:Stelvio\, Bormio\, Italien
+SUMMARY:Ski Alpin Bormio Abfahrt (Männer)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:f3043d462979a7f1095be3a4ec71@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20261228T100000
+DTEND;TZID=Europe/Berlin:20261228T120000
+STATUS:CONFIRMED
+SEQUENCE:264
+LOCATION:Hornspitz\, Gosau\, Österreich
+SUMMARY:Ski Alpin Dachstein West / Gosau Riesenslalom (Frauen)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:fis-JP7827@julian-wintersport
+DTSTAMP:20261024T081731Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+SUMMARY:Skispringen – Qualifikation Oberstdorf (Damen)
+LOCATION:Oberstdorf
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+DESCRIPTION:Terminquelle: FIS Weltcupkalender 2026/27. Startzeit noch nicht
+  bestätigt\; vorläufig ganztägig. Änderungen möglich.
+URL:https://www.fis-ski.com/DB/general/results.html?sectorcode=JP&raceid=78
+ 27
+END:VEVENT
+BEGIN:VEVENT
+UID:fis-JP7828@julian-wintersport
+DTSTAMP:20261024T081731Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+SUMMARY:Skispringen – Qualifikation Oberstdorf (Herren)
+LOCATION:Oberstdorf
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+DESCRIPTION:Terminquelle: FIS Weltcupkalender 2026/27. Startzeit noch nicht
+  bestätigt\; vorläufig ganztägig. Änderungen möglich.
+URL:https://www.fis-ski.com/DB/general/results.html?sectorcode=JP&raceid=78
+ 28
+END:VEVENT
+BEGIN:VEVENT
+UID:a2f06aeddce38531c64bf3c51baf@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20261229T163000
+DTEND;TZID=Europe/Berlin:20261229T183000
+STATUS:CONFIRMED
+SEQUENCE:584
+LOCATION:Schattenbergschanze HS 137\, Oberstdorf\, Deutschland
+SUMMARY:Skispringen Vierschanzentournee Oberstdorf (Männer)
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:d96b8b444f715d52ca7003998e69@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20261229T100000
+DTEND;TZID=Europe/Berlin:20261229T120000
+STATUS:CONFIRMED
+SEQUENCE:264
+LOCATION:Hornspitz\, Gosau\, Österreich
+SUMMARY:Ski Alpin Dachstein West / Gosau Slalom (Frauen)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:ddc2e0b015db43a7e3a30420c508@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20261229T113000
+DTEND;TZID=Europe/Berlin:20261229T133000
+STATUS:CONFIRMED
+SEQUENCE:264
+LOCATION:Stelvio\, Bormio\, Italien
+SUMMARY:Ski Alpin Bormio Super-G (Männer)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:98f032121504afef98fa2dce1d38@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20261231T140000
+DTEND;TZID=Europe/Berlin:20261231T160000
+STATUS:CONFIRMED
+SEQUENCE:584
+LOCATION:Große Olympiaschanze HS 142\, Garmisch-Partenkirchen\, Deutschlan
+ d
+SUMMARY:Skispringen Vierschanzentournee Garmisch-Partenkirchen (Frauen)
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:fis-JP7831@julian-wintersport
+DTSTAMP:20261024T081731Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:Skispringen – Qualifikation Garmisch-Partenkirchen (Damen)
+LOCATION:Garmisch-Partenkirchen
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+DESCRIPTION:Terminquelle: FIS Weltcupkalender 2026/27. Startzeit noch nicht
+  bestätigt\; vorläufig ganztägig. Änderungen möglich.
+URL:https://www.fis-ski.com/DB/general/results.html?sectorcode=JP&raceid=78
+ 31
+END:VEVENT
+BEGIN:VEVENT
+UID:fis-JP7832@julian-wintersport
+DTSTAMP:20261024T081731Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:Skispringen – Qualifikation Garmisch-Partenkirchen (Herren)
+LOCATION:Garmisch-Partenkirchen
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+DESCRIPTION:Terminquelle: FIS Weltcupkalender 2026/27. Startzeit noch nicht
+  bestätigt\; vorläufig ganztägig. Änderungen möglich.
+URL:https://www.fis-ski.com/DB/general/results.html?sectorcode=JP&raceid=78
+ 32
+END:VEVENT
+BEGIN:VEVENT
+UID:245d2b38845ebe11518eb81422ef@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270101T163000
+DTEND;TZID=Europe/Berlin:20270101T183000
+STATUS:CONFIRMED
+SEQUENCE:584
+LOCATION:Große Olympiaschanze HS 142\, Garmisch-Partenkirchen\, Deutschlan
+ d
+SUMMARY:Skispringen Vierschanzentournee Garmisch-Partenkirchen (Männer)
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:1fe930ded5deae5bf2396a71c2c2@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270102T153000
+DTEND;TZID=Europe/Berlin:20270102T173000
+STATUS:CONFIRMED
+SEQUENCE:584
+LOCATION:Bergisel Sprungschanze HS 128\, Innsbruck\, Österreich
+SUMMARY:Skispringen Vierschanzentournee Innsbruck (Frauen)
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:4f96cc040d7ee0d57ba53d6e1279@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270102T141000
+DTEND;TZID=Europe/Berlin:20270102T161000
+STATUS:CONFIRMED
+SEQUENCE:587
+LOCATION:Pokljuka Sportni Center\, Slowenien
+SUMMARY:Biathlon Pokljuka 7.5km Sprint (Frauen)
+CATEGORIES:Biathlon
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/biathlon
+END:VEVENT
+BEGIN:VEVENT
+UID:5af16ed0a5a1b61e50c189d3859c@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270102T112500
+DTEND;TZID=Europe/Berlin:20270102T132500
+STATUS:CONFIRMED
+SEQUENCE:587
+LOCATION:Pokljuka Sportni Center\, Slowenien
+SUMMARY:Biathlon Pokljuka 10km Sprint (Männer)
+CATEGORIES:Biathlon
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/biathlon
+END:VEVENT
+BEGIN:VEVENT
+UID:72d48a5cb7ca32c8a41303c973d3@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270102T100000
+DTEND;TZID=Europe/Berlin:20270102T120000
+STATUS:CONFIRMED
+SEQUENCE:264
+LOCATION:Podkoren 3\, Kranjska Gora\, Slowenien
+SUMMARY:Ski Alpin Kranjska Gora Riesenslalom (Männer)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:fis-JP7836@julian-wintersport
+DTSTAMP:20261024T081731Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:Skispringen – Qualifikation Innsbruck (Damen)
+LOCATION:Innsbruck
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+DESCRIPTION:Terminquelle: FIS Weltcupkalender 2026/27. Startzeit noch nicht
+  bestätigt\; vorläufig ganztägig. Änderungen möglich.
+URL:https://www.fis-ski.com/DB/general/results.html?sectorcode=JP&raceid=78
+ 36
+END:VEVENT
+BEGIN:VEVENT
+UID:fis-JP7837@julian-wintersport
+DTSTAMP:20261024T081731Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:Skispringen – Qualifikation Innsbruck (Herren)
+LOCATION:Innsbruck
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+DESCRIPTION:Terminquelle: FIS Weltcupkalender 2026/27. Startzeit noch nicht
+  bestätigt\; vorläufig ganztägig. Änderungen möglich.
+URL:https://www.fis-ski.com/DB/general/results.html?sectorcode=JP&raceid=78
+ 37
+END:VEVENT
+BEGIN:VEVENT
+UID:40ab371724ab9fb81003409c8c71@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270103T100000
+DTEND;TZID=Europe/Berlin:20270103T120000
+STATUS:CONFIRMED
+SEQUENCE:264
+LOCATION:Podkoren 3\, Kranjska Gora\, Slowenien
+SUMMARY:Ski Alpin Kranjska Gora Slalom (Männer)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:ad986b06511ceddfa63576afa7ca@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270103T163000
+DTEND;TZID=Europe/Berlin:20270103T183000
+STATUS:CONFIRMED
+SEQUENCE:584
+LOCATION:Bergisel Sprungschanze HS 130\, Innsbruck\, Österreich
+SUMMARY:Skispringen Vierschanzentournee Innsbruck (Männer)
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:b0f285331ef1d0356f18feb7b28d@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270103T141500
+DTEND;TZID=Europe/Berlin:20270103T161500
+STATUS:CONFIRMED
+SEQUENCE:587
+LOCATION:Pokljuka Sportni Center\, Slowenien
+SUMMARY:Biathlon Pokljuka Staffel 4x6km (Frauen)
+CATEGORIES:Biathlon
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/biathlon
+END:VEVENT
+BEGIN:VEVENT
+UID:f24cc6527b05782483572e47f520@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270103T113500
+DTEND;TZID=Europe/Berlin:20270103T133500
+STATUS:CONFIRMED
+SEQUENCE:587
+LOCATION:Pokljuka Sportni Center\, Slowenien
+SUMMARY:Biathlon Pokljuka Staffel 4x7.5km (Männer)
+CATEGORIES:Biathlon
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/biathlon
+END:VEVENT
+BEGIN:VEVENT
+UID:0cc58804cdcba389edd282e7354e@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270104T174500
+DTEND;TZID=Europe/Berlin:20270104T194500
+STATUS:CONFIRMED
+SEQUENCE:264
+LOCATION:Hermann Maier Weltcupstrecke\, Flachau\, Österreich
+SUMMARY:Ski Alpin Flachau Riesenslalom (Frauen)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:767ad2ccf5cb1b7b027688369fbd@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270105T180000
+DTEND;TZID=Europe/Berlin:20270105T200000
+STATUS:CONFIRMED
+SEQUENCE:264
+LOCATION:Hermann Maier Weltcupstrecke\, Flachau\, Österreich
+SUMMARY:Ski Alpin Flachau Slalom (Frauen)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:8ca473aa67922b45fe972e7558f7@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270106
+STATUS:CONFIRMED
+SEQUENCE:584
+LOCATION:Paul-Außerleitner-Schanze HS 142\, Bischofshofen\, Österreich
+SUMMARY:Skispringen Vierschanzentournee Bischofshofen (Frauen)
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten. Startzeit noch nicht bestätigt\; des
+ halb vorläufig ganztägig.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:fis-JP7840@julian-wintersport
+DTSTAMP:20261024T081731Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270106
+SUMMARY:Skispringen – Qualifikation Bischofshofen (Damen)
+LOCATION:Bischofshofen
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+DESCRIPTION:Terminquelle: FIS Weltcupkalender 2026/27. Startzeit noch nicht
+  bestätigt\; vorläufig ganztägig. Änderungen möglich.
+URL:https://www.fis-ski.com/DB/general/results.html?sectorcode=JP&raceid=78
+ 40
+END:VEVENT
+BEGIN:VEVENT
+UID:fis-JP7841@julian-wintersport
+DTSTAMP:20261024T081731Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270106
+SUMMARY:Skispringen – Qualifikation Bischofshofen (Herren)
+LOCATION:Bischofshofen
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+DESCRIPTION:Terminquelle: FIS Weltcupkalender 2026/27. Startzeit noch nicht
+  bestätigt\; vorläufig ganztägig. Änderungen möglich.
+URL:https://www.fis-ski.com/DB/general/results.html?sectorcode=JP&raceid=78
+ 41
+END:VEVENT
+BEGIN:VEVENT
+UID:0a9f7f429641cb3a89732714a21d@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270106T141500
+DTEND;TZID=Europe/Berlin:20270106T161500
+STATUS:CONFIRMED
+SEQUENCE:587
+LOCATION:Chiemgau-Arena\, Ruhpolding\, Deutschland
+SUMMARY:Biathlon Ruhpolding Staffel 4x6km (Frauen)
+CATEGORIES:Biathlon
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/biathlon
+END:VEVENT
+BEGIN:VEVENT
+UID:700d3f5d19279c10093901adc653@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+STATUS:CONFIRMED
+SEQUENCE:584
+LOCATION:-
+SUMMARY:Skispringen Vierschanzentournee Gesamtwertung (Frauen)
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten. Startzeit noch nicht bestätigt\; des
+ halb vorläufig ganztägig.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:a52db3f384b41f14e671ab896aab@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+STATUS:CONFIRMED
+SEQUENCE:584
+LOCATION:-
+SUMMARY:Skispringen Vierschanzentournee Gesamtwertung (Männer)
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten. Startzeit noch nicht bestätigt\; des
+ halb vorläufig ganztägig.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:b9a36d7167058dd7780c108e0b84@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+STATUS:CONFIRMED
+SEQUENCE:584
+LOCATION:Paul-Außerleitner-Schanze HS 142\, Bischofshofen\, Österreich
+SUMMARY:Skispringen Vierschanzentournee Bischofshofen (Männer)
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten. Startzeit noch nicht bestätigt\; des
+ halb vorläufig ganztägig.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:bd0c1409b3183f662406c736f29b@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270107T141500
+DTEND;TZID=Europe/Berlin:20270107T161500
+STATUS:CONFIRMED
+SEQUENCE:587
+LOCATION:Chiemgau-Arena\, Ruhpolding\, Deutschland
+SUMMARY:Biathlon Ruhpolding Staffel 4x7.5km (Männer)
+CATEGORIES:Biathlon
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/biathlon
+END:VEVENT
+BEGIN:VEVENT
+UID:734a8fe86ec42f40dcffa543b303@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270108T141500
+DTEND;TZID=Europe/Berlin:20270108T161500
+STATUS:CONFIRMED
+SEQUENCE:587
+LOCATION:Chiemgau-Arena\, Ruhpolding\, Deutschland
+SUMMARY:Biathlon Ruhpolding 7.5km Sprint (Frauen)
+CATEGORIES:Biathlon
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/biathlon
+END:VEVENT
+BEGIN:VEVENT
+UID:188990fa61ed75be4960a652ac28@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+STATUS:CONFIRMED
+SEQUENCE:584
+LOCATION:Logarska Dalina HS 94\, Ljubno\, Slowenien
+SUMMARY:Skispringen Ljubno HS 94 Einzel (Frauen)
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten. Startzeit noch nicht bestätigt\; des
+ halb vorläufig ganztägig.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:ba18f9054b12359e114fe0257ba0@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270109T113000
+DTEND;TZID=Europe/Berlin:20270109T133000
+STATUS:CONFIRMED
+SEQUENCE:264
+LOCATION:La Volata\, Val di Fassa\, Italien
+SUMMARY:Ski Alpin Val di Fassa Abfahrt (Frauen)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:d69749f2ad9149b6e7711cd28ab8@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270109T143000
+DTEND;TZID=Europe/Berlin:20270109T163000
+STATUS:CONFIRMED
+SEQUENCE:587
+LOCATION:Chiemgau-Arena\, Ruhpolding\, Deutschland
+SUMMARY:Biathlon Ruhpolding 10km Sprint (Männer)
+CATEGORIES:Biathlon
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/biathlon
+END:VEVENT
+BEGIN:VEVENT
+UID:ec36cd417f0359d68c20a71a51fb@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270109T103000
+DTEND;TZID=Europe/Berlin:20270109T123000
+STATUS:CONFIRMED
+SEQUENCE:264
+LOCATION:Chuenisbärgli\, Adelboden\, Schweiz
+SUMMARY:Ski Alpin Adelboden Riesenslalom (Männer)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:fis-JP7844@julian-wintersport
+DTSTAMP:20261024T081731Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:Skispringen – Qualifikation Ljubno (Damen)
+LOCATION:Ljubno
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+DESCRIPTION:Terminquelle: FIS Weltcupkalender 2026/27. Startzeit noch nicht
+  bestätigt\; vorläufig ganztägig. Änderungen möglich.
+URL:https://www.fis-ski.com/DB/general/results.html?sectorcode=JP&raceid=78
+ 44
+END:VEVENT
+BEGIN:VEVENT
+UID:7abbc0f2041739657eb3e20fe230@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270110T120000
+DTEND;TZID=Europe/Berlin:20270110T140000
+STATUS:CONFIRMED
+SEQUENCE:587
+LOCATION:Chiemgau-Arena\, Ruhpolding\, Deutschland
+SUMMARY:Biathlon Ruhpolding 10km Verfolgung (Frauen)
+CATEGORIES:Biathlon
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/biathlon
+END:VEVENT
+BEGIN:VEVENT
+UID:bd07422a69bb999a8f8726e62cb0@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270110T103000
+DTEND;TZID=Europe/Berlin:20270110T123000
+STATUS:CONFIRMED
+SEQUENCE:264
+LOCATION:Chuenisbärgli\, Adelboden\, Schweiz
+SUMMARY:Ski Alpin Adelboden Slalom (Männer)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:c9a631515914c83314407470b1eb@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+STATUS:CONFIRMED
+SEQUENCE:584
+LOCATION:Logarska Dalina HS 94\, Ljubno\, Slowenien
+SUMMARY:Skispringen Ljubno HS 94 Einzel (Frauen)
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten. Startzeit noch nicht bestätigt\; des
+ halb vorläufig ganztägig.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:d0084eef8b8ae8c1e3a72099759e@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270110T113000
+DTEND;TZID=Europe/Berlin:20270110T133000
+STATUS:CONFIRMED
+SEQUENCE:264
+LOCATION:La Volata\, Val di Fassa\, Italien
+SUMMARY:Ski Alpin Val di Fassa Super-G (Frauen)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:fda0cb52bafb3bc761eeffa19ba3@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270110T144500
+DTEND;TZID=Europe/Berlin:20270110T164500
+STATUS:CONFIRMED
+SEQUENCE:587
+LOCATION:Chiemgau-Arena\, Ruhpolding\, Deutschland
+SUMMARY:Biathlon Ruhpolding 12.5km Verfolgung (Männer)
+CATEGORIES:Biathlon
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/biathlon
+END:VEVENT
+BEGIN:VEVENT
+UID:fis-JP7846@julian-wintersport
+DTSTAMP:20261024T081731Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Skispringen – Qualifikation Ljubno (Damen)
+LOCATION:Ljubno
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+DESCRIPTION:Terminquelle: FIS Weltcupkalender 2026/27. Startzeit noch nicht
+  bestätigt\; vorläufig ganztägig. Änderungen möglich.
+URL:https://www.fis-ski.com/DB/general/results.html?sectorcode=JP&raceid=78
+ 46
+END:VEVENT
+BEGIN:VEVENT
+UID:1b596dd0e829c30ae70c423bdc05@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270114T141500
+DTEND;TZID=Europe/Berlin:20270114T161500
+STATUS:CONFIRMED
+SEQUENCE:587
+LOCATION:Südtirol Arena\, Antholz\, Italien
+SUMMARY:Biathlon Antholz 20km Einzel (Männer)
+CATEGORIES:Biathlon
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/biathlon
+END:VEVENT
+BEGIN:VEVENT
+UID:386cae934a1be9110369535e2633@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270115T110000
+DTEND;TZID=Europe/Berlin:20270115T130000
+STATUS:CONFIRMED
+SEQUENCE:264
+LOCATION:Olympia delle Tofane\, Cortina dAmpezzo\, Italien
+SUMMARY:Ski Alpin Cortina dAmpezzo Abfahrt (Frauen)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:7f43aae3f2a4dc7c93e1c88e545d@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+STATUS:CONFIRMED
+SEQUENCE:584
+LOCATION:Snow Ruyi National Ski Jumping Centre HS 140\, Zhangjiakou\, China
+SUMMARY:Skispringen Zhangjiakou HS 140 Einzel (Frauen)
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten. Startzeit noch nicht bestätigt\; des
+ halb vorläufig ganztägig.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:9ecbc9786b4757689176d954791c@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270115T123000
+DTEND;TZID=Europe/Berlin:20270115T143000
+STATUS:CONFIRMED
+SEQUENCE:264
+LOCATION:Lauberhorn\, Wengen\, Schweiz
+SUMMARY:Ski Alpin Wengen Super-G (Männer)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:f35f0b104144f3f264b8bfc358cd@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270115T141500
+DTEND;TZID=Europe/Berlin:20270115T161500
+STATUS:CONFIRMED
+SEQUENCE:587
+LOCATION:Südtirol Arena\, Antholz\, Italien
+SUMMARY:Biathlon Antholz 15km Einzel (Frauen)
+CATEGORIES:Biathlon
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/biathlon
+END:VEVENT
+BEGIN:VEVENT
+UID:fis-JP7848@julian-wintersport
+DTSTAMP:20261024T081731Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:Skispringen – Qualifikation Zhangjiakou (Damen)
+LOCATION:Zhangjiakou
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+DESCRIPTION:Terminquelle: FIS Weltcupkalender 2026/27. Startzeit noch nicht
+  bestätigt\; vorläufig ganztägig. Änderungen möglich.
+URL:https://www.fis-ski.com/DB/general/results.html?sectorcode=JP&raceid=78
+ 48
+END:VEVENT
+BEGIN:VEVENT
+UID:fis-JP7856@julian-wintersport
+DTSTAMP:20261024T081731Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:Skispringen – Qualifikation Zakopane (Herren)
+LOCATION:Zakopane
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+DESCRIPTION:Terminquelle: FIS Weltcupkalender 2026/27. Startzeit noch nicht
+  bestätigt\; vorläufig ganztägig. Änderungen möglich.
+URL:https://www.fis-ski.com/DB/general/results.html?sectorcode=JP&raceid=78
+ 56
+END:VEVENT
+BEGIN:VEVENT
+UID:0c6da5d65396501e70ca93e0f9d0@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+STATUS:CONFIRMED
+SEQUENCE:584
+LOCATION:Wielka Krokiew HS 140\, Zakopane\, Polen
+SUMMARY:Skispringen Zakopane HS 140 Team (Männer)
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten. Startzeit noch nicht bestätigt\; des
+ halb vorläufig ganztägig.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:3ad7e5a801df71cd8f3690ca4c87@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+STATUS:CONFIRMED
+SEQUENCE:584
+LOCATION:Snow Ruyi National Ski Jumping Centre HS 140\, Zhangjiakou\, China
+SUMMARY:Skispringen Zhangjiakou HS 140 Einzel (Frauen)
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten. Startzeit noch nicht bestätigt\; des
+ halb vorläufig ganztägig.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:a12e609c44f0ac0d9e50d1eede59@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270116T143000
+DTEND;TZID=Europe/Berlin:20270116T163000
+STATUS:CONFIRMED
+SEQUENCE:587
+LOCATION:Südtirol Arena\, Antholz\, Italien
+SUMMARY:Biathlon Antholz Staffel mixed 4x6km (Mixed)
+CATEGORIES:Biathlon
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/biathlon
+END:VEVENT
+BEGIN:VEVENT
+UID:b8875aaa7e63e5861cae37d0bde7@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270116T114500
+DTEND;TZID=Europe/Berlin:20270116T134500
+STATUS:CONFIRMED
+SEQUENCE:587
+LOCATION:Südtirol Arena\, Antholz\, Italien
+SUMMARY:Biathlon Antholz Staffel single mixed (Mixed)
+CATEGORIES:Biathlon
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/biathlon
+END:VEVENT
+BEGIN:VEVENT
+UID:ca8532831c7bf30d38b0d2ea6c9d@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270116T123000
+DTEND;TZID=Europe/Berlin:20270116T143000
+STATUS:CONFIRMED
+SEQUENCE:264
+LOCATION:Lauberhorn\, Wengen\, Schweiz
+SUMMARY:Ski Alpin Wengen Abfahrt (Männer)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:ccb1f57769fcdd195e1fa3b48cdc@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270116T110000
+DTEND;TZID=Europe/Berlin:20270116T130000
+STATUS:CONFIRMED
+SEQUENCE:264
+LOCATION:Olympia delle Tofane\, Cortina dAmpezzo\, Italien
+SUMMARY:Ski Alpin Cortina dAmpezzo Abfahrt (Frauen)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:fis-JP7850@julian-wintersport
+DTSTAMP:20261024T081731Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:Skispringen – Qualifikation Zhangjiakou (Damen)
+LOCATION:Zhangjiakou
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+DESCRIPTION:Terminquelle: FIS Weltcupkalender 2026/27. Startzeit noch nicht
+  bestätigt\; vorläufig ganztägig. Änderungen möglich.
+URL:https://www.fis-ski.com/DB/general/results.html?sectorcode=JP&raceid=78
+ 50
+END:VEVENT
+BEGIN:VEVENT
+UID:164d0cc0f4ec0a260abc13436ea1@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270117T124500
+DTEND;TZID=Europe/Berlin:20270117T144500
+STATUS:CONFIRMED
+SEQUENCE:587
+LOCATION:Südtirol Arena\, Antholz\, Italien
+SUMMARY:Biathlon Antholz 15km Massenstart (Männer)
+CATEGORIES:Biathlon
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/biathlon
+END:VEVENT
+BEGIN:VEVENT
+UID:1fe750c02de6561e693d732eee98@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+STATUS:CONFIRMED
+SEQUENCE:584
+LOCATION:Wielka Krokiew HS 140\, Zakopane\, Polen
+SUMMARY:Skispringen Zakopane HS 140 Einzel (Männer)
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten. Startzeit noch nicht bestätigt\; des
+ halb vorläufig ganztägig.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:2334ecf752c3276e22c56744c038@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270117T150000
+DTEND;TZID=Europe/Berlin:20270117T170000
+STATUS:CONFIRMED
+SEQUENCE:587
+LOCATION:Südtirol Arena\, Antholz\, Italien
+SUMMARY:Biathlon Antholz 12.5km Massenstart (Frauen)
+CATEGORIES:Biathlon
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/biathlon
+END:VEVENT
+BEGIN:VEVENT
+UID:492e45bea07c510ae286d04227b6@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270117T100000
+DTEND;TZID=Europe/Berlin:20270117T120000
+STATUS:CONFIRMED
+SEQUENCE:264
+LOCATION:Lauberhorn\, Wengen\, Schweiz
+SUMMARY:Ski Alpin Wengen Slalom (Männer)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:f89e3b7b2b498dab8222d49d0e8e@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270117T111500
+DTEND;TZID=Europe/Berlin:20270117T131500
+STATUS:CONFIRMED
+SEQUENCE:264
+LOCATION:Olympia delle Tofane\, Cortina dAmpezzo\, Italien
+SUMMARY:Ski Alpin Cortina dAmpezzo Super-G (Frauen)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:d5f3146c10ecbcab610768ed5f9c@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;VALUE=DATE:20270119
+DTEND;VALUE=DATE:20270120
+STATUS:CONFIRMED
+SEQUENCE:584
+LOCATION:Zaō-Schanze HS 102\, Yamagata\, Japan
+SUMMARY:Skispringen Zao HS 102 Einzel (Frauen)
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten. Startzeit noch nicht bestätigt\; des
+ halb vorläufig ganztägig.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:d73471faca04fd4211ae1938ae1d@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270119T103000
+DTEND;TZID=Europe/Berlin:20270119T123000
+STATUS:CONFIRMED
+SEQUENCE:264
+LOCATION:ERTA\, Enneberg\, Italien
+SUMMARY:Ski Alpin Kronplatz Riesenslalom (Frauen)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:fis-JP7852@julian-wintersport
+DTSTAMP:20261024T081731Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270119
+DTEND;VALUE=DATE:20270120
+SUMMARY:Skispringen – Qualifikation Zao (Damen)
+LOCATION:Zao
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+DESCRIPTION:Terminquelle: FIS Weltcupkalender 2026/27. Startzeit noch nicht
+  bestätigt\; vorläufig ganztägig. Änderungen möglich.
+URL:https://www.fis-ski.com/DB/general/results.html?sectorcode=JP&raceid=78
+ 52
+END:VEVENT
+BEGIN:VEVENT
+UID:97d306ca65d8321f786e1d163891@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+STATUS:CONFIRMED
+SEQUENCE:584
+LOCATION:Zaō-Schanze HS 102\, Yamagata\, Japan
+SUMMARY:Skispringen Zao HS 102 Einzel (Frauen)
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten. Startzeit noch nicht bestätigt\; des
+ halb vorläufig ganztägig.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:84c167fcd29d14e420b0313b0b6a@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270121T163000
+DTEND;TZID=Europe/Berlin:20270121T183000
+STATUS:CONFIRMED
+SEQUENCE:587
+LOCATION:Biathlon Arena Nove Mesto Na Morave\, Tschechien
+SUMMARY:Biathlon Nove Mesto 7.5km Sprint (Frauen)
+CATEGORIES:Biathlon
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/biathlon
+END:VEVENT
+BEGIN:VEVENT
+UID:0cceca875795e8b8381c3f9369a3@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+STATUS:CONFIRMED
+SEQUENCE:584
+LOCATION:Ōkurayama-Schanze HS 137\, Sapporo\, Japan
+SUMMARY:Skispringen Sapporo HS 137 Einzel (Frauen)
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten. Startzeit noch nicht bestätigt\; des
+ halb vorläufig ganztägig.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:15a37eaf52539b5864723b2d0ec7@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270122T163000
+DTEND;TZID=Europe/Berlin:20270122T183000
+STATUS:CONFIRMED
+SEQUENCE:587
+LOCATION:Biathlon Arena Nove Mesto Na Morave\, Tschechien
+SUMMARY:Biathlon Nove Mesto 10km Sprint (Männer)
+CATEGORIES:Biathlon
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/biathlon
+END:VEVENT
+BEGIN:VEVENT
+UID:7b32c0e7dd5c072aaad4689539bb@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270122T113000
+DTEND;TZID=Europe/Berlin:20270122T133000
+STATUS:CONFIRMED
+SEQUENCE:264
+LOCATION:Streif\, Kitzbühel\, Österreich
+SUMMARY:Ski Alpin Kitzbühel Super-G (Männer)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:fis-JP7859@julian-wintersport
+DTSTAMP:20261024T081731Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+SUMMARY:Skispringen – Qualifikation Sapporo (Damen)
+LOCATION:Sapporo
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+DESCRIPTION:Terminquelle: FIS Weltcupkalender 2026/27. Startzeit noch nicht
+  bestätigt\; vorläufig ganztägig. Änderungen möglich.
+URL:https://www.fis-ski.com/DB/general/results.html?sectorcode=JP&raceid=78
+ 59
+END:VEVENT
+BEGIN:VEVENT
+UID:0a272874e0e8c6aeea7dfb2da532@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270123T100000
+DTEND;TZID=Europe/Berlin:20270123T120000
+STATUS:CONFIRMED
+SEQUENCE:264
+LOCATION:Pretekárska Luková\, Jasná\, Slowakei
+SUMMARY:Ski Alpin Jasna Riesenslalom (Frauen)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:1c1b13259781c430e887185ea93d@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+STATUS:CONFIRMED
+SEQUENCE:584
+LOCATION:Ōkurayama-Schanze HS 137\, Sapporo\, Japan
+SUMMARY:Skispringen Sapporo HS 137 Einzel (Männer)
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten. Startzeit noch nicht bestätigt\; des
+ halb vorläufig ganztägig.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:365d4c0694cca297be6f942daeab@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270123T113000
+DTEND;TZID=Europe/Berlin:20270123T133000
+STATUS:CONFIRMED
+SEQUENCE:264
+LOCATION:Streif\, Kitzbühel\, Österreich
+SUMMARY:Ski Alpin Kitzbühel Abfahrt (Männer)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:af447cf5744afcf0290642e50d78@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270123T144500
+DTEND;TZID=Europe/Berlin:20270123T164500
+STATUS:CONFIRMED
+SEQUENCE:587
+LOCATION:Biathlon Arena Nove Mesto Na Morave\, Tschechien
+SUMMARY:Biathlon Nove Mesto 12.5km Massenstart (Frauen)
+CATEGORIES:Biathlon
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/biathlon
+END:VEVENT
+BEGIN:VEVENT
+UID:e98e406f04cc002053522ec4b45f@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+STATUS:CONFIRMED
+SEQUENCE:584
+LOCATION:Ōkurayama-Schanze HS 137\, Sapporo\, Japan
+SUMMARY:Skispringen Sapporo HS 137 Team (Mixed)
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten. Startzeit noch nicht bestätigt\; des
+ halb vorläufig ganztägig.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:fd1b5f0ee0b6b5a2b70b96e4324c@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270123T170000
+DTEND;TZID=Europe/Berlin:20270123T190000
+STATUS:CONFIRMED
+SEQUENCE:587
+LOCATION:Biathlon Arena Nove Mesto Na Morave\, Tschechien
+SUMMARY:Biathlon Nove Mesto Staffel 4x7.5km (Männer)
+CATEGORIES:Biathlon
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/biathlon
+END:VEVENT
+BEGIN:VEVENT
+UID:fis-JP7861@julian-wintersport
+DTSTAMP:20261024T081731Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:Skispringen – Qualifikation Sapporo (Herren)
+LOCATION:Sapporo
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+DESCRIPTION:Terminquelle: FIS Weltcupkalender 2026/27. Startzeit noch nicht
+  bestätigt\; vorläufig ganztägig. Änderungen möglich.
+URL:https://www.fis-ski.com/DB/general/results.html?sectorcode=JP&raceid=78
+ 61
+END:VEVENT
+BEGIN:VEVENT
+UID:42e57040f2856b2e04dc2e50b816@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270124T103000
+DTEND;TZID=Europe/Berlin:20270124T123000
+STATUS:CONFIRMED
+SEQUENCE:264
+LOCATION:Ganslern\, Kitzbühel\, Österreich
+SUMMARY:Ski Alpin Kitzbühel Slalom (Männer)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:ae4668e876e534c9199643113f1b@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+STATUS:CONFIRMED
+SEQUENCE:584
+LOCATION:Ōkurayama-Schanze HS 137\, Sapporo\, Japan
+SUMMARY:Skispringen Sapporo HS 137 Einzel (Männer)
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten. Startzeit noch nicht bestätigt\; des
+ halb vorläufig ganztägig.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:b37986c7b6a4925c237cb31b9738@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270124T171000
+DTEND;TZID=Europe/Berlin:20270124T191000
+STATUS:CONFIRMED
+SEQUENCE:587
+LOCATION:Biathlon Arena Nove Mesto Na Morave\, Tschechien
+SUMMARY:Biathlon Nove Mesto 15km Massenstart (Männer)
+CATEGORIES:Biathlon
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/biathlon
+END:VEVENT
+BEGIN:VEVENT
+UID:ce7c3ad03add8fabe8628c3aa743@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270124T093000
+DTEND;TZID=Europe/Berlin:20270124T113000
+STATUS:CONFIRMED
+SEQUENCE:264
+LOCATION:Pretekárska Luková\, Jasná\, Slowakei
+SUMMARY:Ski Alpin Jasna Slalom (Frauen)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:f381f8329743e3ac9c4951275fc9@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270124T143500
+DTEND;TZID=Europe/Berlin:20270124T163500
+STATUS:CONFIRMED
+SEQUENCE:587
+LOCATION:Biathlon Arena Nove Mesto Na Morave\, Tschechien
+SUMMARY:Biathlon Nove Mesto Staffel 4x6km (Frauen)
+CATEGORIES:Biathlon
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/biathlon
+END:VEVENT
+BEGIN:VEVENT
+UID:c2169995c4e8b8eb0285c30fae34@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270126T174500
+DTEND;TZID=Europe/Berlin:20270126T194500
+STATUS:CONFIRMED
+SEQUENCE:264
+LOCATION:Planai\, Schladming\, Österreich
+SUMMARY:Ski Alpin Schladming Riesenslalom (Männer)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:329868ff531cdbc9f688b1e10180@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270127T174500
+DTEND;TZID=Europe/Berlin:20270127T194500
+STATUS:CONFIRMED
+SEQUENCE:264
+LOCATION:Planai\, Schladming\, Österreich
+SUMMARY:Ski Alpin Schladming Slalom (Männer)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:267f73873070b980db9178337349@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270129T100000
+DTEND;TZID=Europe/Berlin:20270129T120000
+STATUS:CONFIRMED
+SEQUENCE:264
+LOCATION:Podkoren 3\, Kranjska Gora\, Slowenien
+SUMMARY:Ski Alpin Kranjska Gora Riesenslalom (Frauen)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:d1f494fe459c64191fde87037972@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270129T161000
+DTEND;TZID=Europe/Berlin:20270129T181000
+STATUS:CONFIRMED
+SEQUENCE:584
+LOCATION:Mühlenkopfschanze HS 147\, Willingen\, Deutschland
+SUMMARY:Skispringen Willingen HS 147 Team (Mixed)
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:fis-JP7866@julian-wintersport
+DTSTAMP:20261024T081731Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270129
+DTEND;VALUE=DATE:20270130
+SUMMARY:Skispringen – Qualifikation Willingen (Herren)
+LOCATION:Willingen
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+DESCRIPTION:Terminquelle: FIS Weltcupkalender 2026/27. Startzeit noch nicht
+  bestätigt\; vorläufig ganztägig. Änderungen möglich.
+URL:https://www.fis-ski.com/DB/general/results.html?sectorcode=JP&raceid=78
+ 66
+END:VEVENT
+BEGIN:VEVENT
+UID:80f05d1e022212e33918c8bd548e@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270130T103000
+DTEND;TZID=Europe/Berlin:20270130T123000
+STATUS:CONFIRMED
+SEQUENCE:264
+LOCATION:Podkoren 3\, Kranjska Gora\, Slowenien
+SUMMARY:Ski Alpin Kranjska Gora Slalom (Frauen)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:a18de998587c143a0aacb9468096@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270130T161000
+DTEND;TZID=Europe/Berlin:20270130T181000
+STATUS:CONFIRMED
+SEQUENCE:584
+LOCATION:Mühlenkopfschanze HS 147\, Willingen\, Deutschland
+SUMMARY:Skispringen Willingen HS 147 Einzel (Männer)
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:f62c7a629c2df56df5c76e6158f8@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270130T134500
+DTEND;TZID=Europe/Berlin:20270130T154500
+STATUS:CONFIRMED
+SEQUENCE:584
+LOCATION:Mühlenkopfschanze HS 147\, Willingen\, Deutschland
+SUMMARY:Skispringen Willingen HS 147 Einzel (Frauen)
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:f88ce8e66c78b255f1eb552c8866@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270130T093000
+DTEND;TZID=Europe/Berlin:20270130T113000
+STATUS:CONFIRMED
+SEQUENCE:264
+LOCATION:La Verte\, Chamonix\, Frankreich
+SUMMARY:Ski Alpin Chamonix Slalom (Männer)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:fis-JP7865@julian-wintersport
+DTSTAMP:20261024T081731Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:Skispringen – Qualifikation Willingen (Damen)
+LOCATION:Willingen
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+DESCRIPTION:Terminquelle: FIS Weltcupkalender 2026/27. Startzeit noch nicht
+  bestätigt\; vorläufig ganztägig. Änderungen möglich.
+URL:https://www.fis-ski.com/DB/general/results.html?sectorcode=JP&raceid=78
+ 65
+END:VEVENT
+BEGIN:VEVENT
+UID:039778b871f25766ed846415f114@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270131T160500
+DTEND;TZID=Europe/Berlin:20270131T180500
+STATUS:CONFIRMED
+SEQUENCE:584
+LOCATION:Mühlenkopfschanze HS 147\, Willingen\, Deutschland
+SUMMARY:Skispringen Willingen HS 147 Einzel (Männer)
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:0ff450b4c73df8ea4d14691e3915@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270131T131500
+DTEND;TZID=Europe/Berlin:20270131T151500
+STATUS:CONFIRMED
+SEQUENCE:584
+LOCATION:Mühlenkopfschanze HS 147\, Willingen\, Deutschland
+SUMMARY:Skispringen Willingen HS 147 Einzel (Frauen)
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:969c1c4490e1eb02d5bd8f8ab19e@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270201T111500
+DTEND;TZID=Europe/Berlin:20270201T131500
+STATUS:CONFIRMED
+SEQUENCE:6
+LOCATION:Piste Nationale\, Crans Montana\, Schweiz
+SUMMARY:Ski Alpin Weltmeisterschaft 2027 Crans-Montana (SUI) Team-Parallel 
+ (Mixed)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:fac27213f7b53eb7a1bd102150c4@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270204T111500
+DTEND;TZID=Europe/Berlin:20270204T131500
+STATUS:CONFIRMED
+SEQUENCE:6
+LOCATION:Mont Lachaux\, Crans Montana\, Schweiz
+SUMMARY:Ski Alpin Weltmeisterschaft 2027 Crans-Montana (SUI) Super-G (Fraue
+ n)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:c557ca47990d3d276e92574b8356@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270206
+STATUS:CONFIRMED
+SEQUENCE:584
+LOCATION:Olympic Jumping Complex\, Lake Placid\, NY\, USA
+SUMMARY:Skispringen Lake Placid HS 128 Einzel (Frauen)
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten. Startzeit noch nicht bestätigt\; des
+ halb vorläufig ganztägig.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:e9ce5c4cf9bbe9073f1afa5c99d3@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270205T111500
+DTEND;TZID=Europe/Berlin:20270205T131500
+STATUS:CONFIRMED
+SEQUENCE:6
+LOCATION:Piste Nationale\, Crans Montana\, Schweiz
+SUMMARY:Ski Alpin Weltmeisterschaft 2027 Crans-Montana (SUI) Super-G (Männ
+ er)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:fis-JP7871@julian-wintersport
+DTSTAMP:20261024T081731Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270206
+SUMMARY:Skispringen – Qualifikation Lake Placid (Damen)
+LOCATION:Lake Placid
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+DESCRIPTION:Terminquelle: FIS Weltcupkalender 2026/27. Startzeit noch nicht
+  bestätigt\; vorläufig ganztägig. Änderungen möglich.
+URL:https://www.fis-ski.com/DB/general/results.html?sectorcode=JP&raceid=78
+ 71
+END:VEVENT
+BEGIN:VEVENT
+UID:03b1a65811cd9031d4eb17477f50@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+STATUS:CONFIRMED
+SEQUENCE:584
+LOCATION:MacKenzie Intervale Ski Jumping Complex\, Lake Placid\, NY\, USA
+SUMMARY:Skispringen Lake Placid HS 128 Einzel (Männer)
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten. Startzeit noch nicht bestätigt\; des
+ halb vorläufig ganztägig.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:423d9620ec657b146b3982b7b419@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270206T111500
+DTEND;TZID=Europe/Berlin:20270206T131500
+STATUS:CONFIRMED
+SEQUENCE:6
+LOCATION:Mont Lachaux\, Crans Montana\, Schweiz
+SUMMARY:Ski Alpin Weltmeisterschaft 2027 Crans-Montana (SUI) Abfahrt (Fraue
+ n)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:fis-JP7872@julian-wintersport
+DTSTAMP:20261024T081731Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:Skispringen – Qualifikation Lake Placid (Herren)
+LOCATION:Lake Placid
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+DESCRIPTION:Terminquelle: FIS Weltcupkalender 2026/27. Startzeit noch nicht
+  bestätigt\; vorläufig ganztägig. Änderungen möglich.
+URL:https://www.fis-ski.com/DB/general/results.html?sectorcode=JP&raceid=78
+ 72
+END:VEVENT
+BEGIN:VEVENT
+UID:d316f27139bb0d6742522ebfc07d@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270207T111500
+DTEND;TZID=Europe/Berlin:20270207T131500
+STATUS:CONFIRMED
+SEQUENCE:6
+LOCATION:Piste Nationale\, Crans Montana\, Schweiz
+SUMMARY:Ski Alpin Weltmeisterschaft 2027 Crans-Montana (SUI) Abfahrt (Männ
+ er)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:ef5e5828acb8efb85b15379e2437@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+STATUS:CONFIRMED
+SEQUENCE:123
+LOCATION:MacKenzie Intervale Ski Jumping Complex\, Lake Placid\, NY\, USA
+SUMMARY:Skispringen Lake Placid HS 128 Team (Mixed)
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten. Startzeit noch nicht bestätigt\; des
+ halb vorläufig ganztägig.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:e4a2f1098f16b793e29c38af3859@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270209T100000
+DTEND;TZID=Europe/Berlin:20270209T120000
+STATUS:CONFIRMED
+SEQUENCE:6
+LOCATION:Mont Lachaux\, Crans Montana\, Schweiz
+SUMMARY:Ski Alpin Weltmeisterschaft 2027 Crans-Montana (SUI) Team-Kombinati
+ on (Frauen)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:8092e274eaacb77a4dc559f4edb8@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270210T100000
+DTEND;TZID=Europe/Berlin:20270210T120000
+STATUS:CONFIRMED
+SEQUENCE:6
+LOCATION:Piste Nationale\, Crans Montana\, Schweiz
+SUMMARY:Ski Alpin Weltmeisterschaft 2027 Crans-Montana (SUI) Team-Kombinati
+ on (Männer)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:897fce441bf4f3fea8dfea7c598f@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270210T161000
+DTEND;TZID=Europe/Berlin:20270210T181000
+STATUS:CONFIRMED
+SEQUENCE:214
+LOCATION:Tehvandi Sports Center\, Otepää\, Estland
+SUMMARY:Biathlon Weltmeisterschaft 2027 Otepää (EST) Staffel mixed 4x6km 
+ (Mixed)
+CATEGORIES:Biathlon
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/biathlon
+END:VEVENT
+BEGIN:VEVENT
+UID:767d6df881fc78a54326d5d2951f@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;VALUE=DATE:20270211
+DTEND;VALUE=DATE:20270212
+STATUS:CONFIRMED
+SEQUENCE:584
+LOCATION:Salpausselkä-Schanze HS 130\, Lahti\, Finnland
+SUMMARY:Skispringen Lahti HS 130 Einzel (Frauen)
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten. Startzeit noch nicht bestätigt\; des
+ halb vorläufig ganztägig.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:789fb15fc5223fb5d6239f661b73@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270211T100000
+DTEND;TZID=Europe/Berlin:20270211T120000
+STATUS:CONFIRMED
+SEQUENCE:6
+LOCATION:Mont Lachaux\, Crans Montana\, Schweiz
+SUMMARY:Ski Alpin Weltmeisterschaft 2027 Crans-Montana (SUI) Riesenslalom (
+ Frauen)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:fis-JP7877@julian-wintersport
+DTSTAMP:20261024T081731Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270211
+DTEND;VALUE=DATE:20270212
+SUMMARY:Skispringen – Qualifikation Lahti (Damen)
+LOCATION:Lahti
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+DESCRIPTION:Terminquelle: FIS Weltcupkalender 2026/27. Startzeit noch nicht
+  bestätigt\; vorläufig ganztägig. Änderungen möglich.
+URL:https://www.fis-ski.com/DB/general/results.html?sectorcode=JP&raceid=78
+ 77
+END:VEVENT
+BEGIN:VEVENT
+UID:531b46c5eaa66a579778f5e1902f@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+STATUS:CONFIRMED
+SEQUENCE:584
+LOCATION:Salpausselkä-Schanze HS 130\, Lahti\, Finnland
+SUMMARY:Skispringen Lahti HS 130 Einzel (Frauen)
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten. Startzeit noch nicht bestätigt\; des
+ halb vorläufig ganztägig.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:a5fc94e96d06bce2361d73fd1f64@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270212T163000
+DTEND;TZID=Europe/Berlin:20270212T183000
+STATUS:CONFIRMED
+SEQUENCE:214
+LOCATION:Tehvandi Sports Center\, Otepää\, Estland
+SUMMARY:Biathlon Weltmeisterschaft 2027 Otepää (EST) 10km Sprint (Männer
+ )
+CATEGORIES:Biathlon
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/biathlon
+END:VEVENT
+BEGIN:VEVENT
+UID:d80d30fde9e10787c25aa827d198@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270212T100000
+DTEND;TZID=Europe/Berlin:20270212T120000
+STATUS:CONFIRMED
+SEQUENCE:6
+LOCATION:Piste Nationale\, Crans Montana\, Schweiz
+SUMMARY:Ski Alpin Weltmeisterschaft 2027 Crans-Montana (SUI) Riesenslalom (
+ Männer)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:091cf4a9a3747f0e6e2e671012d1@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+STATUS:CONFIRMED
+SEQUENCE:584
+LOCATION:Salpausselkä-Schanze HS 130\, Lahti\, Finnland
+SUMMARY:Skispringen Lahti HS 130 Team (Männer)
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten. Startzeit noch nicht bestätigt\; des
+ halb vorläufig ganztägig.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:3c56ae3e6af4d7c54c712525d6a7@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270213T170000
+DTEND;TZID=Europe/Berlin:20270213T190000
+STATUS:CONFIRMED
+SEQUENCE:214
+LOCATION:Tehvandi Sports Center\, Otepää\, Estland
+SUMMARY:Biathlon Weltmeisterschaft 2027 Otepää (EST) 7.5km Sprint (Frauen
+ )
+CATEGORIES:Biathlon
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/biathlon
+END:VEVENT
+BEGIN:VEVENT
+UID:d4997443149f0d43cb5de9d77508@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270213T100000
+DTEND;TZID=Europe/Berlin:20270213T120000
+STATUS:CONFIRMED
+SEQUENCE:6
+LOCATION:Mont Lachaux\, Crans Montana\, Schweiz
+SUMMARY:Ski Alpin Weltmeisterschaft 2027 Crans-Montana (SUI) Slalom (Frauen
+ )
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:4d9e4f9c2f1f9bbae6a764228e95@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270214T183000
+DTEND;TZID=Europe/Berlin:20270214T203000
+STATUS:CONFIRMED
+SEQUENCE:214
+LOCATION:Tehvandi Sports Center\, Otepää\, Estland
+SUMMARY:Biathlon Weltmeisterschaft 2027 Otepää (EST) 10km Verfolgung (Fra
+ uen)
+CATEGORIES:Biathlon
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/biathlon
+END:VEVENT
+BEGIN:VEVENT
+UID:5f25c42608f6feb0f996cd907e0b@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+STATUS:CONFIRMED
+SEQUENCE:584
+LOCATION:Salpausselkä-Schanze HS 130\, Lahti\, Finnland
+SUMMARY:Skispringen Lahti HS 130 Einzel (Männer)
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten. Startzeit noch nicht bestätigt\; des
+ halb vorläufig ganztägig.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:89fa9fd4ac810f969e8e2cbecbc2@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270214T160500
+DTEND;TZID=Europe/Berlin:20270214T180500
+STATUS:CONFIRMED
+SEQUENCE:214
+LOCATION:Tehvandi Sports Center\, Otepää\, Estland
+SUMMARY:Biathlon Weltmeisterschaft 2027 Otepää (EST) 12.5km Verfolgung (M
+ änner)
+CATEGORIES:Biathlon
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/biathlon
+END:VEVENT
+BEGIN:VEVENT
+UID:9ce9f56ee793d4ced6f1e420f419@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270214T100000
+DTEND;TZID=Europe/Berlin:20270214T120000
+STATUS:CONFIRMED
+SEQUENCE:6
+LOCATION:Piste Nationale\, Crans Montana\, Schweiz
+SUMMARY:Ski Alpin Weltmeisterschaft 2027 Crans-Montana (SUI) Slalom (Männe
+ r)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:fis-JP7880@julian-wintersport
+DTSTAMP:20261024T081731Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:Skispringen – Qualifikation Lahti (Herren)
+LOCATION:Lahti
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+DESCRIPTION:Terminquelle: FIS Weltcupkalender 2026/27. Startzeit noch nicht
+  bestätigt\; vorläufig ganztägig. Änderungen möglich.
+URL:https://www.fis-ski.com/DB/general/results.html?sectorcode=JP&raceid=78
+ 80
+END:VEVENT
+BEGIN:VEVENT
+UID:1a571dc1f0aef06031bf01328137@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270216T171000
+DTEND;TZID=Europe/Berlin:20270216T191000
+STATUS:CONFIRMED
+SEQUENCE:214
+LOCATION:Tehvandi Sports Center\, Otepää\, Estland
+SUMMARY:Biathlon Weltmeisterschaft 2027 Otepää (EST) Staffel single mixed
+  (Mixed)
+CATEGORIES:Biathlon
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/biathlon
+END:VEVENT
+BEGIN:VEVENT
+UID:55b80dfecdbc1452fb2778caa761@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270217T171000
+DTEND;TZID=Europe/Berlin:20270217T191000
+STATUS:CONFIRMED
+SEQUENCE:214
+LOCATION:Tehvandi Sports Center\, Otepää\, Estland
+SUMMARY:Biathlon Weltmeisterschaft 2027 Otepää (EST) 20km Einzel (Männer
+ )
+CATEGORIES:Biathlon
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/biathlon
+END:VEVENT
+BEGIN:VEVENT
+UID:4bcdc3b03e9ecb1023cbd78bb9a8@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270219
+STATUS:CONFIRMED
+SEQUENCE:584
+LOCATION:Vikersundbakken HS 240\, Norwegen
+SUMMARY:Skispringen Vikersund HS 240 Einzel (Frauen)
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten. Startzeit noch nicht bestätigt\; des
+ halb vorläufig ganztägig.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:fb1c9e01b2e8e26d5a1c970d59b8@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270218T171000
+DTEND;TZID=Europe/Berlin:20270218T191000
+STATUS:CONFIRMED
+SEQUENCE:214
+LOCATION:Tehvandi Sports Center\, Otepää\, Estland
+SUMMARY:Biathlon Weltmeisterschaft 2027 Otepää (EST) 15km Einzel (Frauen)
+CATEGORIES:Biathlon
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/biathlon
+END:VEVENT
+BEGIN:VEVENT
+UID:dd2a98c95e31b66a566c63fbc4f5@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270219T173000
+DTEND;TZID=Europe/Berlin:20270219T193000
+STATUS:CONFIRMED
+SEQUENCE:214
+LOCATION:Tehvandi Sports Center\, Otepää\, Estland
+SUMMARY:Biathlon Weltmeisterschaft 2027 Otepää (EST) Staffel 4x7.5km (Mä
+ nner)
+CATEGORIES:Biathlon
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/biathlon
+END:VEVENT
+BEGIN:VEVENT
+UID:fis-JP7887@julian-wintersport
+DTSTAMP:20261024T081731Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270219
+DTEND;VALUE=DATE:20270220
+SUMMARY:Skispringen – Qualifikation Vikersund (Herren)
+LOCATION:Vikersund
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+DESCRIPTION:Terminquelle: FIS Weltcupkalender 2026/27. Startzeit noch nicht
+  bestätigt\; vorläufig ganztägig. Änderungen möglich.
+URL:https://www.fis-ski.com/DB/general/results.html?sectorcode=JP&raceid=78
+ 87
+END:VEVENT
+BEGIN:VEVENT
+UID:1e2ed3f62ebfc7d25e862eb9e7a7@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+STATUS:CONFIRMED
+SEQUENCE:584
+LOCATION:Villacher Alpenarena HS 98\, Österreich
+SUMMARY:Skispringen Villach HS 98 Einzel (Frauen)
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten. Startzeit noch nicht bestätigt\; des
+ halb vorläufig ganztägig.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:2561c811ab28fa1bdc18adf8ac94@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270220T120000
+DTEND;TZID=Europe/Berlin:20270220T140000
+STATUS:CONFIRMED
+SEQUENCE:264
+LOCATION:Silvano Beltrametti\, Lantsch/Lenz\, Schweiz
+SUMMARY:Ski Alpin Lenzerheide Super-G (Frauen)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:6a8ac82405cb661499e3532ff8c6@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270220T173000
+DTEND;TZID=Europe/Berlin:20270220T193000
+STATUS:CONFIRMED
+SEQUENCE:214
+LOCATION:Tehvandi Sports Center\, Otepää\, Estland
+SUMMARY:Biathlon Weltmeisterschaft 2027 Otepää (EST) Staffel 4x6km (Fraue
+ n)
+CATEGORIES:Biathlon
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/biathlon
+END:VEVENT
+BEGIN:VEVENT
+UID:80849c2187641c296206fa9fecb2@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+STATUS:CONFIRMED
+SEQUENCE:584
+LOCATION:Vikersundbakken HS 240\, Norwegen
+SUMMARY:Skispringen Vikersund HS 240 Einzel (Männer)
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten. Startzeit noch nicht bestätigt\; des
+ halb vorläufig ganztägig.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:d2889a299c59641bbe3eb556f279@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270220T103000
+DTEND;TZID=Europe/Berlin:20270220T123000
+STATUS:CONFIRMED
+SEQUENCE:264
+LOCATION:Kandahar\, Garmisch-Partenkirchen\, Deutschland
+SUMMARY:Ski Alpin Garmisch-Partenkirchen Abfahrt (Männer)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:fis-JP7883@julian-wintersport
+DTSTAMP:20261024T081731Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Skispringen – Qualifikation Villach (Damen)
+LOCATION:Villach
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+DESCRIPTION:Terminquelle: FIS Weltcupkalender 2026/27. Startzeit noch nicht
+  bestätigt\; vorläufig ganztägig. Änderungen möglich.
+URL:https://www.fis-ski.com/DB/general/results.html?sectorcode=JP&raceid=78
+ 83
+END:VEVENT
+BEGIN:VEVENT
+UID:14d1470d21b4ac9f2fd6b805708c@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+STATUS:CONFIRMED
+SEQUENCE:584
+LOCATION:Villacher Alpenarena HS 98\, Österreich
+SUMMARY:Skispringen Villach HS 98 Einzel (Frauen)
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten. Startzeit noch nicht bestätigt\; des
+ halb vorläufig ganztägig.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:1be9c64759f62a62e836b065db5a@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270221T154500
+DTEND;TZID=Europe/Berlin:20270221T174500
+STATUS:CONFIRMED
+SEQUENCE:214
+LOCATION:Tehvandi Sports Center\, Otepää\, Estland
+SUMMARY:Biathlon Weltmeisterschaft 2027 Otepää (EST) 15km Massenstart (M
+ änner)
+CATEGORIES:Biathlon
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/biathlon
+END:VEVENT
+BEGIN:VEVENT
+UID:2cd74a23ef9da1601de640bcfa5c@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+STATUS:CONFIRMED
+SEQUENCE:584
+LOCATION:Vikersundbakken HS 240\, Norwegen
+SUMMARY:Skispringen Vikersund HS 240 Einzel (Männer)
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten. Startzeit noch nicht bestätigt\; des
+ halb vorläufig ganztägig.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:81ccea353d6d6a55fa87b0a44442@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270221T181000
+DTEND;TZID=Europe/Berlin:20270221T201000
+STATUS:CONFIRMED
+SEQUENCE:214
+LOCATION:Tehvandi Sports Center\, Otepää\, Estland
+SUMMARY:Biathlon Weltmeisterschaft 2027 Otepää (EST) 12.5km Massenstart (
+ Frauen)
+CATEGORIES:Biathlon
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/biathlon
+END:VEVENT
+BEGIN:VEVENT
+UID:898c2c104bf13850d2c3333395be@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270221T103000
+DTEND;TZID=Europe/Berlin:20270221T123000
+STATUS:CONFIRMED
+SEQUENCE:264
+LOCATION:Kandahar\, Garmisch-Partenkirchen\, Deutschland
+SUMMARY:Ski Alpin Garmisch-Partenkirchen Super-G (Männer)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:f975854a1eee2ce2f6a637a9c58f@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270221T120000
+DTEND;TZID=Europe/Berlin:20270221T140000
+STATUS:CONFIRMED
+SEQUENCE:264
+LOCATION:Silvano Beltrametti\, Lantsch/Lenz\, Schweiz
+SUMMARY:Ski Alpin Lenzerheide Super-G (Frauen)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:0a1c2ddcbd69d6c5ea421501c279@julian-wintersport
+DTSTAMP:20261024T081731Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Berlin:20270225T170500
+DTEND;TZID=Europe/Berlin:20270225T184500
+SUMMARY:Skispringen WM Falun – Team Normalschanze (Damen)
+LOCATION:Falun\, Schweden
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+DESCRIPTION:Quelle: offizieller Veranstalterzeitplan Falun 2027. Stand 24.1
+ 0.2026. Änderungen möglich.
+URL:https://falun2027.com/en/here-is-the-competition-schedule-for-falun-202
+ 7-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:2bc20e499a832f4166a1604c9b56@julian-wintersport
+DTSTAMP:20261024T081731Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Berlin:20270226T153000
+DTEND;TZID=Europe/Berlin:20270226T163000
+SUMMARY:Skispringen WM Falun – Qualifikation Normalschanze (Damen)
+LOCATION:Falun\, Schweden
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+DESCRIPTION:Quelle: offizieller Veranstalterzeitplan Falun 2027. Stand 24.1
+ 0.2026. Änderungen möglich.
+URL:https://falun2027.com/en/here-is-the-competition-schedule-for-falun-202
+ 7-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:edac794f318ad6fbea47fe750e08@julian-wintersport
+DTSTAMP:20261024T081731Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Berlin:20270226T170000
+DTEND;TZID=Europe/Berlin:20270226T183000
+SUMMARY:Skispringen WM Falun – Einzel Normalschanze (Damen)
+LOCATION:Falun\, Schweden
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+DESCRIPTION:Quelle: offizieller Veranstalterzeitplan Falun 2027. Stand 24.1
+ 0.2026. Änderungen möglich.
+URL:https://falun2027.com/en/here-is-the-competition-schedule-for-falun-202
+ 7-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:04a71939462e9628bae9958aa184@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270227T101500
+DTEND;TZID=Europe/Berlin:20270227T121500
+STATUS:CONFIRMED
+SEQUENCE:264
+LOCATION:Kandahar\, Garmisch-Partenkirchen\, Deutschland
+SUMMARY:Ski Alpin Garmisch-Partenkirchen 2026/2027 II Abfahrt (Frauen)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:4a6cc0f1515e4e39994e9cd1b471@julian-wintersport
+DTSTAMP:20261024T081731Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Berlin:20270227T163000
+DTEND;TZID=Europe/Berlin:20270227T182000
+SUMMARY:Skispringen WM Falun – Mixed-Team Normalschanze
+LOCATION:Falun\, Schweden
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+DESCRIPTION:Quelle: offizieller Veranstalterzeitplan Falun 2027. Stand 24.1
+ 0.2026. Änderungen möglich.
+URL:https://falun2027.com/en/here-is-the-competition-schedule-for-falun-202
+ 7-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:a92a1fe0d7f64a1c6aeffbf37e63@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270227T113000
+DTEND;TZID=Europe/Berlin:20270227T133000
+STATUS:CONFIRMED
+SEQUENCE:264
+LOCATION:Zwölfer-Piste\, Saalbach-Hinterglemm\, Österreich
+SUMMARY:Ski Alpin Saalbach-Hinterglemm Abfahrt (Männer)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:2035cfbc74c966e7e024907cf8d1@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270228T101500
+DTEND;TZID=Europe/Berlin:20270228T121500
+STATUS:CONFIRMED
+SEQUENCE:264
+LOCATION:Kandahar\, Garmisch-Partenkirchen\, Deutschland
+SUMMARY:Ski Alpin Garmisch-Partenkirchen 2026/2027 II Abfahrt (Frauen)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:2af19538ece00991bc1f43027c4f@julian-wintersport
+DTSTAMP:20261024T081731Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Berlin:20270228T164500
+DTEND;TZID=Europe/Berlin:20270228T183000
+SUMMARY:Skispringen WM Falun – Einzel Normalschanze (Herren)
+LOCATION:Falun\, Schweden
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+DESCRIPTION:Quelle: offizieller Veranstalterzeitplan Falun 2027. Stand 24.1
+ 0.2026. Änderungen möglich.
+URL:https://falun2027.com/en/here-is-the-competition-schedule-for-falun-202
+ 7-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:7eab06bef31fae9b329522985e6b@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270228T113000
+DTEND;TZID=Europe/Berlin:20270228T133000
+STATUS:CONFIRMED
+SEQUENCE:264
+LOCATION:Zwölfer-Piste\, Saalbach-Hinterglemm\, Österreich
+SUMMARY:Ski Alpin Saalbach-Hinterglemm Super-G (Männer)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:b3d0ed0a46804d2980ab006365ba@julian-wintersport
+DTSTAMP:20261024T081731Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Berlin:20270228T151500
+DTEND;TZID=Europe/Berlin:20270228T162000
+SUMMARY:Skispringen WM Falun – Qualifikation Normalschanze (Herren)
+LOCATION:Falun\, Schweden
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+DESCRIPTION:Quelle: offizieller Veranstalterzeitplan Falun 2027. Stand 24.1
+ 0.2026. Änderungen möglich.
+URL:https://falun2027.com/en/here-is-the-competition-schedule-for-falun-202
+ 7-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:52ec2606654c67b4afd4335a4aee@julian-wintersport
+DTSTAMP:20261024T081731Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Berlin:20270304T170000
+DTEND;TZID=Europe/Berlin:20270304T184500
+SUMMARY:Skispringen WM Falun – Team Großschanze (Herren)
+LOCATION:Falun\, Schweden
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+DESCRIPTION:Quelle: offizieller Veranstalterzeitplan Falun 2027. Stand 24.1
+ 0.2026. Änderungen möglich.
+URL:https://falun2027.com/en/here-is-the-competition-schedule-for-falun-202
+ 7-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:fdb979f7b433fb2735d9a0bcd273@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270304T144500
+DTEND;TZID=Europe/Berlin:20270304T164500
+STATUS:CONFIRMED
+SEQUENCE:587
+LOCATION:Lotto Thüringen Arena am Rennsteig\, Oberhof\, Deutschland
+SUMMARY:Biathlon Oberhof 10km Sprint (Männer)
+CATEGORIES:Biathlon
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/biathlon
+END:VEVENT
+BEGIN:VEVENT
+UID:68bd665528070e36414f17e883dc@julian-wintersport
+DTSTAMP:20261024T081731Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Berlin:20270305T171500
+DTEND;TZID=Europe/Berlin:20270305T184500
+SUMMARY:Skispringen WM Falun – Einzel Großschanze (Damen)
+LOCATION:Falun\, Schweden
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+DESCRIPTION:Quelle: offizieller Veranstalterzeitplan Falun 2027. Stand 24.1
+ 0.2026. Änderungen möglich.
+URL:https://falun2027.com/en/here-is-the-competition-schedule-for-falun-202
+ 7-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:d455df29015f810ca78c88dbe0d0@julian-wintersport
+DTSTAMP:20261024T081731Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Berlin:20270305T154500
+DTEND;TZID=Europe/Berlin:20270305T164500
+SUMMARY:Skispringen WM Falun – Qualifikation Großschanze (Damen)
+LOCATION:Falun\, Schweden
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+DESCRIPTION:Quelle: offizieller Veranstalterzeitplan Falun 2027. Stand 24.1
+ 0.2026. Änderungen möglich.
+URL:https://falun2027.com/en/here-is-the-competition-schedule-for-falun-202
+ 7-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:f487d5c8142a0f11f6cafde2dc4f@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270305T141000
+DTEND;TZID=Europe/Berlin:20270305T161000
+STATUS:CONFIRMED
+SEQUENCE:587
+LOCATION:Lotto Thüringen Arena am Rennsteig\, Oberhof\, Deutschland
+SUMMARY:Biathlon Oberhof 7.5km Sprint (Frauen)
+CATEGORIES:Biathlon
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/biathlon
+END:VEVENT
+BEGIN:VEVENT
+UID:1c4a2ffeca78fd62cf1f514527b7@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270306T160000
+DTEND;TZID=Europe/Berlin:20270306T180000
+STATUS:CONFIRMED
+SEQUENCE:587
+LOCATION:Lotto Thüringen Arena am Rennsteig\, Oberhof\, Deutschland
+SUMMARY:Biathlon Oberhof 10km Verfolgung (Frauen)
+CATEGORIES:Biathlon
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/biathlon
+END:VEVENT
+BEGIN:VEVENT
+UID:61be0fd9e3ad1e7929339864f806@julian-wintersport
+DTSTAMP:20261024T081731Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Berlin:20270306T153000
+DTEND;TZID=Europe/Berlin:20270306T163000
+SUMMARY:Skispringen WM Falun – Qualifikation Großschanze (Herren)
+LOCATION:Falun\, Schweden
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+DESCRIPTION:Quelle: offizieller Veranstalterzeitplan Falun 2027. Stand 24.1
+ 0.2026. Änderungen möglich.
+URL:https://falun2027.com/en/here-is-the-competition-schedule-for-falun-202
+ 7-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:9cffe1e90acc8b591250d402d7c1@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270306T093000
+DTEND;TZID=Europe/Berlin:20270306T113000
+STATUS:CONFIRMED
+SEQUENCE:264
+LOCATION:Avet\, Soldeu\, Andorra
+SUMMARY:Ski Alpin Soldeu Riesenslalom (Frauen)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:aa9aad6358ebc3b497fa28457e45@julian-wintersport
+DTSTAMP:20261024T081731Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Berlin:20270306T170000
+DTEND;TZID=Europe/Berlin:20270306T184500
+SUMMARY:Skispringen WM Falun – Einzel Großschanze (Herren)
+LOCATION:Falun\, Schweden
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+DESCRIPTION:Quelle: offizieller Veranstalterzeitplan Falun 2027. Stand 24.1
+ 0.2026. Änderungen möglich.
+URL:https://falun2027.com/en/here-is-the-competition-schedule-for-falun-202
+ 7-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:cd736a919c46871ec64dd925bf73@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270306T134500
+DTEND;TZID=Europe/Berlin:20270306T154500
+STATUS:CONFIRMED
+SEQUENCE:587
+LOCATION:Lotto Thüringen Arena am Rennsteig\, Oberhof\, Deutschland
+SUMMARY:Biathlon Oberhof 12.5km Verfolgung (Männer)
+CATEGORIES:Biathlon
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/biathlon
+END:VEVENT
+BEGIN:VEVENT
+UID:fdd79265504a227a3c50c36f2df7@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270306T110000
+DTEND;TZID=Europe/Berlin:20270306T130000
+STATUS:CONFIRMED
+SEQUENCE:264
+LOCATION:Olympiabakken\, Kvitfjell\, Norwegen
+SUMMARY:Ski Alpin Kvitfjell Abfahrt (Männer)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:8ee87e4f4d08fe71aae3c56b7dae@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270307T110000
+DTEND;TZID=Europe/Berlin:20270307T130000
+STATUS:CONFIRMED
+SEQUENCE:264
+LOCATION:Olympiabakken\, Kvitfjell\, Norwegen
+SUMMARY:Ski Alpin Kvitfjell Super-G (Männer)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:c3cfa33d2ad341494cb2ad2be184@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270307T155000
+DTEND;TZID=Europe/Berlin:20270307T175000
+STATUS:CONFIRMED
+SEQUENCE:587
+LOCATION:Lotto Thüringen Arena am Rennsteig\, Oberhof\, Deutschland
+SUMMARY:Biathlon Oberhof Staffel 4x6km (Frauen)
+CATEGORIES:Biathlon
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/biathlon
+END:VEVENT
+BEGIN:VEVENT
+UID:f440bb72aba136940255899d8ee5@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270307T093000
+DTEND;TZID=Europe/Berlin:20270307T113000
+STATUS:CONFIRMED
+SEQUENCE:264
+LOCATION:Avet\, Soldeu\, Andorra
+SUMMARY:Ski Alpin Soldeu Slalom (Frauen)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:fe05c8362e75a86fd377f935d387@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270307T124500
+DTEND;TZID=Europe/Berlin:20270307T144500
+STATUS:CONFIRMED
+SEQUENCE:587
+LOCATION:Lotto Thüringen Arena am Rennsteig\, Oberhof\, Deutschland
+SUMMARY:Biathlon Oberhof Staffel 4x7.5km (Männer)
+CATEGORIES:Biathlon
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/biathlon
+END:VEVENT
+BEGIN:VEVENT
+UID:c800c98fd98a4688200707cd2404@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270311T161000
+DTEND;TZID=Europe/Berlin:20270311T181000
+STATUS:CONFIRMED
+SEQUENCE:587
+LOCATION:Skistadium Östersund\, Schweden
+SUMMARY:Biathlon Östersund 15km Einzel (Frauen)
+CATEGORIES:Biathlon
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/biathlon
+END:VEVENT
+BEGIN:VEVENT
+UID:1e416859c90684f509b5569de111@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270312T161000
+DTEND;TZID=Europe/Berlin:20270312T181000
+STATUS:CONFIRMED
+SEQUENCE:587
+LOCATION:Skistadium Östersund\, Schweden
+SUMMARY:Biathlon Östersund 20km Einzel (Männer)
+CATEGORIES:Biathlon
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/biathlon
+END:VEVENT
+BEGIN:VEVENT
+UID:3dfb443bf8444e48114c0ecc6d49@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270313T093000
+DTEND;TZID=Europe/Berlin:20270313T113000
+STATUS:CONFIRMED
+SEQUENCE:264
+LOCATION:Gästrappet\, Are\, Schweden
+SUMMARY:Ski Alpin Åre Riesenslalom (Männer)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:43d821e8bec824df75355ecba3b8@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+STATUS:CONFIRMED
+SEQUENCE:584
+LOCATION:Holmenkollen HS 134\, Oslo\, Norwegen
+SUMMARY:Skispringen Oslo HS 134 Einzel (Frauen)
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten. Startzeit noch nicht bestätigt\; des
+ halb vorläufig ganztägig.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:63cc60810b053ff931d1ff701a91@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270313T143000
+DTEND;TZID=Europe/Berlin:20270313T163000
+STATUS:CONFIRMED
+SEQUENCE:587
+LOCATION:Skistadium Östersund\, Schweden
+SUMMARY:Biathlon Östersund Staffel single mixed (Mixed)
+CATEGORIES:Biathlon
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/biathlon
+END:VEVENT
+BEGIN:VEVENT
+UID:67e3f95aecc8a9d0b5f3053f605c@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270313T171000
+DTEND;TZID=Europe/Berlin:20270313T191000
+STATUS:CONFIRMED
+SEQUENCE:587
+LOCATION:Skistadium Östersund\, Schweden
+SUMMARY:Biathlon Östersund Staffel mixed 4x6km (Mixed)
+CATEGORIES:Biathlon
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/biathlon
+END:VEVENT
+BEGIN:VEVENT
+UID:932dfcec9529bdc6986d7730407b@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+STATUS:CONFIRMED
+SEQUENCE:584
+LOCATION:Holmenkollen HS 134\, Oslo\, Norwegen
+SUMMARY:Skispringen Oslo HS 134 Einzel (Männer)
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten. Startzeit noch nicht bestätigt\; des
+ halb vorläufig ganztägig.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:fis-JP7890@julian-wintersport
+DTSTAMP:20261024T081731Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:Skispringen – Qualifikation Oslo (Damen)
+LOCATION:Oslo
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+DESCRIPTION:Terminquelle: FIS Weltcupkalender 2026/27. Startzeit noch nicht
+  bestätigt\; vorläufig ganztägig. Änderungen möglich.
+URL:https://www.fis-ski.com/DB/general/results.html?sectorcode=JP&raceid=78
+ 90
+END:VEVENT
+BEGIN:VEVENT
+UID:fis-JP7891@julian-wintersport
+DTSTAMP:20261024T081731Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:Skispringen – Qualifikation Oslo (Herren)
+LOCATION:Oslo
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+DESCRIPTION:Terminquelle: FIS Weltcupkalender 2026/27. Startzeit noch nicht
+  bestätigt\; vorläufig ganztägig. Änderungen möglich.
+URL:https://www.fis-ski.com/DB/general/results.html?sectorcode=JP&raceid=78
+ 91
+END:VEVENT
+BEGIN:VEVENT
+UID:2686c2190311d779a00803b10a5a@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+STATUS:CONFIRMED
+SEQUENCE:584
+LOCATION:Holmenkollen HS 134\, Oslo\, Norwegen
+SUMMARY:Skispringen Oslo HS 134 Einzel (Männer)
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten. Startzeit noch nicht bestätigt\; des
+ halb vorläufig ganztägig.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:3f8ef04b09ee369fb8e95e821158@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+STATUS:CONFIRMED
+SEQUENCE:584
+LOCATION:Holmenkollen HS 134\, Oslo\, Norwegen
+SUMMARY:Skispringen Oslo HS 134 Einzel (Frauen)
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten. Startzeit noch nicht bestätigt\; des
+ halb vorläufig ganztägig.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:99000ad7269d67c43c2765c98824@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270314T143000
+DTEND;TZID=Europe/Berlin:20270314T163000
+STATUS:CONFIRMED
+SEQUENCE:587
+LOCATION:Skistadium Östersund\, Schweden
+SUMMARY:Biathlon Östersund 12.5km Massenstart (Frauen)
+CATEGORIES:Biathlon
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/biathlon
+END:VEVENT
+BEGIN:VEVENT
+UID:a0352280063ea13edda7f7aa14ae@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270314T093000
+DTEND;TZID=Europe/Berlin:20270314T113000
+STATUS:CONFIRMED
+SEQUENCE:264
+LOCATION:Gästrappet\, Are\, Schweden
+SUMMARY:Ski Alpin Åre Slalom (Männer)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:d8503fb57040a5a16ef30b3e5231@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270314T171000
+DTEND;TZID=Europe/Berlin:20270314T191000
+STATUS:CONFIRMED
+SEQUENCE:587
+LOCATION:Skistadium Östersund\, Schweden
+SUMMARY:Biathlon Östersund 15km Massenstart (Männer)
+CATEGORIES:Biathlon
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/biathlon
+END:VEVENT
+BEGIN:VEVENT
+UID:e8bdd921487e5d3f788ab0be2054@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270318T163000
+DTEND;TZID=Europe/Berlin:20270318T183000
+STATUS:CONFIRMED
+SEQUENCE:587
+LOCATION:Holmenkollen\, Oslo\, Norwegen
+SUMMARY:Biathlon Oslo 10km Sprint (Männer)
+CATEGORIES:Biathlon
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/biathlon
+END:VEVENT
+BEGIN:VEVENT
+UID:fis-JP7896@julian-wintersport
+DTSTAMP:20261024T081731Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270318
+DTEND;VALUE=DATE:20270319
+SUMMARY:Skispringen – Qualifikation Planica (Herren)
+LOCATION:Planica
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+DESCRIPTION:Terminquelle: FIS Weltcupkalender 2026/27. Startzeit noch nicht
+  bestätigt\; vorläufig ganztägig. Änderungen möglich.
+URL:https://www.fis-ski.com/DB/general/results.html?sectorcode=JP&raceid=78
+ 96
+END:VEVENT
+BEGIN:VEVENT
+UID:3dd0204a3b3eeb6ce196bb1f605b@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270319T150000
+DTEND;TZID=Europe/Berlin:20270319T170000
+STATUS:CONFIRMED
+SEQUENCE:584
+LOCATION:Letalnica HS 240\, Planica\, Slowenien
+SUMMARY:Skispringen Planica HS 240 Einzel (Männer)
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:becb9f44d941ee1c5c0d5b62dc8d@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270319T163000
+DTEND;TZID=Europe/Berlin:20270319T183000
+STATUS:CONFIRMED
+SEQUENCE:587
+LOCATION:Holmenkollen\, Oslo\, Norwegen
+SUMMARY:Biathlon Oslo 7.5km Sprint (Frauen)
+CATEGORIES:Biathlon
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/biathlon
+END:VEVENT
+BEGIN:VEVENT
+UID:703b932e27171286615e29268ee0@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270320T144500
+DTEND;TZID=Europe/Berlin:20270320T164500
+STATUS:CONFIRMED
+SEQUENCE:587
+LOCATION:Holmenkollen\, Oslo\, Norwegen
+SUMMARY:Biathlon Oslo 12.5km Verfolgung (Männer)
+CATEGORIES:Biathlon
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/biathlon
+END:VEVENT
+BEGIN:VEVENT
+UID:8648b74b315e49c9c2b7c3b86275@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270320T170000
+DTEND;TZID=Europe/Berlin:20270320T190000
+STATUS:CONFIRMED
+SEQUENCE:587
+LOCATION:Holmenkollen\, Oslo\, Norwegen
+SUMMARY:Biathlon Oslo 10km Verfolgung (Frauen)
+CATEGORIES:Biathlon
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/biathlon
+END:VEVENT
+BEGIN:VEVENT
+UID:c6237142814c741e0997691e59cb@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270320T180000
+DTEND;TZID=Europe/Berlin:20270320T200000
+STATUS:CONFIRMED
+SEQUENCE:264
+LOCATION:Bald Mountain\, Sun Valley\, ID\, USA
+SUMMARY:Ski Alpin Sun Valley Abfahrt (Männer)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:c74ed0f3ef82cbe829c43d8c2d94@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270320T193000
+DTEND;TZID=Europe/Berlin:20270320T213000
+STATUS:CONFIRMED
+SEQUENCE:264
+LOCATION:Bald Mountain\, Sun Valley\, ID\, USA
+SUMMARY:Ski Alpin Sun Valley Abfahrt (Frauen)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:cbf946382991af39b3170ed6e692@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270320T094500
+DTEND;TZID=Europe/Berlin:20270320T114500
+STATUS:CONFIRMED
+SEQUENCE:584
+LOCATION:Letalnica HS 240\, Planica\, Slowenien
+SUMMARY:Skispringen Planica HS 240 Team (Männer)
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:fea443ecdb109283135b726685fb@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270320T153000
+DTEND;TZID=Europe/Berlin:20270320T173000
+STATUS:CONFIRMED
+SEQUENCE:584
+LOCATION:Letalnica HS 240\, Planica\, Slowenien
+SUMMARY:Skispringen Planica HS 240 Einzel (Frauen)
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:06203c8f3435910f29a1fd3e6989@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270321T133000
+DTEND;TZID=Europe/Berlin:20270321T153000
+STATUS:CONFIRMED
+SEQUENCE:587
+LOCATION:Holmenkollen\, Oslo\, Norwegen
+SUMMARY:Biathlon Oslo 15km Massenstart (Männer)
+CATEGORIES:Biathlon
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/biathlon
+END:VEVENT
+BEGIN:VEVENT
+UID:7b38aac9e675ff70159e4623be70@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270321T100000
+DTEND;TZID=Europe/Berlin:20270321T120000
+STATUS:CONFIRMED
+SEQUENCE:584
+LOCATION:Letalnica HS 240\, Planica\, Slowenien
+SUMMARY:Skispringen Planica HS 240 Einzel (Männer)
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:8d30a615168ea966c0000226559f@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270321T180000
+DTEND;TZID=Europe/Berlin:20270321T200000
+STATUS:CONFIRMED
+SEQUENCE:264
+LOCATION:Bald Mountain\, Sun Valley\, ID\, USA
+SUMMARY:Ski Alpin Sun Valley Super-G (Frauen)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:a8451b9ece99b73bf8f738a02442@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270321T193000
+DTEND;TZID=Europe/Berlin:20270321T213000
+STATUS:CONFIRMED
+SEQUENCE:264
+LOCATION:Bald Mountain\, Sun Valley\, ID\, USA
+SUMMARY:Ski Alpin Sun Valley Super-G (Männer)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:f4008f355893a60fcbf14dc81b80@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270321T160000
+DTEND;TZID=Europe/Berlin:20270321T180000
+STATUS:CONFIRMED
+SEQUENCE:587
+LOCATION:Holmenkollen\, Oslo\, Norwegen
+SUMMARY:Biathlon Oslo 12.5km Massenstart (Frauen)
+CATEGORIES:Biathlon
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/biathlon
+END:VEVENT
+BEGIN:VEVENT
+UID:58bfea79dbcc0ab5d1cb998ef580@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270323T163000
+DTEND;TZID=Europe/Berlin:20270323T183000
+STATUS:CONFIRMED
+SEQUENCE:264
+LOCATION:Bald Mountain\, Sun Valley\, ID\, USA
+SUMMARY:Ski Alpin Sun Valley Riesenslalom (Frauen)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:1c1460fcc91c11c5fed27354b9d1@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270324T163000
+DTEND;TZID=Europe/Berlin:20270324T183000
+STATUS:CONFIRMED
+SEQUENCE:264
+LOCATION:Bald Mountain\, Sun Valley\, ID\, USA
+SUMMARY:Ski Alpin Sun Valley Riesenslalom (Männer)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:71df73c4f6e7fa3ef0d06e2c45f7@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270325T160000
+DTEND;TZID=Europe/Berlin:20270325T180000
+STATUS:CONFIRMED
+SEQUENCE:264
+LOCATION:Bald Mountain\, Sun Valley\, ID\, USA
+SUMMARY:Ski Alpin Sun Valley Slalom (Frauen)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+BEGIN:VEVENT
+UID:747b2c6694be08b10e10ced039ff@julian-wintersport
+DTSTAMP:20261024T081731Z
+DTSTART;TZID=Europe/Berlin:20270325T170000
+DTEND;TZID=Europe/Berlin:20270325T190000
+STATUS:CONFIRMED
+SEQUENCE:264
+LOCATION:Bald Mountain\, Sun Valley\, ID\, USA
+SUMMARY:Ski Alpin Sun Valley Slalom (Männer)
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
+ u / calovo. Änderungen vorbehalten.
+URL:https://calovo.de/f/sportschau/ski-alpin
+END:VEVENT
+END:VCALENDAR
