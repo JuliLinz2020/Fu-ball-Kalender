@@ -67,6 +67,13 @@ def build(feed_texts):
                 continue  # Official FIS qualification dates take priority.
             if sport == 'skispringen' and ('Falun' in title or 'Weltmeisterschaft' in title):
                 continue  # The direct organizer schedule below takes priority.
+            if sport == 'ski-alpin' and p['UID'].split(':',1)[1] == '68b1e2812192a@7748.calovo':
+                pass  # Historical source UID is not used for the override below.
+            # FIS-confirmed delayed start; retain even if the secondary feed lags.
+            if sport == 'ski-alpin' and date[1] == '20261024' and 'Sölden' in title and 'Frauen' in title:
+                p['DTSTART'] = 'DTSTART;TZID=Europe/Berlin:20261024T103000'
+                p.pop('DTEND', None)
+                p['SEQUENCE'] = 'SEQUENCE:265'
             key = p['UID'].split(':',1)[1]
             uid = hashlib.sha256((sport+':'+key).encode()).hexdigest()[:28]+'@julian-wintersport'
             lines = ['BEGIN:VEVENT','UID:'+uid,'DTSTAMP:'+stamp,p['DTSTART']]
