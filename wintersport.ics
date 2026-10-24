@@ -29,18 +29,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:390adea0f863f49942b708c094eb@julian-wintersport
-DTSTAMP:20261024T081731Z
-DTSTART;TZID=Europe/Berlin:20261024T110000
-DTEND;TZID=Europe/Berlin:20261024T130000
+DTSTAMP:20261024T082207Z
+DTSTART;TZID=Europe/Berlin:20261024T103000
 STATUS:CONFIRMED
-SEQUENCE:264
+SEQUENCE:265
 LOCATION:Rettenbach\, Sölden\, Österreich
 SUMMARY:Ski Alpin Sölden Riesenslalom (Frauen)
 CATEGORIES:Ski alpin
 TRANSP:TRANSPARENT
-DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
- u / calovo. Änderungen vorbehalten.
-URL:https://calovo.de/f/sportschau/ski-alpin
+DESCRIPTION:FIS: 1. Lauf 10:30 Uhr; 2. Lauf 13:30 Uhr. Stand 24.10.2026.
+URL:https://www.fis-ski.com/DB/general/results.html?raceid=131577&sectorcode=AL
 END:VEVENT
 BEGIN:VEVENT
 UID:b738faaea0d856e7a76009b4a1eb@julian-wintersport
