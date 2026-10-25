@@ -892,18 +892,20 @@ URL:https://calovo.de/f/sportschau/skispringen
 END:VEVENT
 BEGIN:VEVENT
 UID:65441efa4c973fd768e5d7b36eab@julian-wintersport
-DTSTAMP:20261024T081731Z
-DTSTART;TZID=Europe/Berlin:20261212T100000
+DTSTAMP:20261025T153149Z
+DTSTART;TZID=Europe/Berlin:20261212T093000
 DTEND;TZID=Europe/Berlin:20261212T120000
 STATUS:CONFIRMED
-SEQUENCE:264
+SEQUENCE:265
 LOCATION:La face de Bellevarde\, Val dIsere\, Frankreich
 SUMMARY:Ski Alpin Val dIsere Riesenslalom (Männer)
 CATEGORIES:Ski alpin
 TRANSP:TRANSPARENT
-DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
- u / calovo. Änderungen vorbehalten.
-URL:https://calovo.de/f/sportschau/ski-alpin
+DESCRIPTION:Start des 1. Durchgangs laut offiziellem FIS-Zeitplan 2026/27\,
+  geprüft 25.10.2026. Der zweite Durchgang ist separat eingetragen. Änder
+ ungen vorbehalten.
+URL:https://assets.fis-ski.com/f/252177/x/8399f37ec9/complett_finaldoc_26_2
+ 7_v1_21-10-2026.pdf
 END:VEVENT
 BEGIN:VEVENT
 UID:7e42e2580606bd8c9bdcc4d48aff@julian-wintersport
@@ -1029,18 +1031,20 @@ URL:https://calovo.de/f/sportschau/skispringen
 END:VEVENT
 BEGIN:VEVENT
 UID:8a868643eef0ac5da4eb88259e4d@julian-wintersport
-DTSTAMP:20261024T081731Z
-DTSTART;TZID=Europe/Berlin:20261213T100000
+DTSTAMP:20261025T153149Z
+DTSTART;TZID=Europe/Berlin:20261213T093000
 DTEND;TZID=Europe/Berlin:20261213T120000
 STATUS:CONFIRMED
-SEQUENCE:264
+SEQUENCE:265
 LOCATION:La face de Bellevarde\, Val dIsere\, Frankreich
 SUMMARY:Ski Alpin Val dIsere Slalom (Männer)
 CATEGORIES:Ski alpin
 TRANSP:TRANSPARENT
-DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
- u / calovo. Änderungen vorbehalten.
-URL:https://calovo.de/f/sportschau/ski-alpin
+DESCRIPTION:Start des 1. Durchgangs laut offiziellem FIS-Zeitplan 2026/27\,
+  geprüft 25.10.2026. Der zweite Durchgang ist separat eingetragen. Änder
+ ungen vorbehalten.
+URL:https://assets.fis-ski.com/f/252177/x/8399f37ec9/complett_finaldoc_26_2
+ 7_v1_21-10-2026.pdf
 END:VEVENT
 BEGIN:VEVENT
 UID:b684bfddcd4655ff04de903a0e9c@julian-wintersport
@@ -3909,18 +3913,20 @@ URL:https://calovo.de/f/sportschau/biathlon
 END:VEVENT
 BEGIN:VEVENT
 UID:3dfb443bf8444e48114c0ecc6d49@julian-wintersport
-DTSTAMP:20261024T081731Z
-DTSTART;TZID=Europe/Berlin:20270313T093000
+DTSTAMP:20261025T153149Z
+DTSTART;TZID=Europe/Berlin:20270313T100000
 DTEND;TZID=Europe/Berlin:20270313T113000
 STATUS:CONFIRMED
-SEQUENCE:264
+SEQUENCE:265
 LOCATION:Gästrappet\, Are\, Schweden
 SUMMARY:Ski Alpin Åre Riesenslalom (Männer)
 CATEGORIES:Ski alpin
 TRANSP:TRANSPARENT
-DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
- u / calovo. Änderungen vorbehalten.
-URL:https://calovo.de/f/sportschau/ski-alpin
+DESCRIPTION:Start des 1. Durchgangs laut offiziellem FIS-Zeitplan 2026/27\,
+  geprüft 25.10.2026. Der zweite Durchgang ist separat eingetragen. Änder
+ ungen vorbehalten.
+URL:https://assets.fis-ski.com/f/252177/x/8399f37ec9/complett_finaldoc_26_2
+ 7_v1_21-10-2026.pdf
 END:VEVENT
 BEGIN:VEVENT
 UID:43d821e8bec824df75355ecba3b8@julian-wintersport
@@ -4379,4 +4385,2762 @@ DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
  u / calovo. Änderungen vorbehalten.
 URL:https://calovo.de/f/sportschau/ski-alpin
 END:VEVENT
+BEGIN:VEVENT
+UID:ab9a67ea0df1b850913452cadbbd@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:390adea0f863f49942b708c094eb@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+LOCATION:Rettenbach\, Sölden\, Österreich
+DTSTART;TZID=Europe/Berlin:20261024T133000
+STATUS:CONFIRMED
+X-JULIAN-TIME-STATUS:OFFICIAL-SCHEDULE
+SUMMARY:Ski Alpin Sölden Riesenslalom (Frauen) – 2. Durchgang
+DESCRIPTION:Separater 2. Durchgang. Start laut offiziellem Zeitplan. Geprü
+ ft am 25.10.2026. Änderungen durch Jury/Wetter möglich. Keine bestätigt
+ e Endzeit angegeben.
+URL:https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=13
+ 1577
+END:VEVENT
+BEGIN:VEVENT
+UID:cb232c649f3265573c78aa99d6c4@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:b738faaea0d856e7a76009b4a1eb@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+LOCATION:Rettenbach\, Sölden\, Österreich
+DTSTART;TZID=Europe/Berlin:20261025T130000
+STATUS:CONFIRMED
+X-JULIAN-TIME-STATUS:OFFICIAL-SCHEDULE
+SUMMARY:Ski Alpin Sölden Riesenslalom (Männer) – 2. Durchgang
+DESCRIPTION:Separater 2. Durchgang. Start laut offiziellem Zeitplan. Geprü
+ ft am 25.10.2026. Änderungen durch Jury/Wetter möglich. Keine bestätigt
+ e Endzeit angegeben.
+URL:https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=13
+ 1578
+END:VEVENT
+BEGIN:VEVENT
+UID:96f69162e4e1496511e523d51640@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:e8ea6b47287d3c9e887a43cfdeea@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+LOCATION:Levi Black\, Finnland
+DTSTART;TZID=Europe/Berlin:20261114T130000
+STATUS:CONFIRMED
+X-JULIAN-TIME-STATUS:OFFICIAL-SCHEDULE
+SUMMARY:Ski Alpin Levi Slalom (Frauen) – 2. Durchgang
+DESCRIPTION:Separater 2. Durchgang. Start laut offiziellem Zeitplan. Geprü
+ ft am 25.10.2026. Änderungen durch Jury/Wetter möglich. Keine bestätigt
+ e Endzeit angegeben.
+URL:https://assets.fis-ski.com/f/252177/x/8399f37ec9/complett_finaldoc_26_2
+ 7_v1_21-10-2026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:9dce355c0a6a38dcd54136176cd2@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:997548530441863740a1ae743893@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+LOCATION:Levi Black\, Finnland
+DTSTART;TZID=Europe/Berlin:20261115T130000
+STATUS:CONFIRMED
+X-JULIAN-TIME-STATUS:OFFICIAL-SCHEDULE
+SUMMARY:Ski Alpin Levi Slalom (Männer) – 2. Durchgang
+DESCRIPTION:Separater 2. Durchgang. Start laut offiziellem Zeitplan. Geprü
+ ft am 25.10.2026. Änderungen durch Jury/Wetter möglich. Keine bestätigt
+ e Endzeit angegeben.
+URL:https://assets.fis-ski.com/f/252177/x/8399f37ec9/complett_finaldoc_26_2
+ 7_v1_21-10-2026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:dfc143511aed9e5689ae8481437c@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:97d333f6457dbe5d676e8f3223d8@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+LOCATION:Lysgårdsbakken HS 140\, Lillehammer\, Norwegen
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+STATUS:TENTATIVE
+X-JULIAN-TIME-STATUS:UNCONFIRMED
+SUMMARY:Skispringen Lillehammer HS 140 Team (Mixed) – 2. Durchgang – Uh
+ rzeit offen
+DESCRIPTION:Terminmarker\, kein ganztägiger Wettkampf. Startzeit des 2. Du
+ rchgang noch nicht verifiziert\; Start nach dem ersten Durchgang gemäß o
+ ffiziellem Ablauf und Wetter. Keine geschätzte Uhrzeit. Der Marker erhäl
+ t nach Bekanntgabe der Zeit dieselbe UID. Datum/Ort wie beim Haupttermin\;
+  Änderungen möglich. Zweiter Wertungsdurchgang dieses Tages\; nicht auto
+ matisch Finaldurchgang. Je nach Wettkampfformat sind weitere Durchgänge m
+ öglich\; kein zweiter Qualifikationsdurchgang.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:9757de6ff7070118f065206a7b64@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:0ea2fa7031c1b5be24c1d8f1a9f2@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+LOCATION:Lysgårdsbakken HS 140\, Lillehammer\, Norwegen
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+STATUS:TENTATIVE
+X-JULIAN-TIME-STATUS:UNCONFIRMED
+SUMMARY:Skispringen Lillehammer HS 140 Einzel (Männer) – 2. Durchgang 
+ – Uhrzeit offen
+DESCRIPTION:Terminmarker\, kein ganztägiger Wettkampf. Startzeit des 2. Du
+ rchgang noch nicht verifiziert\; Start nach dem ersten Durchgang gemäß o
+ ffiziellem Ablauf und Wetter. Keine geschätzte Uhrzeit. Der Marker erhäl
+ t nach Bekanntgabe der Zeit dieselbe UID. Datum/Ort wie beim Haupttermin\;
+  Änderungen möglich. Zweiter Wertungsdurchgang dieses Tages\; nicht auto
+ matisch Finaldurchgang. Je nach Wettkampfformat sind weitere Durchgänge m
+ öglich\; kein zweiter Qualifikationsdurchgang.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:a39feaf5835dde84e3c2581f284c@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:efd5055e902c89120b9bdb2a3f71@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+LOCATION:Kirchenkar\, Gurgl\, Österreich
+DTSTART;TZID=Europe/Berlin:20261121T133000
+STATUS:CONFIRMED
+X-JULIAN-TIME-STATUS:OFFICIAL-SCHEDULE
+SUMMARY:Ski Alpin Gurgl Slalom (Frauen) – 2. Durchgang
+DESCRIPTION:Separater 2. Durchgang. Start laut offiziellem Zeitplan. Geprü
+ ft am 25.10.2026. Änderungen durch Jury/Wetter möglich. Keine bestätigt
+ e Endzeit angegeben.
+URL:https://assets.fis-ski.com/f/252177/x/8399f37ec9/complett_finaldoc_26_2
+ 7_v1_21-10-2026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:e749a43c96d8fe785f5b04120870@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:897f3391e11bf19258515831280a@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+LOCATION:Lysgårdsbakken HS 140\, Lillehammer\, Norwegen
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+STATUS:TENTATIVE
+X-JULIAN-TIME-STATUS:UNCONFIRMED
+SUMMARY:Skispringen Lillehammer HS 140 Einzel (Frauen) – 2. Durchgang –
+  Uhrzeit offen
+DESCRIPTION:Terminmarker\, kein ganztägiger Wettkampf. Startzeit des 2. Du
+ rchgang noch nicht verifiziert\; Start nach dem ersten Durchgang gemäß o
+ ffiziellem Ablauf und Wetter. Keine geschätzte Uhrzeit. Der Marker erhäl
+ t nach Bekanntgabe der Zeit dieselbe UID. Datum/Ort wie beim Haupttermin\;
+  Änderungen möglich. Zweiter Wertungsdurchgang dieses Tages\; nicht auto
+ matisch Finaldurchgang. Je nach Wettkampfformat sind weitere Durchgänge m
+ öglich\; kein zweiter Qualifikationsdurchgang.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:23f852d2e33acd04f8a3360e6895@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:7fc3ff5baf8f7a9094a06dc5d89f@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+LOCATION:Lysgårdsbakken HS 140\, Lillehammer\, Norwegen
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+STATUS:TENTATIVE
+X-JULIAN-TIME-STATUS:UNCONFIRMED
+SUMMARY:Skispringen Lillehammer HS 140 Einzel (Männer) – 2. Durchgang 
+ – Uhrzeit offen
+DESCRIPTION:Terminmarker\, kein ganztägiger Wettkampf. Startzeit des 2. Du
+ rchgang noch nicht verifiziert\; Start nach dem ersten Durchgang gemäß o
+ ffiziellem Ablauf und Wetter. Keine geschätzte Uhrzeit. Der Marker erhäl
+ t nach Bekanntgabe der Zeit dieselbe UID. Datum/Ort wie beim Haupttermin\;
+  Änderungen möglich. Zweiter Wertungsdurchgang dieses Tages\; nicht auto
+ matisch Finaldurchgang. Je nach Wettkampfformat sind weitere Durchgänge m
+ öglich\; kein zweiter Qualifikationsdurchgang.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:459ed8d474415218992a5266f363@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:4bca58a1d6e06458ab50465ad127@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+LOCATION:Kirchenkar\, Gurgl\, Österreich
+DTSTART;TZID=Europe/Berlin:20261122T133000
+STATUS:CONFIRMED
+X-JULIAN-TIME-STATUS:OFFICIAL-SCHEDULE
+SUMMARY:Ski Alpin Gurgl Slalom (Männer) – 2. Durchgang
+DESCRIPTION:Separater 2. Durchgang. Start laut offiziellem Zeitplan. Geprü
+ ft am 25.10.2026. Änderungen durch Jury/Wetter möglich. Keine bestätigt
+ e Endzeit angegeben.
+URL:https://assets.fis-ski.com/f/252177/x/8399f37ec9/complett_finaldoc_26_2
+ 7_v1_21-10-2026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:b8760f7f14ab1a23aea00d042f59@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:f09a4dded8f70047a46784196236@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+LOCATION:Lysgårdsbakken HS 140\, Lillehammer\, Norwegen
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+STATUS:TENTATIVE
+X-JULIAN-TIME-STATUS:UNCONFIRMED
+SUMMARY:Skispringen Lillehammer HS 140 Einzel (Frauen) – 2. Durchgang –
+  Uhrzeit offen
+DESCRIPTION:Terminmarker\, kein ganztägiger Wettkampf. Startzeit des 2. Du
+ rchgang noch nicht verifiziert\; Start nach dem ersten Durchgang gemäß o
+ ffiziellem Ablauf und Wetter. Keine geschätzte Uhrzeit. Der Marker erhäl
+ t nach Bekanntgabe der Zeit dieselbe UID. Datum/Ort wie beim Haupttermin\;
+  Änderungen möglich. Zweiter Wertungsdurchgang dieses Tages\; nicht auto
+ matisch Finaldurchgang. Je nach Wettkampfformat sind weitere Durchgänge m
+ öglich\; kein zweiter Qualifikationsdurchgang.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:500114b8ea5ad64f625caa57532e@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:e4f9bc5ac01519ae73a09da53e07@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+LOCATION:Energie AG-Skisprung Arena HS 90\, Hinzenbach\, Österreich
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+STATUS:TENTATIVE
+X-JULIAN-TIME-STATUS:UNCONFIRMED
+SUMMARY:Skispringen Hinzenbach HS 90 Einzel (Frauen) – 2. Durchgang – U
+ hrzeit offen
+DESCRIPTION:Terminmarker\, kein ganztägiger Wettkampf. Startzeit des 2. Du
+ rchgang noch nicht verifiziert\; Start nach dem ersten Durchgang gemäß o
+ ffiziellem Ablauf und Wetter. Keine geschätzte Uhrzeit. Der Marker erhäl
+ t nach Bekanntgabe der Zeit dieselbe UID. Datum/Ort wie beim Haupttermin\;
+  Änderungen möglich. Zweiter Wertungsdurchgang dieses Tages\; nicht auto
+ matisch Finaldurchgang. Je nach Wettkampfformat sind weitere Durchgänge m
+ öglich\; kein zweiter Qualifikationsdurchgang.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:857c22ca5a198fe9aede0387f9a1@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:7ef3faef4538a32de5b129954cef@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+LOCATION:Superstar\, Killington\, VT\, USA
+DTSTART;TZID=Europe/Berlin:20261128T183000
+STATUS:CONFIRMED
+X-JULIAN-TIME-STATUS:OFFICIAL-SCHEDULE
+SUMMARY:Ski Alpin Killington Riesenslalom (Frauen) – 2. Durchgang
+DESCRIPTION:Separater 2. Durchgang. Start laut offiziellem Zeitplan. Geprü
+ ft am 25.10.2026. Änderungen durch Jury/Wetter möglich. Keine bestätigt
+ e Endzeit angegeben.
+URL:https://assets.fis-ski.com/f/252177/x/8399f37ec9/complett_finaldoc_26_2
+ 7_v1_21-10-2026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:b4a00732e2cb6ab5efd56821f4c2@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:e3bb41c3ee252973a213d70e2a60@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+LOCATION:Rukatunturi HS 142\, Finnland
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+STATUS:TENTATIVE
+X-JULIAN-TIME-STATUS:UNCONFIRMED
+SUMMARY:Skispringen Ruka HS 142 Einzel (Männer) – 2. Durchgang – Uhrze
+ it offen
+DESCRIPTION:Terminmarker\, kein ganztägiger Wettkampf. Startzeit des 2. Du
+ rchgang noch nicht verifiziert\; Start nach dem ersten Durchgang gemäß o
+ ffiziellem Ablauf und Wetter. Keine geschätzte Uhrzeit. Der Marker erhäl
+ t nach Bekanntgabe der Zeit dieselbe UID. Datum/Ort wie beim Haupttermin\;
+  Änderungen möglich. Zweiter Wertungsdurchgang dieses Tages\; nicht auto
+ matisch Finaldurchgang. Je nach Wettkampfformat sind weitere Durchgänge m
+ öglich\; kein zweiter Qualifikationsdurchgang.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:3ccc2e739e319f7670edb2e88480@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:2a5b16ee64d38f7decafc396254c@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+LOCATION:Superstar\, Killington\, VT\, USA
+DTSTART;TZID=Europe/Berlin:20261129T190000
+STATUS:CONFIRMED
+X-JULIAN-TIME-STATUS:OFFICIAL-SCHEDULE
+SUMMARY:Ski Alpin Killington Slalom (Frauen) – 2. Durchgang
+DESCRIPTION:Separater 2. Durchgang. Start laut offiziellem Zeitplan. Geprü
+ ft am 25.10.2026. Änderungen durch Jury/Wetter möglich. Keine bestätigt
+ e Endzeit angegeben.
+URL:https://assets.fis-ski.com/f/252177/x/8399f37ec9/complett_finaldoc_26_2
+ 7_v1_21-10-2026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:8ca0aec1c65ce0e8ba1f1d92fd7d@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:64b60b15e948f22f7d1ca912f011@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+LOCATION:East Village\, Copper Mountain\, CO\, USA
+DTSTART;TZID=Europe/Berlin:20261129T210000
+STATUS:CONFIRMED
+X-JULIAN-TIME-STATUS:OFFICIAL-SCHEDULE
+SUMMARY:Ski Alpin Copper Mountain Riesenslalom (Männer) – 2. Durchgang
+DESCRIPTION:Separater 2. Durchgang. Start laut offiziellem Zeitplan. Geprü
+ ft am 25.10.2026. Änderungen durch Jury/Wetter möglich. Keine bestätigt
+ e Endzeit angegeben.
+URL:https://assets.fis-ski.com/f/252177/x/8399f37ec9/complett_finaldoc_26_2
+ 7_v1_21-10-2026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:ab752f43e72f447c1faff02f5585@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:b56c8183c30ead60de90c66449c0@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+LOCATION:Rukatunturi HS 142\, Finnland
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+STATUS:TENTATIVE
+X-JULIAN-TIME-STATUS:UNCONFIRMED
+SUMMARY:Skispringen Ruka HS 142 Einzel (Männer) – 2. Durchgang – Uhrze
+ it offen
+DESCRIPTION:Terminmarker\, kein ganztägiger Wettkampf. Startzeit des 2. Du
+ rchgang noch nicht verifiziert\; Start nach dem ersten Durchgang gemäß o
+ ffiziellem Ablauf und Wetter. Keine geschätzte Uhrzeit. Der Marker erhäl
+ t nach Bekanntgabe der Zeit dieselbe UID. Datum/Ort wie beim Haupttermin\;
+  Änderungen möglich. Zweiter Wertungsdurchgang dieses Tages\; nicht auto
+ matisch Finaldurchgang. Je nach Wettkampfformat sind weitere Durchgänge m
+ öglich\; kein zweiter Qualifikationsdurchgang.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:e96821a6a230f78512f7b99ee73b@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:6a232f0a70037087b8613d43f1aa@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+LOCATION:Energie AG-Skisprung Arena HS 90\, Hinzenbach\, Österreich
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+STATUS:TENTATIVE
+X-JULIAN-TIME-STATUS:UNCONFIRMED
+SUMMARY:Skispringen Hinzenbach HS 90 Einzel (Frauen) – 2. Durchgang – U
+ hrzeit offen
+DESCRIPTION:Terminmarker\, kein ganztägiger Wettkampf. Startzeit des 2. Du
+ rchgang noch nicht verifiziert\; Start nach dem ersten Durchgang gemäß o
+ ffiziellem Ablauf und Wetter. Keine geschätzte Uhrzeit. Der Marker erhäl
+ t nach Bekanntgabe der Zeit dieselbe UID. Datum/Ort wie beim Haupttermin\;
+  Änderungen möglich. Zweiter Wertungsdurchgang dieses Tages\; nicht auto
+ matisch Finaldurchgang. Je nach Wettkampfformat sind weitere Durchgänge m
+ öglich\; kein zweiter Qualifikationsdurchgang.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:d7bab556eca3e243cb47605b5b38@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:fec8112f81c62a7127b00b482dc9@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+LOCATION:Adam-Malysz-Schanze HS 134\, Wisla\, Polen
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+STATUS:TENTATIVE
+X-JULIAN-TIME-STATUS:UNCONFIRMED
+SUMMARY:Skispringen Wisla HS 134 Einzel (Frauen) – 2. Durchgang – Uhrze
+ it offen
+DESCRIPTION:Terminmarker\, kein ganztägiger Wettkampf. Startzeit des 2. Du
+ rchgang noch nicht verifiziert\; Start nach dem ersten Durchgang gemäß o
+ ffiziellem Ablauf und Wetter. Keine geschätzte Uhrzeit. Der Marker erhäl
+ t nach Bekanntgabe der Zeit dieselbe UID. Datum/Ort wie beim Haupttermin\;
+  Änderungen möglich. Zweiter Wertungsdurchgang dieses Tages\; nicht auto
+ matisch Finaldurchgang. Je nach Wettkampfformat sind weitere Durchgänge m
+ öglich\; kein zweiter Qualifikationsdurchgang.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:473aa69a4b3699c4afbd58dff42c@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:ce85a21142a4bc3c824ef29d8b41@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+LOCATION:Adam-Malysz-Schanze HS 134\, Wisla\, Polen
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+STATUS:TENTATIVE
+X-JULIAN-TIME-STATUS:UNCONFIRMED
+SUMMARY:Skispringen Wisla HS 134 Einzel (Männer) – 2. Durchgang – Uhrz
+ eit offen
+DESCRIPTION:Terminmarker\, kein ganztägiger Wettkampf. Startzeit des 2. Du
+ rchgang noch nicht verifiziert\; Start nach dem ersten Durchgang gemäß o
+ ffiziellem Ablauf und Wetter. Keine geschätzte Uhrzeit. Der Marker erhäl
+ t nach Bekanntgabe der Zeit dieselbe UID. Datum/Ort wie beim Haupttermin\;
+  Änderungen möglich. Zweiter Wertungsdurchgang dieses Tages\; nicht auto
+ matisch Finaldurchgang. Je nach Wettkampfformat sind weitere Durchgänge m
+ öglich\; kein zweiter Qualifikationsdurchgang.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:47e55fa91574ea3fbb0631972169@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:b27ab2be7b7b3aa131b0c35d48d7@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+LOCATION:Tremblant Resort\, Kanada
+DTSTART;TZID=Europe/Berlin:20261205T200000
+STATUS:CONFIRMED
+X-JULIAN-TIME-STATUS:OFFICIAL-SCHEDULE
+SUMMARY:Ski Alpin Tremblant Riesenslalom (Frauen) – 2. Durchgang
+DESCRIPTION:Separater 2. Durchgang. Start laut offiziellem Zeitplan. Geprü
+ ft am 25.10.2026. Änderungen durch Jury/Wetter möglich. Keine bestätigt
+ e Endzeit angegeben.
+URL:https://assets.fis-ski.com/f/252177/x/8399f37ec9/complett_finaldoc_26_2
+ 7_v1_21-10-2026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:f5a73997a33fe01fe2c2d40cba82@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:31c89c969ffde7b2e09f68e46c1f@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+LOCATION:Adam-Malysz-Schanze HS 134\, Wisla\, Polen
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+STATUS:TENTATIVE
+X-JULIAN-TIME-STATUS:UNCONFIRMED
+SUMMARY:Skispringen Wisla HS 134 Einzel (Frauen) – 2. Durchgang – Uhrze
+ it offen
+DESCRIPTION:Terminmarker\, kein ganztägiger Wettkampf. Startzeit des 2. Du
+ rchgang noch nicht verifiziert\; Start nach dem ersten Durchgang gemäß o
+ ffiziellem Ablauf und Wetter. Keine geschätzte Uhrzeit. Der Marker erhäl
+ t nach Bekanntgabe der Zeit dieselbe UID. Datum/Ort wie beim Haupttermin\;
+  Änderungen möglich. Zweiter Wertungsdurchgang dieses Tages\; nicht auto
+ matisch Finaldurchgang. Je nach Wettkampfformat sind weitere Durchgänge m
+ öglich\; kein zweiter Qualifikationsdurchgang.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:412c5ef175b896b37baf10e2f6c4@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:7010146355957fb81c3aa32889e3@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+LOCATION:Adam-Malysz-Schanze HS 134\, Wisla\, Polen
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+STATUS:TENTATIVE
+X-JULIAN-TIME-STATUS:UNCONFIRMED
+SUMMARY:Skispringen Wisla HS 134 Einzel (Männer) – 2. Durchgang – Uhrz
+ eit offen
+DESCRIPTION:Terminmarker\, kein ganztägiger Wettkampf. Startzeit des 2. Du
+ rchgang noch nicht verifiziert\; Start nach dem ersten Durchgang gemäß o
+ ffiziellem Ablauf und Wetter. Keine geschätzte Uhrzeit. Der Marker erhäl
+ t nach Bekanntgabe der Zeit dieselbe UID. Datum/Ort wie beim Haupttermin\;
+  Änderungen möglich. Zweiter Wertungsdurchgang dieses Tages\; nicht auto
+ matisch Finaldurchgang. Je nach Wettkampfformat sind weitere Durchgänge m
+ öglich\; kein zweiter Qualifikationsdurchgang.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:9cd3bd171025e4eb6e3dcfbcb940@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:58fa9338bc41ad7d7964dbb9281e@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+LOCATION:Tremblant Resort\, Kanada
+DTSTART;TZID=Europe/Berlin:20261206T193000
+STATUS:CONFIRMED
+X-JULIAN-TIME-STATUS:OFFICIAL-SCHEDULE
+SUMMARY:Ski Alpin Tremblant Riesenslalom (Frauen) – 2. Durchgang
+DESCRIPTION:Separater 2. Durchgang. Start laut offiziellem Zeitplan. Geprü
+ ft am 25.10.2026. Änderungen durch Jury/Wetter möglich. Keine bestätigt
+ e Endzeit angegeben.
+URL:https://assets.fis-ski.com/f/252177/x/8399f37ec9/complett_finaldoc_26_2
+ 7_v1_21-10-2026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:b7c1ebd99dc6ea13005feec7c5cf@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:2b310137b96d7e0f585753fe12a4@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+LOCATION:Birds of Prey / Golden Eagle\, Beaver Creek\, CO\, USA
+DTSTART;TZID=Europe/Berlin:20261206T210000
+STATUS:CONFIRMED
+X-JULIAN-TIME-STATUS:OFFICIAL-SCHEDULE
+SUMMARY:Ski Alpin Beaver Creek Riesenslalom (Männer) – 2. Durchgang
+DESCRIPTION:Separater 2. Durchgang. Start laut offiziellem Zeitplan. Geprü
+ ft am 25.10.2026. Änderungen durch Jury/Wetter möglich. Keine bestätigt
+ e Endzeit angegeben.
+URL:https://assets.fis-ski.com/f/252177/x/8399f37ec9/complett_finaldoc_26_2
+ 7_v1_21-10-2026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:0cbc27e0f61208a36ca2bee60c36@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:3049eea37341fb7bcc568c1d2802@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+LOCATION:Hochfirstschanze HS 142\, Titisee-Neustadt\, Deutschland
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+STATUS:TENTATIVE
+X-JULIAN-TIME-STATUS:UNCONFIRMED
+SUMMARY:Skispringen Titisee-Neustadt HS 142 Team (Männer) – 2. Durchgang
+  – Uhrzeit offen
+DESCRIPTION:Terminmarker\, kein ganztägiger Wettkampf. Startzeit des 2. Du
+ rchgang noch nicht verifiziert\; Start nach dem ersten Durchgang gemäß o
+ ffiziellem Ablauf und Wetter. Keine geschätzte Uhrzeit. Der Marker erhäl
+ t nach Bekanntgabe der Zeit dieselbe UID. Datum/Ort wie beim Haupttermin\;
+  Änderungen möglich. Zweiter Wertungsdurchgang dieses Tages\; nicht auto
+ matisch Finaldurchgang. Je nach Wettkampfformat sind weitere Durchgänge m
+ öglich\; kein zweiter Qualifikationsdurchgang.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:41170a845d3c55e2a20cc97c68d5@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:89e6b5ce7e2b62c8169adc9030ab@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+LOCATION:Hochfirstschanze HS 142\, Titisee-Neustadt\, Deutschland
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+STATUS:TENTATIVE
+X-JULIAN-TIME-STATUS:UNCONFIRMED
+SUMMARY:Skispringen Titisee-Neustadt HS 142 Einzel (Männer) – 2. Durchga
+ ng – Uhrzeit offen
+DESCRIPTION:Terminmarker\, kein ganztägiger Wettkampf. Startzeit des 2. Du
+ rchgang noch nicht verifiziert\; Start nach dem ersten Durchgang gemäß o
+ ffiziellem Ablauf und Wetter. Keine geschätzte Uhrzeit. Der Marker erhäl
+ t nach Bekanntgabe der Zeit dieselbe UID. Datum/Ort wie beim Haupttermin\;
+  Änderungen möglich. Zweiter Wertungsdurchgang dieses Tages\; nicht auto
+ matisch Finaldurchgang. Je nach Wettkampfformat sind weitere Durchgänge m
+ öglich\; kein zweiter Qualifikationsdurchgang.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:43a7551373a8a95bd3d50a7aa9e1@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:54e63b6c26ede0ec3ac2b0d59d14@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+LOCATION:Hochfirstschanze HS 142\, Titisee-Neustadt\, Deutschland
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+STATUS:TENTATIVE
+X-JULIAN-TIME-STATUS:UNCONFIRMED
+SUMMARY:Skispringen Titisee-Neustadt HS 142 Einzel (Frauen) – 2. Durchgan
+ g – Uhrzeit offen
+DESCRIPTION:Terminmarker\, kein ganztägiger Wettkampf. Startzeit des 2. Du
+ rchgang noch nicht verifiziert\; Start nach dem ersten Durchgang gemäß o
+ ffiziellem Ablauf und Wetter. Keine geschätzte Uhrzeit. Der Marker erhäl
+ t nach Bekanntgabe der Zeit dieselbe UID. Datum/Ort wie beim Haupttermin\;
+  Änderungen möglich. Zweiter Wertungsdurchgang dieses Tages\; nicht auto
+ matisch Finaldurchgang. Je nach Wettkampfformat sind weitere Durchgänge m
+ öglich\; kein zweiter Qualifikationsdurchgang.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:61539e60dd3a01d69d193d8a9d92@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:65441efa4c973fd768e5d7b36eab@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+LOCATION:La face de Bellevarde\, Val dIsere\, Frankreich
+DTSTART;TZID=Europe/Berlin:20261212T130000
+STATUS:CONFIRMED
+X-JULIAN-TIME-STATUS:OFFICIAL-SCHEDULE
+SUMMARY:Ski Alpin Val dIsere Riesenslalom (Männer) – 2. Durchgang
+DESCRIPTION:Separater 2. Durchgang. Start laut offiziellem Zeitplan. Geprü
+ ft am 25.10.2026. Änderungen durch Jury/Wetter möglich. Keine bestätigt
+ e Endzeit angegeben.
+URL:https://assets.fis-ski.com/f/252177/x/8399f37ec9/complett_finaldoc_26_2
+ 7_v1_21-10-2026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:340b65db36b8cc9b8079721971fa@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:d68f766b316c8a43af0fa2fd4541@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+LOCATION:Hochfirstschanze HS 142\, Titisee-Neustadt\, Deutschland
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+STATUS:TENTATIVE
+X-JULIAN-TIME-STATUS:UNCONFIRMED
+SUMMARY:Skispringen Titisee-Neustadt HS 142 Einzel (Männer) – 2. Durchga
+ ng – Uhrzeit offen
+DESCRIPTION:Terminmarker\, kein ganztägiger Wettkampf. Startzeit des 2. Du
+ rchgang noch nicht verifiziert\; Start nach dem ersten Durchgang gemäß o
+ ffiziellem Ablauf und Wetter. Keine geschätzte Uhrzeit. Der Marker erhäl
+ t nach Bekanntgabe der Zeit dieselbe UID. Datum/Ort wie beim Haupttermin\;
+  Änderungen möglich. Zweiter Wertungsdurchgang dieses Tages\; nicht auto
+ matisch Finaldurchgang. Je nach Wettkampfformat sind weitere Durchgänge m
+ öglich\; kein zweiter Qualifikationsdurchgang.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:3a6db6144c7b906abb20af7678a4@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:7f6fe551d1ead0e43dab410edb13@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+LOCATION:Hochfirstschanze HS 142\, Titisee-Neustadt\, Deutschland
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+STATUS:TENTATIVE
+X-JULIAN-TIME-STATUS:UNCONFIRMED
+SUMMARY:Skispringen Titisee-Neustadt HS 142 Einzel (Frauen) – 2. Durchgan
+ g – Uhrzeit offen
+DESCRIPTION:Terminmarker\, kein ganztägiger Wettkampf. Startzeit des 2. Du
+ rchgang noch nicht verifiziert\; Start nach dem ersten Durchgang gemäß o
+ ffiziellem Ablauf und Wetter. Keine geschätzte Uhrzeit. Der Marker erhäl
+ t nach Bekanntgabe der Zeit dieselbe UID. Datum/Ort wie beim Haupttermin\;
+  Änderungen möglich. Zweiter Wertungsdurchgang dieses Tages\; nicht auto
+ matisch Finaldurchgang. Je nach Wettkampfformat sind weitere Durchgänge m
+ öglich\; kein zweiter Qualifikationsdurchgang.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:bb9d66cd52aa510e4f0d8f96da79@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:8a868643eef0ac5da4eb88259e4d@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+LOCATION:La face de Bellevarde\, Val dIsere\, Frankreich
+DTSTART;TZID=Europe/Berlin:20261213T130000
+STATUS:CONFIRMED
+X-JULIAN-TIME-STATUS:OFFICIAL-SCHEDULE
+SUMMARY:Ski Alpin Val dIsere Slalom (Männer) – 2. Durchgang
+DESCRIPTION:Separater 2. Durchgang. Start laut offiziellem Zeitplan. Geprü
+ ft am 25.10.2026. Änderungen durch Jury/Wetter möglich. Keine bestätigt
+ e Endzeit angegeben.
+URL:https://assets.fis-ski.com/f/252177/x/8399f37ec9/complett_finaldoc_26_2
+ 7_v1_21-10-2026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:7cfbef8626ad4f4cd4204ce820e0@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:5cc72e65595f4cef178072e8f5d9@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+LOCATION:Groß-Titlis-Schanze HS 140\, Engelberg\, Schweiz
+DTSTART;TZID=Europe/Berlin:20261219T141500
+STATUS:TENTATIVE
+X-JULIAN-TIME-STATUS:PUBLISHED-PROVISIONAL
+SUMMARY:Skispringen Engelberg HS 140 Einzel (Frauen) – 2. Durchgang – v
+ orläufig
+DESCRIPTION:Separater 2. Durchgang. Start laut offiziellem Zeitplan. Geprü
+ ft am 25.10.2026. Änderungen durch Jury/Wetter möglich. Keine bestätigt
+ e Endzeit angegeben. Vorläufige veröffentlichte Planzeit aus dem offizie
+ llen Veranstalterprogramm (indexierter Stand vom 23.10.2026). Die direkt a
+ brufbare Seite liefert teilweise eine ältere Programmfassung\; deshalb al
+ s vorläufig gekennzeichnet. Zweiter Wertungsdurchgang dieses Tages\; nich
+ t automatisch Finaldurchgang. Je nach Wettkampfformat sind weitere Durchg
+ änge möglich\; kein zweiter Qualifikationsdurchgang.
+URL:https://www.weltcup-engelberg.ch/de/tickets-events/programm
+END:VEVENT
+BEGIN:VEVENT
+UID:9d68ab2eb4fd990fb4bba858285a@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:c2c7f60fbd831d44720447205fe3@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+LOCATION:Groß-Titlis-Schanze HS 140\, Engelberg\, Schweiz
+DTSTART;TZID=Europe/Berlin:20261219T171000
+STATUS:TENTATIVE
+X-JULIAN-TIME-STATUS:PUBLISHED-PROVISIONAL
+SUMMARY:Skispringen Engelberg HS 140 Einzel (Männer) – 2. Durchgang – 
+ vorläufig
+DESCRIPTION:Separater 2. Durchgang. Start laut offiziellem Zeitplan. Geprü
+ ft am 25.10.2026. Änderungen durch Jury/Wetter möglich. Keine bestätigt
+ e Endzeit angegeben. Vorläufige veröffentlichte Planzeit aus dem offizie
+ llen Veranstalterprogramm (indexierter Stand vom 23.10.2026). Die direkt a
+ brufbare Seite liefert teilweise eine ältere Programmfassung\; deshalb al
+ s vorläufig gekennzeichnet. Zweiter Wertungsdurchgang dieses Tages\; nich
+ t automatisch Finaldurchgang. Je nach Wettkampfformat sind weitere Durchg
+ änge möglich\; kein zweiter Qualifikationsdurchgang.
+URL:https://www.weltcup-engelberg.ch/de/tickets-events/programm
+END:VEVENT
+BEGIN:VEVENT
+UID:2d1eec1987e552e7f64fa235c34b@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:800c91347fc27e1c57a26084443c@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+LOCATION:Groß-Titlis-Schanze HS 140\, Engelberg\, Schweiz
+DTSTART;TZID=Europe/Berlin:20261220T143000
+STATUS:TENTATIVE
+X-JULIAN-TIME-STATUS:PUBLISHED-PROVISIONAL
+SUMMARY:Skispringen Engelberg HS 140 Einzel (Frauen) – 2. Durchgang – v
+ orläufig
+DESCRIPTION:Separater 2. Durchgang. Start laut offiziellem Zeitplan. Geprü
+ ft am 25.10.2026. Änderungen durch Jury/Wetter möglich. Keine bestätigt
+ e Endzeit angegeben. Vorläufige veröffentlichte Planzeit aus dem offizie
+ llen Veranstalterprogramm (indexierter Stand vom 23.10.2026). Die direkt a
+ brufbare Seite liefert teilweise eine ältere Programmfassung\; deshalb al
+ s vorläufig gekennzeichnet. Zweiter Wertungsdurchgang dieses Tages\; nich
+ t automatisch Finaldurchgang. Je nach Wettkampfformat sind weitere Durchg
+ änge möglich\; kein zweiter Qualifikationsdurchgang.
+URL:https://www.weltcup-engelberg.ch/de/tickets-events/programm
+END:VEVENT
+BEGIN:VEVENT
+UID:3c2f07780bf9531cf5f705293443@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:691a6970daabd9e4b316e80e8fa4@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+LOCATION:Groß-Titlis-Schanze HS 140\, Engelberg\, Schweiz
+DTSTART;TZID=Europe/Berlin:20261220T171000
+STATUS:TENTATIVE
+X-JULIAN-TIME-STATUS:PUBLISHED-PROVISIONAL
+SUMMARY:Skispringen Engelberg HS 140 Einzel (Männer) – 2. Durchgang – 
+ vorläufig
+DESCRIPTION:Separater 2. Durchgang. Start laut offiziellem Zeitplan. Geprü
+ ft am 25.10.2026. Änderungen durch Jury/Wetter möglich. Keine bestätigt
+ e Endzeit angegeben. Vorläufige veröffentlichte Planzeit aus dem offizie
+ llen Veranstalterprogramm (indexierter Stand vom 23.10.2026). Die direkt a
+ brufbare Seite liefert teilweise eine ältere Programmfassung\; deshalb al
+ s vorläufig gekennzeichnet. Zweiter Wertungsdurchgang dieses Tages\; nich
+ t automatisch Finaldurchgang. Je nach Wettkampfformat sind weitere Durchg
+ änge möglich\; kein zweiter Qualifikationsdurchgang.
+URL:https://www.weltcup-engelberg.ch/de/tickets-events/programm
+END:VEVENT
+BEGIN:VEVENT
+UID:3dbc28ec8ed67345d304c8fea4a1@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:10e7940d641ac6de1b9124135126@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+LOCATION:Engiadina\, St. Moritz\, Schweiz
+DTSTART;TZID=Europe/Berlin:20261220T123000
+STATUS:CONFIRMED
+X-JULIAN-TIME-STATUS:OFFICIAL-SCHEDULE
+SUMMARY:Ski Alpin St. Moritz Riesenslalom (Frauen) – 2. Durchgang
+DESCRIPTION:Separater 2. Durchgang. Start laut offiziellem Zeitplan. Geprü
+ ft am 25.10.2026. Änderungen durch Jury/Wetter möglich. Keine bestätigt
+ e Endzeit angegeben.
+URL:https://assets.fis-ski.com/f/252177/x/8399f37ec9/complett_finaldoc_26_2
+ 7_v1_21-10-2026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:ef4aa93f8b5023fd69440c2cc6f7@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:1ddf87ddc7f18d9d84e59e9edd23@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+LOCATION:Gran Risa\, Alta Badia\, Italien
+DTSTART;TZID=Europe/Berlin:20261220T133000
+STATUS:CONFIRMED
+X-JULIAN-TIME-STATUS:OFFICIAL-SCHEDULE
+SUMMARY:Ski Alpin Alta Badia Riesenslalom (Männer) – 2. Durchgang
+DESCRIPTION:Separater 2. Durchgang. Start laut offiziellem Zeitplan. Geprü
+ ft am 25.10.2026. Änderungen durch Jury/Wetter möglich. Keine bestätigt
+ e Endzeit angegeben.
+URL:https://assets.fis-ski.com/f/252177/x/8399f37ec9/complett_finaldoc_26_2
+ 7_v1_21-10-2026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:29b9ff9e7c41514797865fd6427c@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:db8996129c223fee8841fb1f1b57@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+LOCATION:Gran Risa\, Alta Badia\, Italien
+DTSTART;TZID=Europe/Berlin:20261221T210000
+STATUS:CONFIRMED
+X-JULIAN-TIME-STATUS:OFFICIAL-SCHEDULE
+SUMMARY:Ski Alpin Alta Badia Slalom (Männer) – 2. Durchgang
+DESCRIPTION:Separater 2. Durchgang. Start laut offiziellem Zeitplan. Geprü
+ ft am 25.10.2026. Änderungen durch Jury/Wetter möglich. Keine bestätigt
+ e Endzeit angegeben.
+URL:https://assets.fis-ski.com/f/252177/x/8399f37ec9/complett_finaldoc_26_2
+ 7_v1_21-10-2026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:776746934c7ac0e7c87afd97fd8e@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:ae83cd04a72c67ef67d365599852@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+LOCATION:Stade Emile Allais\, Courchevel\, Frankreich
+DTSTART;TZID=Europe/Berlin:20261222T204500
+STATUS:CONFIRMED
+X-JULIAN-TIME-STATUS:OFFICIAL-SCHEDULE
+SUMMARY:Ski Alpin Courchevel Slalom (Frauen) – 2. Durchgang
+DESCRIPTION:Separater 2. Durchgang. Start laut offiziellem Zeitplan. Geprü
+ ft am 25.10.2026. Änderungen durch Jury/Wetter möglich. Keine bestätigt
+ e Endzeit angegeben.
+URL:https://assets.fis-ski.com/f/252177/x/8399f37ec9/complett_finaldoc_26_2
+ 7_v1_21-10-2026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:cf514ee6dfb99e3b6c041cace131@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:b15fc7e9be72b9e5219c695f91e2@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+LOCATION:Canalone Miramonti\, Madonna di Campiglio\, Italien
+DTSTART;TZID=Europe/Berlin:20261223T210000
+STATUS:CONFIRMED
+X-JULIAN-TIME-STATUS:OFFICIAL-SCHEDULE
+SUMMARY:Ski Alpin Madonna di Campiglio Slalom (Männer) – 2. Durchgang
+DESCRIPTION:Separater 2. Durchgang. Start laut offiziellem Zeitplan. Geprü
+ ft am 25.10.2026. Änderungen durch Jury/Wetter möglich. Keine bestätigt
+ e Endzeit angegeben.
+URL:https://assets.fis-ski.com/f/252177/x/8399f37ec9/complett_finaldoc_26_2
+ 7_v1_21-10-2026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:ac37751c5a21f52836c201e987fa@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:f3043d462979a7f1095be3a4ec71@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+LOCATION:Hornspitz\, Gosau\, Österreich
+DTSTART;TZID=Europe/Berlin:20261228T130000
+STATUS:CONFIRMED
+X-JULIAN-TIME-STATUS:OFFICIAL-SCHEDULE
+SUMMARY:Ski Alpin Dachstein West / Gosau Riesenslalom (Frauen) – 2. Durch
+ gang
+DESCRIPTION:Separater 2. Durchgang. Start laut offiziellem Zeitplan. Geprü
+ ft am 25.10.2026. Änderungen durch Jury/Wetter möglich. Keine bestätigt
+ e Endzeit angegeben.
+URL:https://assets.fis-ski.com/f/252177/x/8399f37ec9/complett_finaldoc_26_2
+ 7_v1_21-10-2026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:c7ae36fb0e4e443d4e12531917e0@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:2e9ac5d796b8db000d1039a76d6c@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+LOCATION:Schattenbergschanze HS 137\, Oberstdorf\, Deutschland
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+STATUS:TENTATIVE
+X-JULIAN-TIME-STATUS:UNCONFIRMED
+SUMMARY:Skispringen Vierschanzentournee Oberstdorf (Frauen) – 2. Durchgan
+ g – Uhrzeit offen
+DESCRIPTION:Terminmarker\, kein ganztägiger Wettkampf. Startzeit des 2. Du
+ rchgang noch nicht verifiziert\; Start nach dem ersten Durchgang gemäß o
+ ffiziellem Ablauf und Wetter. Keine geschätzte Uhrzeit. Der Marker erhäl
+ t nach Bekanntgabe der Zeit dieselbe UID. Datum/Ort wie beim Haupttermin\;
+  Änderungen möglich. Zweiter Wertungsdurchgang dieses Tages\; nicht auto
+ matisch Finaldurchgang. Je nach Wettkampfformat sind weitere Durchgänge m
+ öglich\; kein zweiter Qualifikationsdurchgang.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:26b6d16e11da7db67a26fe59ae61@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:d96b8b444f715d52ca7003998e69@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+LOCATION:Hornspitz\, Gosau\, Österreich
+DTSTART;TZID=Europe/Berlin:20261229T130000
+STATUS:CONFIRMED
+X-JULIAN-TIME-STATUS:OFFICIAL-SCHEDULE
+SUMMARY:Ski Alpin Dachstein West / Gosau Slalom (Frauen) – 2. Durchgang
+DESCRIPTION:Separater 2. Durchgang. Start laut offiziellem Zeitplan. Geprü
+ ft am 25.10.2026. Änderungen durch Jury/Wetter möglich. Keine bestätigt
+ e Endzeit angegeben.
+URL:https://assets.fis-ski.com/f/252177/x/8399f37ec9/complett_finaldoc_26_2
+ 7_v1_21-10-2026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:b81760bbdab83b49c525dc5db114@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:a2f06aeddce38531c64bf3c51baf@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+LOCATION:Schattenbergschanze HS 137\, Oberstdorf\, Deutschland
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+STATUS:TENTATIVE
+X-JULIAN-TIME-STATUS:UNCONFIRMED
+SUMMARY:Skispringen Vierschanzentournee Oberstdorf (Männer) – 2. Durchga
+ ng – Uhrzeit offen
+DESCRIPTION:Terminmarker\, kein ganztägiger Wettkampf. Startzeit des 2. Du
+ rchgang noch nicht verifiziert\; Start nach dem ersten Durchgang gemäß o
+ ffiziellem Ablauf und Wetter. Keine geschätzte Uhrzeit. Der Marker erhäl
+ t nach Bekanntgabe der Zeit dieselbe UID. Datum/Ort wie beim Haupttermin\;
+  Änderungen möglich. Zweiter Wertungsdurchgang dieses Tages\; nicht auto
+ matisch Finaldurchgang. Je nach Wettkampfformat sind weitere Durchgänge m
+ öglich\; kein zweiter Qualifikationsdurchgang.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:976e3074ebb1060ca03177414cd4@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:98f032121504afef98fa2dce1d38@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+LOCATION:Große Olympiaschanze HS 142\, Garmisch-Partenkirchen\, Deutschlan
+ d
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+STATUS:TENTATIVE
+X-JULIAN-TIME-STATUS:UNCONFIRMED
+SUMMARY:Skispringen Vierschanzentournee Garmisch-Partenkirchen (Frauen) –
+  2. Durchgang – Uhrzeit offen
+DESCRIPTION:Terminmarker\, kein ganztägiger Wettkampf. Startzeit des 2. Du
+ rchgang noch nicht verifiziert\; Start nach dem ersten Durchgang gemäß o
+ ffiziellem Ablauf und Wetter. Keine geschätzte Uhrzeit. Der Marker erhäl
+ t nach Bekanntgabe der Zeit dieselbe UID. Datum/Ort wie beim Haupttermin\;
+  Änderungen möglich. Zweiter Wertungsdurchgang dieses Tages\; nicht auto
+ matisch Finaldurchgang. Je nach Wettkampfformat sind weitere Durchgänge m
+ öglich\; kein zweiter Qualifikationsdurchgang.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:c6c9ab3c5cd61ce1196b90283c9f@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:245d2b38845ebe11518eb81422ef@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+LOCATION:Große Olympiaschanze HS 142\, Garmisch-Partenkirchen\, Deutschlan
+ d
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+STATUS:TENTATIVE
+X-JULIAN-TIME-STATUS:UNCONFIRMED
+SUMMARY:Skispringen Vierschanzentournee Garmisch-Partenkirchen (Männer) 
+ – 2. Durchgang – Uhrzeit offen
+DESCRIPTION:Terminmarker\, kein ganztägiger Wettkampf. Startzeit des 2. Du
+ rchgang noch nicht verifiziert\; Start nach dem ersten Durchgang gemäß o
+ ffiziellem Ablauf und Wetter. Keine geschätzte Uhrzeit. Der Marker erhäl
+ t nach Bekanntgabe der Zeit dieselbe UID. Datum/Ort wie beim Haupttermin\;
+  Änderungen möglich. Zweiter Wertungsdurchgang dieses Tages\; nicht auto
+ matisch Finaldurchgang. Je nach Wettkampfformat sind weitere Durchgänge m
+ öglich\; kein zweiter Qualifikationsdurchgang.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:2bd8fb9e43ebcf43c920291bbf91@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:1fe930ded5deae5bf2396a71c2c2@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+LOCATION:Bergisel Sprungschanze HS 128\, Innsbruck\, Österreich
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+STATUS:TENTATIVE
+X-JULIAN-TIME-STATUS:UNCONFIRMED
+SUMMARY:Skispringen Vierschanzentournee Innsbruck (Frauen) – 2. Durchgang
+  – Uhrzeit offen
+DESCRIPTION:Terminmarker\, kein ganztägiger Wettkampf. Startzeit des 2. Du
+ rchgang noch nicht verifiziert\; Start nach dem ersten Durchgang gemäß o
+ ffiziellem Ablauf und Wetter. Keine geschätzte Uhrzeit. Der Marker erhäl
+ t nach Bekanntgabe der Zeit dieselbe UID. Datum/Ort wie beim Haupttermin\;
+  Änderungen möglich. Zweiter Wertungsdurchgang dieses Tages\; nicht auto
+ matisch Finaldurchgang. Je nach Wettkampfformat sind weitere Durchgänge m
+ öglich\; kein zweiter Qualifikationsdurchgang.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:f4d448d51f0814a6a8db574a5c24@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:72d48a5cb7ca32c8a41303c973d3@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+LOCATION:Podkoren 3\, Kranjska Gora\, Slowenien
+DTSTART;TZID=Europe/Berlin:20270102T130000
+STATUS:CONFIRMED
+X-JULIAN-TIME-STATUS:OFFICIAL-SCHEDULE
+SUMMARY:Ski Alpin Kranjska Gora Riesenslalom (Männer) – 2. Durchgang
+DESCRIPTION:Separater 2. Durchgang. Start laut offiziellem Zeitplan. Geprü
+ ft am 25.10.2026. Änderungen durch Jury/Wetter möglich. Keine bestätigt
+ e Endzeit angegeben.
+URL:https://assets.fis-ski.com/f/252177/x/8399f37ec9/complett_finaldoc_26_2
+ 7_v1_21-10-2026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:88cd0fda65d0b05215fde8f8b8ed@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:40ab371724ab9fb81003409c8c71@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+LOCATION:Podkoren 3\, Kranjska Gora\, Slowenien
+DTSTART;TZID=Europe/Berlin:20270103T130000
+STATUS:CONFIRMED
+X-JULIAN-TIME-STATUS:OFFICIAL-SCHEDULE
+SUMMARY:Ski Alpin Kranjska Gora Slalom (Männer) – 2. Durchgang
+DESCRIPTION:Separater 2. Durchgang. Start laut offiziellem Zeitplan. Geprü
+ ft am 25.10.2026. Änderungen durch Jury/Wetter möglich. Keine bestätigt
+ e Endzeit angegeben.
+URL:https://assets.fis-ski.com/f/252177/x/8399f37ec9/complett_finaldoc_26_2
+ 7_v1_21-10-2026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:9ee342acf9f694a3298736d144d4@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:ad986b06511ceddfa63576afa7ca@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+LOCATION:Bergisel Sprungschanze HS 130\, Innsbruck\, Österreich
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+STATUS:TENTATIVE
+X-JULIAN-TIME-STATUS:UNCONFIRMED
+SUMMARY:Skispringen Vierschanzentournee Innsbruck (Männer) – 2. Durchgan
+ g – Uhrzeit offen
+DESCRIPTION:Terminmarker\, kein ganztägiger Wettkampf. Startzeit des 2. Du
+ rchgang noch nicht verifiziert\; Start nach dem ersten Durchgang gemäß o
+ ffiziellem Ablauf und Wetter. Keine geschätzte Uhrzeit. Der Marker erhäl
+ t nach Bekanntgabe der Zeit dieselbe UID. Datum/Ort wie beim Haupttermin\;
+  Änderungen möglich. Zweiter Wertungsdurchgang dieses Tages\; nicht auto
+ matisch Finaldurchgang. Je nach Wettkampfformat sind weitere Durchgänge m
+ öglich\; kein zweiter Qualifikationsdurchgang.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:9017bd39e66c2c97e0e8d9526585@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:0cc58804cdcba389edd282e7354e@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+LOCATION:Hermann Maier Weltcupstrecke\, Flachau\, Österreich
+DTSTART;TZID=Europe/Berlin:20270104T204500
+STATUS:CONFIRMED
+X-JULIAN-TIME-STATUS:OFFICIAL-SCHEDULE
+SUMMARY:Ski Alpin Flachau Riesenslalom (Frauen) – 2. Durchgang
+DESCRIPTION:Separater 2. Durchgang. Start laut offiziellem Zeitplan. Geprü
+ ft am 25.10.2026. Änderungen durch Jury/Wetter möglich. Keine bestätigt
+ e Endzeit angegeben.
+URL:https://assets.fis-ski.com/f/252177/x/8399f37ec9/complett_finaldoc_26_2
+ 7_v1_21-10-2026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:4808f5535f400c87f8b244bb5b09@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:767ad2ccf5cb1b7b027688369fbd@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+LOCATION:Hermann Maier Weltcupstrecke\, Flachau\, Österreich
+DTSTART;TZID=Europe/Berlin:20270105T210000
+STATUS:CONFIRMED
+X-JULIAN-TIME-STATUS:OFFICIAL-SCHEDULE
+SUMMARY:Ski Alpin Flachau Slalom (Frauen) – 2. Durchgang
+DESCRIPTION:Separater 2. Durchgang. Start laut offiziellem Zeitplan. Geprü
+ ft am 25.10.2026. Änderungen durch Jury/Wetter möglich. Keine bestätigt
+ e Endzeit angegeben.
+URL:https://assets.fis-ski.com/f/252177/x/8399f37ec9/complett_finaldoc_26_2
+ 7_v1_21-10-2026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:96913ed4792cad69009138fb11c8@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:8ca473aa67922b45fe972e7558f7@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+LOCATION:Paul-Außerleitner-Schanze HS 142\, Bischofshofen\, Österreich
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270106
+STATUS:TENTATIVE
+X-JULIAN-TIME-STATUS:UNCONFIRMED
+SUMMARY:Skispringen Vierschanzentournee Bischofshofen (Frauen) – 2. Durch
+ gang – Uhrzeit offen
+DESCRIPTION:Terminmarker\, kein ganztägiger Wettkampf. Startzeit des 2. Du
+ rchgang noch nicht verifiziert\; Start nach dem ersten Durchgang gemäß o
+ ffiziellem Ablauf und Wetter. Keine geschätzte Uhrzeit. Der Marker erhäl
+ t nach Bekanntgabe der Zeit dieselbe UID. Datum/Ort wie beim Haupttermin\;
+  Änderungen möglich. Zweiter Wertungsdurchgang dieses Tages\; nicht auto
+ matisch Finaldurchgang. Je nach Wettkampfformat sind weitere Durchgänge m
+ öglich\; kein zweiter Qualifikationsdurchgang.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:6d2a9c7d2fab6c043ad1ab025457@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:b9a36d7167058dd7780c108e0b84@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+LOCATION:Paul-Außerleitner-Schanze HS 142\, Bischofshofen\, Österreich
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+STATUS:TENTATIVE
+X-JULIAN-TIME-STATUS:UNCONFIRMED
+SUMMARY:Skispringen Vierschanzentournee Bischofshofen (Männer) – 2. Durc
+ hgang – Uhrzeit offen
+DESCRIPTION:Terminmarker\, kein ganztägiger Wettkampf. Startzeit des 2. Du
+ rchgang noch nicht verifiziert\; Start nach dem ersten Durchgang gemäß o
+ ffiziellem Ablauf und Wetter. Keine geschätzte Uhrzeit. Der Marker erhäl
+ t nach Bekanntgabe der Zeit dieselbe UID. Datum/Ort wie beim Haupttermin\;
+  Änderungen möglich. Zweiter Wertungsdurchgang dieses Tages\; nicht auto
+ matisch Finaldurchgang. Je nach Wettkampfformat sind weitere Durchgänge m
+ öglich\; kein zweiter Qualifikationsdurchgang.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:c441ba2f911c4b6b3c9ec0bc8267@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:ec36cd417f0359d68c20a71a51fb@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+LOCATION:Chuenisbärgli\, Adelboden\, Schweiz
+DTSTART;TZID=Europe/Berlin:20270109T133000
+STATUS:CONFIRMED
+X-JULIAN-TIME-STATUS:OFFICIAL-SCHEDULE
+SUMMARY:Ski Alpin Adelboden Riesenslalom (Männer) – 2. Durchgang
+DESCRIPTION:Separater 2. Durchgang. Start laut offiziellem Zeitplan. Geprü
+ ft am 25.10.2026. Änderungen durch Jury/Wetter möglich. Keine bestätigt
+ e Endzeit angegeben.
+URL:https://assets.fis-ski.com/f/252177/x/8399f37ec9/complett_finaldoc_26_2
+ 7_v1_21-10-2026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:ca1ef6ccad8348399eada7a30e49@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:188990fa61ed75be4960a652ac28@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+LOCATION:Logarska Dalina HS 94\, Ljubno\, Slowenien
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+STATUS:TENTATIVE
+X-JULIAN-TIME-STATUS:UNCONFIRMED
+SUMMARY:Skispringen Ljubno HS 94 Einzel (Frauen) – 2. Durchgang – Uhrze
+ it offen
+DESCRIPTION:Terminmarker\, kein ganztägiger Wettkampf. Startzeit des 2. Du
+ rchgang noch nicht verifiziert\; Start nach dem ersten Durchgang gemäß o
+ ffiziellem Ablauf und Wetter. Keine geschätzte Uhrzeit. Der Marker erhäl
+ t nach Bekanntgabe der Zeit dieselbe UID. Datum/Ort wie beim Haupttermin\;
+  Änderungen möglich. Zweiter Wertungsdurchgang dieses Tages\; nicht auto
+ matisch Finaldurchgang. Je nach Wettkampfformat sind weitere Durchgänge m
+ öglich\; kein zweiter Qualifikationsdurchgang.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:96ba4d25b93c1386a67e32fce1e8@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:c9a631515914c83314407470b1eb@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+LOCATION:Logarska Dalina HS 94\, Ljubno\, Slowenien
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+STATUS:TENTATIVE
+X-JULIAN-TIME-STATUS:UNCONFIRMED
+SUMMARY:Skispringen Ljubno HS 94 Einzel (Frauen) – 2. Durchgang – Uhrze
+ it offen
+DESCRIPTION:Terminmarker\, kein ganztägiger Wettkampf. Startzeit des 2. Du
+ rchgang noch nicht verifiziert\; Start nach dem ersten Durchgang gemäß o
+ ffiziellem Ablauf und Wetter. Keine geschätzte Uhrzeit. Der Marker erhäl
+ t nach Bekanntgabe der Zeit dieselbe UID. Datum/Ort wie beim Haupttermin\;
+  Änderungen möglich. Zweiter Wertungsdurchgang dieses Tages\; nicht auto
+ matisch Finaldurchgang. Je nach Wettkampfformat sind weitere Durchgänge m
+ öglich\; kein zweiter Qualifikationsdurchgang.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:a5cd3ed57108755d9d0b6ef6f9c7@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:bd07422a69bb999a8f8726e62cb0@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+LOCATION:Chuenisbärgli\, Adelboden\, Schweiz
+DTSTART;TZID=Europe/Berlin:20270110T133000
+STATUS:CONFIRMED
+X-JULIAN-TIME-STATUS:OFFICIAL-SCHEDULE
+SUMMARY:Ski Alpin Adelboden Slalom (Männer) – 2. Durchgang
+DESCRIPTION:Separater 2. Durchgang. Start laut offiziellem Zeitplan. Geprü
+ ft am 25.10.2026. Änderungen durch Jury/Wetter möglich. Keine bestätigt
+ e Endzeit angegeben.
+URL:https://assets.fis-ski.com/f/252177/x/8399f37ec9/complett_finaldoc_26_2
+ 7_v1_21-10-2026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:5fba8a25ee87e10fd12762f1d554@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:7f43aae3f2a4dc7c93e1c88e545d@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+LOCATION:Snow Ruyi National Ski Jumping Centre HS 140\, Zhangjiakou\, China
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+STATUS:TENTATIVE
+X-JULIAN-TIME-STATUS:UNCONFIRMED
+SUMMARY:Skispringen Zhangjiakou HS 140 Einzel (Frauen) – 2. Durchgang –
+  Uhrzeit offen
+DESCRIPTION:Terminmarker\, kein ganztägiger Wettkampf. Startzeit des 2. Du
+ rchgang noch nicht verifiziert\; Start nach dem ersten Durchgang gemäß o
+ ffiziellem Ablauf und Wetter. Keine geschätzte Uhrzeit. Der Marker erhäl
+ t nach Bekanntgabe der Zeit dieselbe UID. Datum/Ort wie beim Haupttermin\;
+  Änderungen möglich. Zweiter Wertungsdurchgang dieses Tages\; nicht auto
+ matisch Finaldurchgang. Je nach Wettkampfformat sind weitere Durchgänge m
+ öglich\; kein zweiter Qualifikationsdurchgang.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:89d33586ceaafe9261440cf00b21@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:3ad7e5a801df71cd8f3690ca4c87@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+LOCATION:Snow Ruyi National Ski Jumping Centre HS 140\, Zhangjiakou\, China
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+STATUS:TENTATIVE
+X-JULIAN-TIME-STATUS:UNCONFIRMED
+SUMMARY:Skispringen Zhangjiakou HS 140 Einzel (Frauen) – 2. Durchgang –
+  Uhrzeit offen
+DESCRIPTION:Terminmarker\, kein ganztägiger Wettkampf. Startzeit des 2. Du
+ rchgang noch nicht verifiziert\; Start nach dem ersten Durchgang gemäß o
+ ffiziellem Ablauf und Wetter. Keine geschätzte Uhrzeit. Der Marker erhäl
+ t nach Bekanntgabe der Zeit dieselbe UID. Datum/Ort wie beim Haupttermin\;
+  Änderungen möglich. Zweiter Wertungsdurchgang dieses Tages\; nicht auto
+ matisch Finaldurchgang. Je nach Wettkampfformat sind weitere Durchgänge m
+ öglich\; kein zweiter Qualifikationsdurchgang.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:badbf0bdfa19a2b482f4c38e3b5a@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:0c6da5d65396501e70ca93e0f9d0@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+LOCATION:Wielka Krokiew HS 140\, Zakopane\, Polen
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+STATUS:TENTATIVE
+X-JULIAN-TIME-STATUS:UNCONFIRMED
+SUMMARY:Skispringen Zakopane HS 140 Team (Männer) – 2. Durchgang – Uhr
+ zeit offen
+DESCRIPTION:Terminmarker\, kein ganztägiger Wettkampf. Startzeit des 2. Du
+ rchgang noch nicht verifiziert\; Start nach dem ersten Durchgang gemäß o
+ ffiziellem Ablauf und Wetter. Keine geschätzte Uhrzeit. Der Marker erhäl
+ t nach Bekanntgabe der Zeit dieselbe UID. Datum/Ort wie beim Haupttermin\;
+  Änderungen möglich. Zweiter Wertungsdurchgang dieses Tages\; nicht auto
+ matisch Finaldurchgang. Je nach Wettkampfformat sind weitere Durchgänge m
+ öglich\; kein zweiter Qualifikationsdurchgang.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:89e9e9b853fd50f5664fd754fd6a@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:1fe750c02de6561e693d732eee98@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+LOCATION:Wielka Krokiew HS 140\, Zakopane\, Polen
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+STATUS:TENTATIVE
+X-JULIAN-TIME-STATUS:UNCONFIRMED
+SUMMARY:Skispringen Zakopane HS 140 Einzel (Männer) – 2. Durchgang – U
+ hrzeit offen
+DESCRIPTION:Terminmarker\, kein ganztägiger Wettkampf. Startzeit des 2. Du
+ rchgang noch nicht verifiziert\; Start nach dem ersten Durchgang gemäß o
+ ffiziellem Ablauf und Wetter. Keine geschätzte Uhrzeit. Der Marker erhäl
+ t nach Bekanntgabe der Zeit dieselbe UID. Datum/Ort wie beim Haupttermin\;
+  Änderungen möglich. Zweiter Wertungsdurchgang dieses Tages\; nicht auto
+ matisch Finaldurchgang. Je nach Wettkampfformat sind weitere Durchgänge m
+ öglich\; kein zweiter Qualifikationsdurchgang.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:c546317eac4f005e22ae9c7ed2e7@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:492e45bea07c510ae286d04227b6@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+LOCATION:Lauberhorn\, Wengen\, Schweiz
+DTSTART;TZID=Europe/Berlin:20270117T130000
+STATUS:CONFIRMED
+X-JULIAN-TIME-STATUS:OFFICIAL-SCHEDULE
+SUMMARY:Ski Alpin Wengen Slalom (Männer) – 2. Durchgang
+DESCRIPTION:Separater 2. Durchgang. Start laut offiziellem Zeitplan. Geprü
+ ft am 25.10.2026. Änderungen durch Jury/Wetter möglich. Keine bestätigt
+ e Endzeit angegeben.
+URL:https://assets.fis-ski.com/f/252177/x/8399f37ec9/complett_finaldoc_26_2
+ 7_v1_21-10-2026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:144bda7f3fd3344fa17ea85d4797@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:d73471faca04fd4211ae1938ae1d@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+LOCATION:ERTA\, Enneberg\, Italien
+DTSTART;TZID=Europe/Berlin:20270119T133000
+STATUS:CONFIRMED
+X-JULIAN-TIME-STATUS:OFFICIAL-SCHEDULE
+SUMMARY:Ski Alpin Kronplatz Riesenslalom (Frauen) – 2. Durchgang
+DESCRIPTION:Separater 2. Durchgang. Start laut offiziellem Zeitplan. Geprü
+ ft am 25.10.2026. Änderungen durch Jury/Wetter möglich. Keine bestätigt
+ e Endzeit angegeben.
+URL:https://assets.fis-ski.com/f/252177/x/8399f37ec9/complett_finaldoc_26_2
+ 7_v1_21-10-2026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:e4cb959d210828fabe65c202b129@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:d5f3146c10ecbcab610768ed5f9c@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+LOCATION:Zaō-Schanze HS 102\, Yamagata\, Japan
+DTSTART;VALUE=DATE:20270119
+DTEND;VALUE=DATE:20270120
+STATUS:TENTATIVE
+X-JULIAN-TIME-STATUS:UNCONFIRMED
+SUMMARY:Skispringen Zao HS 102 Einzel (Frauen) – 2. Durchgang – Uhrzeit
+  offen
+DESCRIPTION:Terminmarker\, kein ganztägiger Wettkampf. Startzeit des 2. Du
+ rchgang noch nicht verifiziert\; Start nach dem ersten Durchgang gemäß o
+ ffiziellem Ablauf und Wetter. Keine geschätzte Uhrzeit. Der Marker erhäl
+ t nach Bekanntgabe der Zeit dieselbe UID. Datum/Ort wie beim Haupttermin\;
+  Änderungen möglich. Zweiter Wertungsdurchgang dieses Tages\; nicht auto
+ matisch Finaldurchgang. Je nach Wettkampfformat sind weitere Durchgänge m
+ öglich\; kein zweiter Qualifikationsdurchgang.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:ab0eab3b52d4054f5013fe4543b4@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:97d306ca65d8321f786e1d163891@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+LOCATION:Zaō-Schanze HS 102\, Yamagata\, Japan
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+STATUS:TENTATIVE
+X-JULIAN-TIME-STATUS:UNCONFIRMED
+SUMMARY:Skispringen Zao HS 102 Einzel (Frauen) – 2. Durchgang – Uhrzeit
+  offen
+DESCRIPTION:Terminmarker\, kein ganztägiger Wettkampf. Startzeit des 2. Du
+ rchgang noch nicht verifiziert\; Start nach dem ersten Durchgang gemäß o
+ ffiziellem Ablauf und Wetter. Keine geschätzte Uhrzeit. Der Marker erhäl
+ t nach Bekanntgabe der Zeit dieselbe UID. Datum/Ort wie beim Haupttermin\;
+  Änderungen möglich. Zweiter Wertungsdurchgang dieses Tages\; nicht auto
+ matisch Finaldurchgang. Je nach Wettkampfformat sind weitere Durchgänge m
+ öglich\; kein zweiter Qualifikationsdurchgang.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:085990d2b193682c23775af0aa57@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:0cceca875795e8b8381c3f9369a3@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+LOCATION:Ōkurayama-Schanze HS 137\, Sapporo\, Japan
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+STATUS:TENTATIVE
+X-JULIAN-TIME-STATUS:UNCONFIRMED
+SUMMARY:Skispringen Sapporo HS 137 Einzel (Frauen) – 2. Durchgang – Uhr
+ zeit offen
+DESCRIPTION:Terminmarker\, kein ganztägiger Wettkampf. Startzeit des 2. Du
+ rchgang noch nicht verifiziert\; Start nach dem ersten Durchgang gemäß o
+ ffiziellem Ablauf und Wetter. Keine geschätzte Uhrzeit. Der Marker erhäl
+ t nach Bekanntgabe der Zeit dieselbe UID. Datum/Ort wie beim Haupttermin\;
+  Änderungen möglich. Zweiter Wertungsdurchgang dieses Tages\; nicht auto
+ matisch Finaldurchgang. Je nach Wettkampfformat sind weitere Durchgänge m
+ öglich\; kein zweiter Qualifikationsdurchgang.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:4e37e1c07f20657bf979fa4b9a58@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:e98e406f04cc002053522ec4b45f@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+LOCATION:Ōkurayama-Schanze HS 137\, Sapporo\, Japan
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+STATUS:TENTATIVE
+X-JULIAN-TIME-STATUS:UNCONFIRMED
+SUMMARY:Skispringen Sapporo HS 137 Team (Mixed) – 2. Durchgang – Uhrzei
+ t offen
+DESCRIPTION:Terminmarker\, kein ganztägiger Wettkampf. Startzeit des 2. Du
+ rchgang noch nicht verifiziert\; Start nach dem ersten Durchgang gemäß o
+ ffiziellem Ablauf und Wetter. Keine geschätzte Uhrzeit. Der Marker erhäl
+ t nach Bekanntgabe der Zeit dieselbe UID. Datum/Ort wie beim Haupttermin\;
+  Änderungen möglich. Zweiter Wertungsdurchgang dieses Tages\; nicht auto
+ matisch Finaldurchgang. Je nach Wettkampfformat sind weitere Durchgänge m
+ öglich\; kein zweiter Qualifikationsdurchgang.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:a897e83eb5fd771150bbbe8f086f@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:0a272874e0e8c6aeea7dfb2da532@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+LOCATION:Pretekárska Luková\, Jasná\, Slowakei
+DTSTART;TZID=Europe/Berlin:20270123T133000
+STATUS:CONFIRMED
+X-JULIAN-TIME-STATUS:OFFICIAL-SCHEDULE
+SUMMARY:Ski Alpin Jasna Riesenslalom (Frauen) – 2. Durchgang
+DESCRIPTION:Separater 2. Durchgang. Start laut offiziellem Zeitplan. Geprü
+ ft am 25.10.2026. Änderungen durch Jury/Wetter möglich. Keine bestätigt
+ e Endzeit angegeben.
+URL:https://assets.fis-ski.com/f/252177/x/8399f37ec9/complett_finaldoc_26_2
+ 7_v1_21-10-2026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:c75ceae3bef126accfc1b108dc3e@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:1c1b13259781c430e887185ea93d@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+LOCATION:Ōkurayama-Schanze HS 137\, Sapporo\, Japan
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+STATUS:TENTATIVE
+X-JULIAN-TIME-STATUS:UNCONFIRMED
+SUMMARY:Skispringen Sapporo HS 137 Einzel (Männer) – 2. Durchgang – Uh
+ rzeit offen
+DESCRIPTION:Terminmarker\, kein ganztägiger Wettkampf. Startzeit des 2. Du
+ rchgang noch nicht verifiziert\; Start nach dem ersten Durchgang gemäß o
+ ffiziellem Ablauf und Wetter. Keine geschätzte Uhrzeit. Der Marker erhäl
+ t nach Bekanntgabe der Zeit dieselbe UID. Datum/Ort wie beim Haupttermin\;
+  Änderungen möglich. Zweiter Wertungsdurchgang dieses Tages\; nicht auto
+ matisch Finaldurchgang. Je nach Wettkampfformat sind weitere Durchgänge m
+ öglich\; kein zweiter Qualifikationsdurchgang.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:4a9b874672e8701183a07c81f213@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:42e57040f2856b2e04dc2e50b816@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+LOCATION:Ganslern\, Kitzbühel\, Österreich
+DTSTART;TZID=Europe/Berlin:20270124T133000
+STATUS:CONFIRMED
+X-JULIAN-TIME-STATUS:OFFICIAL-SCHEDULE
+SUMMARY:Ski Alpin Kitzbühel Slalom (Männer) – 2. Durchgang
+DESCRIPTION:Separater 2. Durchgang. Start laut offiziellem Zeitplan. Geprü
+ ft am 25.10.2026. Änderungen durch Jury/Wetter möglich. Keine bestätigt
+ e Endzeit angegeben.
+URL:https://assets.fis-ski.com/f/252177/x/8399f37ec9/complett_finaldoc_26_2
+ 7_v1_21-10-2026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:60db0ceaefa3ab24ab8d406e60ce@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:ce7c3ad03add8fabe8628c3aa743@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+LOCATION:Pretekárska Luková\, Jasná\, Slowakei
+DTSTART;TZID=Europe/Berlin:20270124T121500
+STATUS:CONFIRMED
+X-JULIAN-TIME-STATUS:OFFICIAL-SCHEDULE
+SUMMARY:Ski Alpin Jasna Slalom (Frauen) – 2. Durchgang
+DESCRIPTION:Separater 2. Durchgang. Start laut offiziellem Zeitplan. Geprü
+ ft am 25.10.2026. Änderungen durch Jury/Wetter möglich. Keine bestätigt
+ e Endzeit angegeben.
+URL:https://assets.fis-ski.com/f/252177/x/8399f37ec9/complett_finaldoc_26_2
+ 7_v1_21-10-2026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:aa3d4014a306f12382fbf4af1cfb@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:ae4668e876e534c9199643113f1b@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+LOCATION:Ōkurayama-Schanze HS 137\, Sapporo\, Japan
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+STATUS:TENTATIVE
+X-JULIAN-TIME-STATUS:UNCONFIRMED
+SUMMARY:Skispringen Sapporo HS 137 Einzel (Männer) – 2. Durchgang – Uh
+ rzeit offen
+DESCRIPTION:Terminmarker\, kein ganztägiger Wettkampf. Startzeit des 2. Du
+ rchgang noch nicht verifiziert\; Start nach dem ersten Durchgang gemäß o
+ ffiziellem Ablauf und Wetter. Keine geschätzte Uhrzeit. Der Marker erhäl
+ t nach Bekanntgabe der Zeit dieselbe UID. Datum/Ort wie beim Haupttermin\;
+  Änderungen möglich. Zweiter Wertungsdurchgang dieses Tages\; nicht auto
+ matisch Finaldurchgang. Je nach Wettkampfformat sind weitere Durchgänge m
+ öglich\; kein zweiter Qualifikationsdurchgang.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:cd967e7e3b321c1cbb1f0365632c@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:c2169995c4e8b8eb0285c30fae34@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+LOCATION:Planai\, Schladming\, Österreich
+DTSTART;TZID=Europe/Berlin:20270126T204500
+STATUS:CONFIRMED
+X-JULIAN-TIME-STATUS:OFFICIAL-SCHEDULE
+SUMMARY:Ski Alpin Schladming Riesenslalom (Männer) – 2. Durchgang
+DESCRIPTION:Separater 2. Durchgang. Start laut offiziellem Zeitplan. Geprü
+ ft am 25.10.2026. Änderungen durch Jury/Wetter möglich. Keine bestätigt
+ e Endzeit angegeben.
+URL:https://assets.fis-ski.com/f/252177/x/8399f37ec9/complett_finaldoc_26_2
+ 7_v1_21-10-2026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:e03c83f20c2ed59ffe6021cc8142@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:329868ff531cdbc9f688b1e10180@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+LOCATION:Planai\, Schladming\, Österreich
+DTSTART;TZID=Europe/Berlin:20270127T204500
+STATUS:CONFIRMED
+X-JULIAN-TIME-STATUS:OFFICIAL-SCHEDULE
+SUMMARY:Ski Alpin Schladming Slalom (Männer) – 2. Durchgang
+DESCRIPTION:Separater 2. Durchgang. Start laut offiziellem Zeitplan. Geprü
+ ft am 25.10.2026. Änderungen durch Jury/Wetter möglich. Keine bestätigt
+ e Endzeit angegeben.
+URL:https://assets.fis-ski.com/f/252177/x/8399f37ec9/complett_finaldoc_26_2
+ 7_v1_21-10-2026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:b28bcda1aa0324175327c34d0b59@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:d1f494fe459c64191fde87037972@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+LOCATION:Mühlenkopfschanze HS 147\, Willingen\, Deutschland
+DTSTART;VALUE=DATE:20270129
+DTEND;VALUE=DATE:20270130
+STATUS:TENTATIVE
+X-JULIAN-TIME-STATUS:UNCONFIRMED
+SUMMARY:Skispringen Willingen HS 147 Team (Mixed) – 2. Durchgang – Uhrz
+ eit offen
+DESCRIPTION:Terminmarker\, kein ganztägiger Wettkampf. Startzeit des 2. Du
+ rchgang noch nicht verifiziert\; Start nach dem ersten Durchgang gemäß o
+ ffiziellem Ablauf und Wetter. Keine geschätzte Uhrzeit. Der Marker erhäl
+ t nach Bekanntgabe der Zeit dieselbe UID. Datum/Ort wie beim Haupttermin\;
+  Änderungen möglich. Zweiter Wertungsdurchgang dieses Tages\; nicht auto
+ matisch Finaldurchgang. Je nach Wettkampfformat sind weitere Durchgänge m
+ öglich\; kein zweiter Qualifikationsdurchgang.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:f5c74f575dbe719ae855132a3968@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:267f73873070b980db9178337349@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+LOCATION:Podkoren 3\, Kranjska Gora\, Slowenien
+DTSTART;TZID=Europe/Berlin:20270129T130000
+STATUS:CONFIRMED
+X-JULIAN-TIME-STATUS:OFFICIAL-SCHEDULE
+SUMMARY:Ski Alpin Kranjska Gora Riesenslalom (Frauen) – 2. Durchgang
+DESCRIPTION:Separater 2. Durchgang. Start laut offiziellem Zeitplan. Geprü
+ ft am 25.10.2026. Änderungen durch Jury/Wetter möglich. Keine bestätigt
+ e Endzeit angegeben.
+URL:https://assets.fis-ski.com/f/252177/x/8399f37ec9/complett_finaldoc_26_2
+ 7_v1_21-10-2026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:30357b99c47b42872c92ed22efa6@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:f88ce8e66c78b255f1eb552c8866@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+LOCATION:La Verte\, Chamonix\, Frankreich
+DTSTART;TZID=Europe/Berlin:20270130T123000
+STATUS:CONFIRMED
+X-JULIAN-TIME-STATUS:OFFICIAL-SCHEDULE
+SUMMARY:Ski Alpin Chamonix Slalom (Männer) – 2. Durchgang
+DESCRIPTION:Separater 2. Durchgang. Start laut offiziellem Zeitplan. Geprü
+ ft am 25.10.2026. Änderungen durch Jury/Wetter möglich. Keine bestätigt
+ e Endzeit angegeben.
+URL:https://assets.fis-ski.com/f/252177/x/8399f37ec9/complett_finaldoc_26_2
+ 7_v1_21-10-2026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:31bfb874bc0b021566a2b75c050a@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:80f05d1e022212e33918c8bd548e@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+LOCATION:Podkoren 3\, Kranjska Gora\, Slowenien
+DTSTART;TZID=Europe/Berlin:20270130T133000
+STATUS:CONFIRMED
+X-JULIAN-TIME-STATUS:OFFICIAL-SCHEDULE
+SUMMARY:Ski Alpin Kranjska Gora Slalom (Frauen) – 2. Durchgang
+DESCRIPTION:Separater 2. Durchgang. Start laut offiziellem Zeitplan. Geprü
+ ft am 25.10.2026. Änderungen durch Jury/Wetter möglich. Keine bestätigt
+ e Endzeit angegeben.
+URL:https://assets.fis-ski.com/f/252177/x/8399f37ec9/complett_finaldoc_26_2
+ 7_v1_21-10-2026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:4e9dd9b08acc9db5bb58a906194f@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:f62c7a629c2df56df5c76e6158f8@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+LOCATION:Mühlenkopfschanze HS 147\, Willingen\, Deutschland
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+STATUS:TENTATIVE
+X-JULIAN-TIME-STATUS:UNCONFIRMED
+SUMMARY:Skispringen Willingen HS 147 Einzel (Frauen) – 2. Durchgang – U
+ hrzeit offen
+DESCRIPTION:Terminmarker\, kein ganztägiger Wettkampf. Startzeit des 2. Du
+ rchgang noch nicht verifiziert\; Start nach dem ersten Durchgang gemäß o
+ ffiziellem Ablauf und Wetter. Keine geschätzte Uhrzeit. Der Marker erhäl
+ t nach Bekanntgabe der Zeit dieselbe UID. Datum/Ort wie beim Haupttermin\;
+  Änderungen möglich. Zweiter Wertungsdurchgang dieses Tages\; nicht auto
+ matisch Finaldurchgang. Je nach Wettkampfformat sind weitere Durchgänge m
+ öglich\; kein zweiter Qualifikationsdurchgang.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:854718e901ef5878bbf4d2cdc98d@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:a18de998587c143a0aacb9468096@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+LOCATION:Mühlenkopfschanze HS 147\, Willingen\, Deutschland
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+STATUS:TENTATIVE
+X-JULIAN-TIME-STATUS:UNCONFIRMED
+SUMMARY:Skispringen Willingen HS 147 Einzel (Männer) – 2. Durchgang – 
+ Uhrzeit offen
+DESCRIPTION:Terminmarker\, kein ganztägiger Wettkampf. Startzeit des 2. Du
+ rchgang noch nicht verifiziert\; Start nach dem ersten Durchgang gemäß o
+ ffiziellem Ablauf und Wetter. Keine geschätzte Uhrzeit. Der Marker erhäl
+ t nach Bekanntgabe der Zeit dieselbe UID. Datum/Ort wie beim Haupttermin\;
+  Änderungen möglich. Zweiter Wertungsdurchgang dieses Tages\; nicht auto
+ matisch Finaldurchgang. Je nach Wettkampfformat sind weitere Durchgänge m
+ öglich\; kein zweiter Qualifikationsdurchgang.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:22bf88bdad6e46909e9d346b30e0@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:0ff450b4c73df8ea4d14691e3915@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+LOCATION:Mühlenkopfschanze HS 147\, Willingen\, Deutschland
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+STATUS:TENTATIVE
+X-JULIAN-TIME-STATUS:UNCONFIRMED
+SUMMARY:Skispringen Willingen HS 147 Einzel (Frauen) – 2. Durchgang – U
+ hrzeit offen
+DESCRIPTION:Terminmarker\, kein ganztägiger Wettkampf. Startzeit des 2. Du
+ rchgang noch nicht verifiziert\; Start nach dem ersten Durchgang gemäß o
+ ffiziellem Ablauf und Wetter. Keine geschätzte Uhrzeit. Der Marker erhäl
+ t nach Bekanntgabe der Zeit dieselbe UID. Datum/Ort wie beim Haupttermin\;
+  Änderungen möglich. Zweiter Wertungsdurchgang dieses Tages\; nicht auto
+ matisch Finaldurchgang. Je nach Wettkampfformat sind weitere Durchgänge m
+ öglich\; kein zweiter Qualifikationsdurchgang.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:e629fd62b7485f0e067ef9022b72@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:039778b871f25766ed846415f114@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+LOCATION:Mühlenkopfschanze HS 147\, Willingen\, Deutschland
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+STATUS:TENTATIVE
+X-JULIAN-TIME-STATUS:UNCONFIRMED
+SUMMARY:Skispringen Willingen HS 147 Einzel (Männer) – 2. Durchgang – 
+ Uhrzeit offen
+DESCRIPTION:Terminmarker\, kein ganztägiger Wettkampf. Startzeit des 2. Du
+ rchgang noch nicht verifiziert\; Start nach dem ersten Durchgang gemäß o
+ ffiziellem Ablauf und Wetter. Keine geschätzte Uhrzeit. Der Marker erhäl
+ t nach Bekanntgabe der Zeit dieselbe UID. Datum/Ort wie beim Haupttermin\;
+  Änderungen möglich. Zweiter Wertungsdurchgang dieses Tages\; nicht auto
+ matisch Finaldurchgang. Je nach Wettkampfformat sind weitere Durchgänge m
+ öglich\; kein zweiter Qualifikationsdurchgang.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:bf846e2ca120087f65c82df81ed3@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:c557ca47990d3d276e92574b8356@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+LOCATION:Olympic Jumping Complex\, Lake Placid\, NY\, USA
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270206
+STATUS:TENTATIVE
+X-JULIAN-TIME-STATUS:UNCONFIRMED
+SUMMARY:Skispringen Lake Placid HS 128 Einzel (Frauen) – 2. Durchgang –
+  Uhrzeit offen
+DESCRIPTION:Terminmarker\, kein ganztägiger Wettkampf. Startzeit des 2. Du
+ rchgang noch nicht verifiziert\; Start nach dem ersten Durchgang gemäß o
+ ffiziellem Ablauf und Wetter. Keine geschätzte Uhrzeit. Der Marker erhäl
+ t nach Bekanntgabe der Zeit dieselbe UID. Datum/Ort wie beim Haupttermin\;
+  Änderungen möglich. Zweiter Wertungsdurchgang dieses Tages\; nicht auto
+ matisch Finaldurchgang. Je nach Wettkampfformat sind weitere Durchgänge m
+ öglich\; kein zweiter Qualifikationsdurchgang.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:2ed4c6f2c6ee46a10d1e83e9d48c@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:03b1a65811cd9031d4eb17477f50@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+LOCATION:MacKenzie Intervale Ski Jumping Complex\, Lake Placid\, NY\, USA
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+STATUS:TENTATIVE
+X-JULIAN-TIME-STATUS:UNCONFIRMED
+SUMMARY:Skispringen Lake Placid HS 128 Einzel (Männer) – 2. Durchgang 
+ – Uhrzeit offen
+DESCRIPTION:Terminmarker\, kein ganztägiger Wettkampf. Startzeit des 2. Du
+ rchgang noch nicht verifiziert\; Start nach dem ersten Durchgang gemäß o
+ ffiziellem Ablauf und Wetter. Keine geschätzte Uhrzeit. Der Marker erhäl
+ t nach Bekanntgabe der Zeit dieselbe UID. Datum/Ort wie beim Haupttermin\;
+  Änderungen möglich. Zweiter Wertungsdurchgang dieses Tages\; nicht auto
+ matisch Finaldurchgang. Je nach Wettkampfformat sind weitere Durchgänge m
+ öglich\; kein zweiter Qualifikationsdurchgang.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:5d221fdd284a64c38d297e9918ec@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:ef5e5828acb8efb85b15379e2437@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+LOCATION:MacKenzie Intervale Ski Jumping Complex\, Lake Placid\, NY\, USA
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+STATUS:TENTATIVE
+X-JULIAN-TIME-STATUS:UNCONFIRMED
+SUMMARY:Skispringen Lake Placid HS 128 Team (Mixed) – 2. Durchgang – Uh
+ rzeit offen
+DESCRIPTION:Terminmarker\, kein ganztägiger Wettkampf. Startzeit des 2. Du
+ rchgang noch nicht verifiziert\; Start nach dem ersten Durchgang gemäß o
+ ffiziellem Ablauf und Wetter. Keine geschätzte Uhrzeit. Der Marker erhäl
+ t nach Bekanntgabe der Zeit dieselbe UID. Datum/Ort wie beim Haupttermin\;
+  Änderungen möglich. Zweiter Wertungsdurchgang dieses Tages\; nicht auto
+ matisch Finaldurchgang. Je nach Wettkampfformat sind weitere Durchgänge m
+ öglich\; kein zweiter Qualifikationsdurchgang.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:6a34e2a9f8c3b1a236ad9f9e73e9@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:e4a2f1098f16b793e29c38af3859@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+LOCATION:Mont Lachaux\, Crans Montana\, Schweiz
+DTSTART;TZID=Europe/Berlin:20270209T133000
+STATUS:CONFIRMED
+X-JULIAN-TIME-STATUS:OFFICIAL-SCHEDULE
+SUMMARY:Ski Alpin Weltmeisterschaft 2027 Crans-Montana (SUI) Team-Kombinati
+ on (Frauen) – Slalom (2. Teil)
+DESCRIPTION:Separater Slalom (2. Teil). Start laut offiziellem Zeitplan. Ge
+ prüft am 25.10.2026. Änderungen durch Jury/Wetter möglich. Keine bestä
+ tigte Endzeit angegeben. Slalom-Teil der Team-Kombination\, keine zweite A
+ bfahrt.
+URL:https://www.cransmontana2027.ch/de/wettkaempfe/rennprogramm/
+END:VEVENT
+BEGIN:VEVENT
+UID:e0f94b7f56b65e5b4eb33c9d1f68@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:8092e274eaacb77a4dc559f4edb8@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+LOCATION:Piste Nationale\, Crans Montana\, Schweiz
+DTSTART;TZID=Europe/Berlin:20270210T133000
+STATUS:CONFIRMED
+X-JULIAN-TIME-STATUS:OFFICIAL-SCHEDULE
+SUMMARY:Ski Alpin Weltmeisterschaft 2027 Crans-Montana (SUI) Team-Kombinati
+ on (Männer) – Slalom (2. Teil)
+DESCRIPTION:Separater Slalom (2. Teil). Start laut offiziellem Zeitplan. Ge
+ prüft am 25.10.2026. Änderungen durch Jury/Wetter möglich. Keine bestä
+ tigte Endzeit angegeben. Slalom-Teil der Team-Kombination\, keine zweite A
+ bfahrt.
+URL:https://www.cransmontana2027.ch/de/wettkaempfe/rennprogramm/
+END:VEVENT
+BEGIN:VEVENT
+UID:a298ff19ff5af91d5c1129569db1@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:789fb15fc5223fb5d6239f661b73@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+LOCATION:Mont Lachaux\, Crans Montana\, Schweiz
+DTSTART;TZID=Europe/Berlin:20270211T133000
+STATUS:CONFIRMED
+X-JULIAN-TIME-STATUS:OFFICIAL-SCHEDULE
+SUMMARY:Ski Alpin Weltmeisterschaft 2027 Crans-Montana (SUI) Riesenslalom (
+ Frauen) – 2. Durchgang
+DESCRIPTION:Separater 2. Durchgang. Start laut offiziellem Zeitplan. Geprü
+ ft am 25.10.2026. Änderungen durch Jury/Wetter möglich. Keine bestätigt
+ e Endzeit angegeben.
+URL:https://www.cransmontana2027.ch/de/wettkaempfe/rennprogramm/
+END:VEVENT
+BEGIN:VEVENT
+UID:fc4a84b2a374067bdaa6e00bc213@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:767d6df881fc78a54326d5d2951f@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+LOCATION:Salpausselkä-Schanze HS 130\, Lahti\, Finnland
+DTSTART;VALUE=DATE:20270211
+DTEND;VALUE=DATE:20270212
+STATUS:TENTATIVE
+X-JULIAN-TIME-STATUS:UNCONFIRMED
+SUMMARY:Skispringen Lahti HS 130 Einzel (Frauen) – 2. Durchgang – Uhrze
+ it offen
+DESCRIPTION:Terminmarker\, kein ganztägiger Wettkampf. Startzeit des 2. Du
+ rchgang noch nicht verifiziert\; Start nach dem ersten Durchgang gemäß o
+ ffiziellem Ablauf und Wetter. Keine geschätzte Uhrzeit. Der Marker erhäl
+ t nach Bekanntgabe der Zeit dieselbe UID. Datum/Ort wie beim Haupttermin\;
+  Änderungen möglich. Zweiter Wertungsdurchgang dieses Tages\; nicht auto
+ matisch Finaldurchgang. Je nach Wettkampfformat sind weitere Durchgänge m
+ öglich\; kein zweiter Qualifikationsdurchgang.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:188537496c68a967d4d8d03edf93@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:d80d30fde9e10787c25aa827d198@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+LOCATION:Piste Nationale\, Crans Montana\, Schweiz
+DTSTART;TZID=Europe/Berlin:20270212T133000
+STATUS:CONFIRMED
+X-JULIAN-TIME-STATUS:OFFICIAL-SCHEDULE
+SUMMARY:Ski Alpin Weltmeisterschaft 2027 Crans-Montana (SUI) Riesenslalom (
+ Männer) – 2. Durchgang
+DESCRIPTION:Separater 2. Durchgang. Start laut offiziellem Zeitplan. Geprü
+ ft am 25.10.2026. Änderungen durch Jury/Wetter möglich. Keine bestätigt
+ e Endzeit angegeben.
+URL:https://www.cransmontana2027.ch/de/wettkaempfe/rennprogramm/
+END:VEVENT
+BEGIN:VEVENT
+UID:2ca9fc1af4ae52da5b3a9ebdc635@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:531b46c5eaa66a579778f5e1902f@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+LOCATION:Salpausselkä-Schanze HS 130\, Lahti\, Finnland
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+STATUS:TENTATIVE
+X-JULIAN-TIME-STATUS:UNCONFIRMED
+SUMMARY:Skispringen Lahti HS 130 Einzel (Frauen) – 2. Durchgang – Uhrze
+ it offen
+DESCRIPTION:Terminmarker\, kein ganztägiger Wettkampf. Startzeit des 2. Du
+ rchgang noch nicht verifiziert\; Start nach dem ersten Durchgang gemäß o
+ ffiziellem Ablauf und Wetter. Keine geschätzte Uhrzeit. Der Marker erhäl
+ t nach Bekanntgabe der Zeit dieselbe UID. Datum/Ort wie beim Haupttermin\;
+  Änderungen möglich. Zweiter Wertungsdurchgang dieses Tages\; nicht auto
+ matisch Finaldurchgang. Je nach Wettkampfformat sind weitere Durchgänge m
+ öglich\; kein zweiter Qualifikationsdurchgang.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:8b8679ab7e3e2e007b4852b059d8@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:091cf4a9a3747f0e6e2e671012d1@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+LOCATION:Salpausselkä-Schanze HS 130\, Lahti\, Finnland
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+STATUS:TENTATIVE
+X-JULIAN-TIME-STATUS:UNCONFIRMED
+SUMMARY:Skispringen Lahti HS 130 Team (Männer) – 2. Durchgang – Uhrzei
+ t offen
+DESCRIPTION:Terminmarker\, kein ganztägiger Wettkampf. Startzeit des 2. Du
+ rchgang noch nicht verifiziert\; Start nach dem ersten Durchgang gemäß o
+ ffiziellem Ablauf und Wetter. Keine geschätzte Uhrzeit. Der Marker erhäl
+ t nach Bekanntgabe der Zeit dieselbe UID. Datum/Ort wie beim Haupttermin\;
+  Änderungen möglich. Zweiter Wertungsdurchgang dieses Tages\; nicht auto
+ matisch Finaldurchgang. Je nach Wettkampfformat sind weitere Durchgänge m
+ öglich\; kein zweiter Qualifikationsdurchgang.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:aaeda8c847fc7eda7dcd95333f35@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:d4997443149f0d43cb5de9d77508@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+LOCATION:Mont Lachaux\, Crans Montana\, Schweiz
+DTSTART;TZID=Europe/Berlin:20270213T133000
+STATUS:CONFIRMED
+X-JULIAN-TIME-STATUS:OFFICIAL-SCHEDULE
+SUMMARY:Ski Alpin Weltmeisterschaft 2027 Crans-Montana (SUI) Slalom (Frauen
+ ) – 2. Durchgang
+DESCRIPTION:Separater 2. Durchgang. Start laut offiziellem Zeitplan. Geprü
+ ft am 25.10.2026. Änderungen durch Jury/Wetter möglich. Keine bestätigt
+ e Endzeit angegeben.
+URL:https://www.cransmontana2027.ch/de/wettkaempfe/rennprogramm/
+END:VEVENT
+BEGIN:VEVENT
+UID:7e5164370a34453619356a325c30@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:5f25c42608f6feb0f996cd907e0b@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+LOCATION:Salpausselkä-Schanze HS 130\, Lahti\, Finnland
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+STATUS:TENTATIVE
+X-JULIAN-TIME-STATUS:UNCONFIRMED
+SUMMARY:Skispringen Lahti HS 130 Einzel (Männer) – 2. Durchgang – Uhrz
+ eit offen
+DESCRIPTION:Terminmarker\, kein ganztägiger Wettkampf. Startzeit des 2. Du
+ rchgang noch nicht verifiziert\; Start nach dem ersten Durchgang gemäß o
+ ffiziellem Ablauf und Wetter. Keine geschätzte Uhrzeit. Der Marker erhäl
+ t nach Bekanntgabe der Zeit dieselbe UID. Datum/Ort wie beim Haupttermin\;
+  Änderungen möglich. Zweiter Wertungsdurchgang dieses Tages\; nicht auto
+ matisch Finaldurchgang. Je nach Wettkampfformat sind weitere Durchgänge m
+ öglich\; kein zweiter Qualifikationsdurchgang.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:f24e50c974993fb648d7296789ef@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:9ce9f56ee793d4ced6f1e420f419@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+LOCATION:Piste Nationale\, Crans Montana\, Schweiz
+DTSTART;TZID=Europe/Berlin:20270214T133000
+STATUS:CONFIRMED
+X-JULIAN-TIME-STATUS:OFFICIAL-SCHEDULE
+SUMMARY:Ski Alpin Weltmeisterschaft 2027 Crans-Montana (SUI) Slalom (Männe
+ r) – 2. Durchgang
+DESCRIPTION:Separater 2. Durchgang. Start laut offiziellem Zeitplan. Geprü
+ ft am 25.10.2026. Änderungen durch Jury/Wetter möglich. Keine bestätigt
+ e Endzeit angegeben.
+URL:https://www.cransmontana2027.ch/de/wettkaempfe/rennprogramm/
+END:VEVENT
+BEGIN:VEVENT
+UID:3eaaf955be27b9d7aae3c864ee0f@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:4bcdc3b03e9ecb1023cbd78bb9a8@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+LOCATION:Vikersundbakken HS 240\, Norwegen
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270219
+STATUS:TENTATIVE
+X-JULIAN-TIME-STATUS:UNCONFIRMED
+SUMMARY:Skispringen Vikersund HS 240 Einzel (Frauen) – 2. Durchgang – U
+ hrzeit offen
+DESCRIPTION:Terminmarker\, kein ganztägiger Wettkampf. Startzeit des 2. Du
+ rchgang noch nicht verifiziert\; Start nach dem ersten Durchgang gemäß o
+ ffiziellem Ablauf und Wetter. Keine geschätzte Uhrzeit. Der Marker erhäl
+ t nach Bekanntgabe der Zeit dieselbe UID. Datum/Ort wie beim Haupttermin\;
+  Änderungen möglich. Zweiter Wertungsdurchgang dieses Tages\; nicht auto
+ matisch Finaldurchgang. Je nach Wettkampfformat sind weitere Durchgänge m
+ öglich\; kein zweiter Qualifikationsdurchgang.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:26d237614a0fe3906de3bf0d7943@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:80849c2187641c296206fa9fecb2@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+LOCATION:Vikersundbakken HS 240\, Norwegen
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+STATUS:TENTATIVE
+X-JULIAN-TIME-STATUS:UNCONFIRMED
+SUMMARY:Skispringen Vikersund HS 240 Einzel (Männer) – 2. Durchgang – 
+ Uhrzeit offen
+DESCRIPTION:Terminmarker\, kein ganztägiger Wettkampf. Startzeit des 2. Du
+ rchgang noch nicht verifiziert\; Start nach dem ersten Durchgang gemäß o
+ ffiziellem Ablauf und Wetter. Keine geschätzte Uhrzeit. Der Marker erhäl
+ t nach Bekanntgabe der Zeit dieselbe UID. Datum/Ort wie beim Haupttermin\;
+  Änderungen möglich. Zweiter Wertungsdurchgang dieses Tages\; nicht auto
+ matisch Finaldurchgang. Je nach Wettkampfformat sind weitere Durchgänge m
+ öglich\; kein zweiter Qualifikationsdurchgang.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:77beafba6de4e4bd74a7ed1525c0@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:1e2ed3f62ebfc7d25e862eb9e7a7@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+LOCATION:Villacher Alpenarena HS 98\, Österreich
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+STATUS:TENTATIVE
+X-JULIAN-TIME-STATUS:UNCONFIRMED
+SUMMARY:Skispringen Villach HS 98 Einzel (Frauen) – 2. Durchgang – Uhrz
+ eit offen
+DESCRIPTION:Terminmarker\, kein ganztägiger Wettkampf. Startzeit des 2. Du
+ rchgang noch nicht verifiziert\; Start nach dem ersten Durchgang gemäß o
+ ffiziellem Ablauf und Wetter. Keine geschätzte Uhrzeit. Der Marker erhäl
+ t nach Bekanntgabe der Zeit dieselbe UID. Datum/Ort wie beim Haupttermin\;
+  Änderungen möglich. Zweiter Wertungsdurchgang dieses Tages\; nicht auto
+ matisch Finaldurchgang. Je nach Wettkampfformat sind weitere Durchgänge m
+ öglich\; kein zweiter Qualifikationsdurchgang.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:5460748b68b0b7b074a320567cdb@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:14d1470d21b4ac9f2fd6b805708c@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+LOCATION:Villacher Alpenarena HS 98\, Österreich
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+STATUS:TENTATIVE
+X-JULIAN-TIME-STATUS:UNCONFIRMED
+SUMMARY:Skispringen Villach HS 98 Einzel (Frauen) – 2. Durchgang – Uhrz
+ eit offen
+DESCRIPTION:Terminmarker\, kein ganztägiger Wettkampf. Startzeit des 2. Du
+ rchgang noch nicht verifiziert\; Start nach dem ersten Durchgang gemäß o
+ ffiziellem Ablauf und Wetter. Keine geschätzte Uhrzeit. Der Marker erhäl
+ t nach Bekanntgabe der Zeit dieselbe UID. Datum/Ort wie beim Haupttermin\;
+  Änderungen möglich. Zweiter Wertungsdurchgang dieses Tages\; nicht auto
+ matisch Finaldurchgang. Je nach Wettkampfformat sind weitere Durchgänge m
+ öglich\; kein zweiter Qualifikationsdurchgang.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:d529afd033618a71896780dd6a68@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:2cd74a23ef9da1601de640bcfa5c@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+LOCATION:Vikersundbakken HS 240\, Norwegen
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+STATUS:TENTATIVE
+X-JULIAN-TIME-STATUS:UNCONFIRMED
+SUMMARY:Skispringen Vikersund HS 240 Einzel (Männer) – 2. Durchgang – 
+ Uhrzeit offen
+DESCRIPTION:Terminmarker\, kein ganztägiger Wettkampf. Startzeit des 2. Du
+ rchgang noch nicht verifiziert\; Start nach dem ersten Durchgang gemäß o
+ ffiziellem Ablauf und Wetter. Keine geschätzte Uhrzeit. Der Marker erhäl
+ t nach Bekanntgabe der Zeit dieselbe UID. Datum/Ort wie beim Haupttermin\;
+  Änderungen möglich. Zweiter Wertungsdurchgang dieses Tages\; nicht auto
+ matisch Finaldurchgang. Je nach Wettkampfformat sind weitere Durchgänge m
+ öglich\; kein zweiter Qualifikationsdurchgang.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:5ab0459ee8efc6e73962a80f9129@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:0a1c2ddcbd69d6c5ea421501c279@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+LOCATION:Falun\, Schweden
+DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270226
+STATUS:TENTATIVE
+X-JULIAN-TIME-STATUS:UNCONFIRMED
+SUMMARY:Skispringen WM Falun – Team Normalschanze (Damen) – 2. Durchgan
+ g – Uhrzeit offen
+DESCRIPTION:Terminmarker\, kein ganztägiger Wettkampf. Startzeit des 2. Du
+ rchgang noch nicht verifiziert\; Start nach dem ersten Durchgang gemäß o
+ ffiziellem Ablauf und Wetter. Keine geschätzte Uhrzeit. Der Marker erhäl
+ t nach Bekanntgabe der Zeit dieselbe UID. Datum/Ort wie beim Haupttermin\;
+  Änderungen möglich. Zweiter Wertungsdurchgang dieses Tages\; nicht auto
+ matisch Finaldurchgang. Je nach Wettkampfformat sind weitere Durchgänge m
+ öglich\; kein zweiter Qualifikationsdurchgang.
+URL:https://falun2027.com/en/here-is-the-competition-schedule-for-falun-202
+ 7-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:d114de49bd430024c961a7b6addb@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:edac794f318ad6fbea47fe750e08@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+LOCATION:Falun\, Schweden
+DTSTART;VALUE=DATE:20270226
+DTEND;VALUE=DATE:20270227
+STATUS:TENTATIVE
+X-JULIAN-TIME-STATUS:UNCONFIRMED
+SUMMARY:Skispringen WM Falun – Einzel Normalschanze (Damen) – 2. Durchg
+ ang – Uhrzeit offen
+DESCRIPTION:Terminmarker\, kein ganztägiger Wettkampf. Startzeit des 2. Du
+ rchgang noch nicht verifiziert\; Start nach dem ersten Durchgang gemäß o
+ ffiziellem Ablauf und Wetter. Keine geschätzte Uhrzeit. Der Marker erhäl
+ t nach Bekanntgabe der Zeit dieselbe UID. Datum/Ort wie beim Haupttermin\;
+  Änderungen möglich. Zweiter Wertungsdurchgang dieses Tages\; nicht auto
+ matisch Finaldurchgang. Je nach Wettkampfformat sind weitere Durchgänge m
+ öglich\; kein zweiter Qualifikationsdurchgang.
+URL:https://falun2027.com/en/here-is-the-competition-schedule-for-falun-202
+ 7-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ce1d1c5de0831e1e49b34c32a9fa@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:4a6cc0f1515e4e39994e9cd1b471@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+LOCATION:Falun\, Schweden
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+STATUS:TENTATIVE
+X-JULIAN-TIME-STATUS:UNCONFIRMED
+SUMMARY:Skispringen WM Falun – Mixed-Team Normalschanze – 2. Durchgang 
+ – Uhrzeit offen
+DESCRIPTION:Terminmarker\, kein ganztägiger Wettkampf. Startzeit des 2. Du
+ rchgang noch nicht verifiziert\; Start nach dem ersten Durchgang gemäß o
+ ffiziellem Ablauf und Wetter. Keine geschätzte Uhrzeit. Der Marker erhäl
+ t nach Bekanntgabe der Zeit dieselbe UID. Datum/Ort wie beim Haupttermin\;
+  Änderungen möglich. Zweiter Wertungsdurchgang dieses Tages\; nicht auto
+ matisch Finaldurchgang. Je nach Wettkampfformat sind weitere Durchgänge m
+ öglich\; kein zweiter Qualifikationsdurchgang.
+URL:https://falun2027.com/en/here-is-the-competition-schedule-for-falun-202
+ 7-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:5fbce4a8b41f22ed1ae8e6feb385@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:2af19538ece00991bc1f43027c4f@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+LOCATION:Falun\, Schweden
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+STATUS:TENTATIVE
+X-JULIAN-TIME-STATUS:UNCONFIRMED
+SUMMARY:Skispringen WM Falun – Einzel Normalschanze (Herren) – 2. Durch
+ gang – Uhrzeit offen
+DESCRIPTION:Terminmarker\, kein ganztägiger Wettkampf. Startzeit des 2. Du
+ rchgang noch nicht verifiziert\; Start nach dem ersten Durchgang gemäß o
+ ffiziellem Ablauf und Wetter. Keine geschätzte Uhrzeit. Der Marker erhäl
+ t nach Bekanntgabe der Zeit dieselbe UID. Datum/Ort wie beim Haupttermin\;
+  Änderungen möglich. Zweiter Wertungsdurchgang dieses Tages\; nicht auto
+ matisch Finaldurchgang. Je nach Wettkampfformat sind weitere Durchgänge m
+ öglich\; kein zweiter Qualifikationsdurchgang.
+URL:https://falun2027.com/en/here-is-the-competition-schedule-for-falun-202
+ 7-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:82d720317b196a40c4e575d573f2@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:52ec2606654c67b4afd4335a4aee@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+LOCATION:Falun\, Schweden
+DTSTART;VALUE=DATE:20270304
+DTEND;VALUE=DATE:20270305
+STATUS:TENTATIVE
+X-JULIAN-TIME-STATUS:UNCONFIRMED
+SUMMARY:Skispringen WM Falun – Team Großschanze (Herren) – 2. Durchgan
+ g – Uhrzeit offen
+DESCRIPTION:Terminmarker\, kein ganztägiger Wettkampf. Startzeit des 2. Du
+ rchgang noch nicht verifiziert\; Start nach dem ersten Durchgang gemäß o
+ ffiziellem Ablauf und Wetter. Keine geschätzte Uhrzeit. Der Marker erhäl
+ t nach Bekanntgabe der Zeit dieselbe UID. Datum/Ort wie beim Haupttermin\;
+  Änderungen möglich. Zweiter Wertungsdurchgang dieses Tages\; nicht auto
+ matisch Finaldurchgang. Je nach Wettkampfformat sind weitere Durchgänge m
+ öglich\; kein zweiter Qualifikationsdurchgang.
+URL:https://falun2027.com/en/here-is-the-competition-schedule-for-falun-202
+ 7-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:da3aa2ddb34ab3d895ecf947f9c6@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:68bd665528070e36414f17e883dc@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+LOCATION:Falun\, Schweden
+DTSTART;VALUE=DATE:20270305
+DTEND;VALUE=DATE:20270306
+STATUS:TENTATIVE
+X-JULIAN-TIME-STATUS:UNCONFIRMED
+SUMMARY:Skispringen WM Falun – Einzel Großschanze (Damen) – 2. Durchga
+ ng – Uhrzeit offen
+DESCRIPTION:Terminmarker\, kein ganztägiger Wettkampf. Startzeit des 2. Du
+ rchgang noch nicht verifiziert\; Start nach dem ersten Durchgang gemäß o
+ ffiziellem Ablauf und Wetter. Keine geschätzte Uhrzeit. Der Marker erhäl
+ t nach Bekanntgabe der Zeit dieselbe UID. Datum/Ort wie beim Haupttermin\;
+  Änderungen möglich. Zweiter Wertungsdurchgang dieses Tages\; nicht auto
+ matisch Finaldurchgang. Je nach Wettkampfformat sind weitere Durchgänge m
+ öglich\; kein zweiter Qualifikationsdurchgang.
+URL:https://falun2027.com/en/here-is-the-competition-schedule-for-falun-202
+ 7-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:157cfb2735bdee9e005fdf70db46@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:aa9aad6358ebc3b497fa28457e45@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+LOCATION:Falun\, Schweden
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+STATUS:TENTATIVE
+X-JULIAN-TIME-STATUS:UNCONFIRMED
+SUMMARY:Skispringen WM Falun – Einzel Großschanze (Herren) – 2. Durchg
+ ang – Uhrzeit offen
+DESCRIPTION:Terminmarker\, kein ganztägiger Wettkampf. Startzeit des 2. Du
+ rchgang noch nicht verifiziert\; Start nach dem ersten Durchgang gemäß o
+ ffiziellem Ablauf und Wetter. Keine geschätzte Uhrzeit. Der Marker erhäl
+ t nach Bekanntgabe der Zeit dieselbe UID. Datum/Ort wie beim Haupttermin\;
+  Änderungen möglich. Zweiter Wertungsdurchgang dieses Tages\; nicht auto
+ matisch Finaldurchgang. Je nach Wettkampfformat sind weitere Durchgänge m
+ öglich\; kein zweiter Qualifikationsdurchgang.
+URL:https://falun2027.com/en/here-is-the-competition-schedule-for-falun-202
+ 7-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:a4b66fc4e9befc15557dab26a71d@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:9cffe1e90acc8b591250d402d7c1@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+LOCATION:Avet\, Soldeu\, Andorra
+DTSTART;TZID=Europe/Berlin:20270306T123000
+STATUS:CONFIRMED
+X-JULIAN-TIME-STATUS:OFFICIAL-SCHEDULE
+SUMMARY:Ski Alpin Soldeu Riesenslalom (Frauen) – 2. Durchgang
+DESCRIPTION:Separater 2. Durchgang. Start laut offiziellem Zeitplan. Geprü
+ ft am 25.10.2026. Änderungen durch Jury/Wetter möglich. Keine bestätigt
+ e Endzeit angegeben.
+URL:https://assets.fis-ski.com/f/252177/x/8399f37ec9/complett_finaldoc_26_2
+ 7_v1_21-10-2026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:a39f348c10f684bfb1430ff20054@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:f440bb72aba136940255899d8ee5@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+LOCATION:Avet\, Soldeu\, Andorra
+DTSTART;TZID=Europe/Berlin:20270307T123000
+STATUS:CONFIRMED
+X-JULIAN-TIME-STATUS:OFFICIAL-SCHEDULE
+SUMMARY:Ski Alpin Soldeu Slalom (Frauen) – 2. Durchgang
+DESCRIPTION:Separater 2. Durchgang. Start laut offiziellem Zeitplan. Geprü
+ ft am 25.10.2026. Änderungen durch Jury/Wetter möglich. Keine bestätigt
+ e Endzeit angegeben.
+URL:https://assets.fis-ski.com/f/252177/x/8399f37ec9/complett_finaldoc_26_2
+ 7_v1_21-10-2026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:1409fce9058d6de159c3c00ada24@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:3dfb443bf8444e48114c0ecc6d49@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+LOCATION:Gästrappet\, Are\, Schweden
+DTSTART;TZID=Europe/Berlin:20270313T130000
+STATUS:CONFIRMED
+X-JULIAN-TIME-STATUS:OFFICIAL-SCHEDULE
+SUMMARY:Ski Alpin Åre Riesenslalom (Männer) – 2. Durchgang
+DESCRIPTION:Separater 2. Durchgang. Start laut offiziellem Zeitplan. Geprü
+ ft am 25.10.2026. Änderungen durch Jury/Wetter möglich. Keine bestätigt
+ e Endzeit angegeben.
+URL:https://assets.fis-ski.com/f/252177/x/8399f37ec9/complett_finaldoc_26_2
+ 7_v1_21-10-2026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:d7ed791f5c9e7f2d36fd510fefcc@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:43d821e8bec824df75355ecba3b8@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+LOCATION:Holmenkollen HS 134\, Oslo\, Norwegen
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+STATUS:TENTATIVE
+X-JULIAN-TIME-STATUS:UNCONFIRMED
+SUMMARY:Skispringen Oslo HS 134 Einzel (Frauen) – 2. Durchgang – Uhrzei
+ t offen
+DESCRIPTION:Terminmarker\, kein ganztägiger Wettkampf. Startzeit des 2. Du
+ rchgang noch nicht verifiziert\; Start nach dem ersten Durchgang gemäß o
+ ffiziellem Ablauf und Wetter. Keine geschätzte Uhrzeit. Der Marker erhäl
+ t nach Bekanntgabe der Zeit dieselbe UID. Datum/Ort wie beim Haupttermin\;
+  Änderungen möglich. Zweiter Wertungsdurchgang dieses Tages\; nicht auto
+ matisch Finaldurchgang. Je nach Wettkampfformat sind weitere Durchgänge m
+ öglich\; kein zweiter Qualifikationsdurchgang.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:e3da7478bb5095439adb3c36d343@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:932dfcec9529bdc6986d7730407b@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+LOCATION:Holmenkollen HS 134\, Oslo\, Norwegen
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+STATUS:TENTATIVE
+X-JULIAN-TIME-STATUS:UNCONFIRMED
+SUMMARY:Skispringen Oslo HS 134 Einzel (Männer) – 2. Durchgang – Uhrze
+ it offen
+DESCRIPTION:Terminmarker\, kein ganztägiger Wettkampf. Startzeit des 2. Du
+ rchgang noch nicht verifiziert\; Start nach dem ersten Durchgang gemäß o
+ ffiziellem Ablauf und Wetter. Keine geschätzte Uhrzeit. Der Marker erhäl
+ t nach Bekanntgabe der Zeit dieselbe UID. Datum/Ort wie beim Haupttermin\;
+  Änderungen möglich. Zweiter Wertungsdurchgang dieses Tages\; nicht auto
+ matisch Finaldurchgang. Je nach Wettkampfformat sind weitere Durchgänge m
+ öglich\; kein zweiter Qualifikationsdurchgang.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:24a5b383cdb3fe6ff34c2749d001@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:3f8ef04b09ee369fb8e95e821158@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+LOCATION:Holmenkollen HS 134\, Oslo\, Norwegen
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+STATUS:TENTATIVE
+X-JULIAN-TIME-STATUS:UNCONFIRMED
+SUMMARY:Skispringen Oslo HS 134 Einzel (Frauen) – 2. Durchgang – Uhrzei
+ t offen
+DESCRIPTION:Terminmarker\, kein ganztägiger Wettkampf. Startzeit des 2. Du
+ rchgang noch nicht verifiziert\; Start nach dem ersten Durchgang gemäß o
+ ffiziellem Ablauf und Wetter. Keine geschätzte Uhrzeit. Der Marker erhäl
+ t nach Bekanntgabe der Zeit dieselbe UID. Datum/Ort wie beim Haupttermin\;
+  Änderungen möglich. Zweiter Wertungsdurchgang dieses Tages\; nicht auto
+ matisch Finaldurchgang. Je nach Wettkampfformat sind weitere Durchgänge m
+ öglich\; kein zweiter Qualifikationsdurchgang.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:477ae99f8cb8e875d8bb9c0f3d9e@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:2686c2190311d779a00803b10a5a@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+LOCATION:Holmenkollen HS 134\, Oslo\, Norwegen
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+STATUS:TENTATIVE
+X-JULIAN-TIME-STATUS:UNCONFIRMED
+SUMMARY:Skispringen Oslo HS 134 Einzel (Männer) – 2. Durchgang – Uhrze
+ it offen
+DESCRIPTION:Terminmarker\, kein ganztägiger Wettkampf. Startzeit des 2. Du
+ rchgang noch nicht verifiziert\; Start nach dem ersten Durchgang gemäß o
+ ffiziellem Ablauf und Wetter. Keine geschätzte Uhrzeit. Der Marker erhäl
+ t nach Bekanntgabe der Zeit dieselbe UID. Datum/Ort wie beim Haupttermin\;
+  Änderungen möglich. Zweiter Wertungsdurchgang dieses Tages\; nicht auto
+ matisch Finaldurchgang. Je nach Wettkampfformat sind weitere Durchgänge m
+ öglich\; kein zweiter Qualifikationsdurchgang.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:c702bea0c057ce53d0266f8cc54b@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:a0352280063ea13edda7f7aa14ae@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+LOCATION:Gästrappet\, Are\, Schweden
+DTSTART;TZID=Europe/Berlin:20270314T123000
+STATUS:CONFIRMED
+X-JULIAN-TIME-STATUS:OFFICIAL-SCHEDULE
+SUMMARY:Ski Alpin Åre Slalom (Männer) – 2. Durchgang
+DESCRIPTION:Separater 2. Durchgang. Start laut offiziellem Zeitplan. Geprü
+ ft am 25.10.2026. Änderungen durch Jury/Wetter möglich. Keine bestätigt
+ e Endzeit angegeben.
+URL:https://assets.fis-ski.com/f/252177/x/8399f37ec9/complett_finaldoc_26_2
+ 7_v1_21-10-2026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:f997b7a3928400fe6289794138c1@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:3dd0204a3b3eeb6ce196bb1f605b@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+LOCATION:Letalnica HS 240\, Planica\, Slowenien
+DTSTART;VALUE=DATE:20270319
+DTEND;VALUE=DATE:20270320
+STATUS:TENTATIVE
+X-JULIAN-TIME-STATUS:UNCONFIRMED
+SUMMARY:Skispringen Planica HS 240 Einzel (Männer) – 2. Durchgang – Uh
+ rzeit offen
+DESCRIPTION:Terminmarker\, kein ganztägiger Wettkampf. Startzeit des 2. Du
+ rchgang noch nicht verifiziert\; Start nach dem ersten Durchgang gemäß o
+ ffiziellem Ablauf und Wetter. Keine geschätzte Uhrzeit. Der Marker erhäl
+ t nach Bekanntgabe der Zeit dieselbe UID. Datum/Ort wie beim Haupttermin\;
+  Änderungen möglich. Zweiter Wertungsdurchgang dieses Tages\; nicht auto
+ matisch Finaldurchgang. Je nach Wettkampfformat sind weitere Durchgänge m
+ öglich\; kein zweiter Qualifikationsdurchgang.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:0f815cb1cee6278f7da4150578de@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:cbf946382991af39b3170ed6e692@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+LOCATION:Letalnica HS 240\, Planica\, Slowenien
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+STATUS:TENTATIVE
+X-JULIAN-TIME-STATUS:UNCONFIRMED
+SUMMARY:Skispringen Planica HS 240 Team (Männer) – 2. Durchgang – Uhrz
+ eit offen
+DESCRIPTION:Terminmarker\, kein ganztägiger Wettkampf. Startzeit des 2. Du
+ rchgang noch nicht verifiziert\; Start nach dem ersten Durchgang gemäß o
+ ffiziellem Ablauf und Wetter. Keine geschätzte Uhrzeit. Der Marker erhäl
+ t nach Bekanntgabe der Zeit dieselbe UID. Datum/Ort wie beim Haupttermin\;
+  Änderungen möglich. Zweiter Wertungsdurchgang dieses Tages\; nicht auto
+ matisch Finaldurchgang. Je nach Wettkampfformat sind weitere Durchgänge m
+ öglich\; kein zweiter Qualifikationsdurchgang.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:c5d6c73bad9f740e958a3a71e2db@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:fea443ecdb109283135b726685fb@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+LOCATION:Letalnica HS 240\, Planica\, Slowenien
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+STATUS:TENTATIVE
+X-JULIAN-TIME-STATUS:UNCONFIRMED
+SUMMARY:Skispringen Planica HS 240 Einzel (Frauen) – 2. Durchgang – Uhr
+ zeit offen
+DESCRIPTION:Terminmarker\, kein ganztägiger Wettkampf. Startzeit des 2. Du
+ rchgang noch nicht verifiziert\; Start nach dem ersten Durchgang gemäß o
+ ffiziellem Ablauf und Wetter. Keine geschätzte Uhrzeit. Der Marker erhäl
+ t nach Bekanntgabe der Zeit dieselbe UID. Datum/Ort wie beim Haupttermin\;
+  Änderungen möglich. Zweiter Wertungsdurchgang dieses Tages\; nicht auto
+ matisch Finaldurchgang. Je nach Wettkampfformat sind weitere Durchgänge m
+ öglich\; kein zweiter Qualifikationsdurchgang.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:33949ac2921a4226ac168864d1c2@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:7b38aac9e675ff70159e4623be70@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Skispringen
+TRANSP:TRANSPARENT
+LOCATION:Letalnica HS 240\, Planica\, Slowenien
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+STATUS:TENTATIVE
+X-JULIAN-TIME-STATUS:UNCONFIRMED
+SUMMARY:Skispringen Planica HS 240 Einzel (Männer) – 2. Durchgang – Uh
+ rzeit offen
+DESCRIPTION:Terminmarker\, kein ganztägiger Wettkampf. Startzeit des 2. Du
+ rchgang noch nicht verifiziert\; Start nach dem ersten Durchgang gemäß o
+ ffiziellem Ablauf und Wetter. Keine geschätzte Uhrzeit. Der Marker erhäl
+ t nach Bekanntgabe der Zeit dieselbe UID. Datum/Ort wie beim Haupttermin\;
+  Änderungen möglich. Zweiter Wertungsdurchgang dieses Tages\; nicht auto
+ matisch Finaldurchgang. Je nach Wettkampfformat sind weitere Durchgänge m
+ öglich\; kein zweiter Qualifikationsdurchgang.
+URL:https://calovo.de/f/sportschau/skispringen
+END:VEVENT
+BEGIN:VEVENT
+UID:70430994ecc45b76eee61c1ff880@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:58bfea79dbcc0ab5d1cb998ef580@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+LOCATION:Bald Mountain\, Sun Valley\, ID\, USA
+DTSTART;TZID=Europe/Berlin:20270323T190000
+STATUS:CONFIRMED
+X-JULIAN-TIME-STATUS:OFFICIAL-SCHEDULE
+SUMMARY:Ski Alpin Sun Valley Riesenslalom (Frauen) – 2. Durchgang
+DESCRIPTION:Separater 2. Durchgang. Start laut offiziellem Zeitplan. Geprü
+ ft am 25.10.2026. Änderungen durch Jury/Wetter möglich. Keine bestätigt
+ e Endzeit angegeben.
+URL:https://assets.fis-ski.com/f/252177/x/8399f37ec9/complett_finaldoc_26_2
+ 7_v1_21-10-2026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:5cfd8a5ba6e6e671c76a2ab971ae@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:1c1460fcc91c11c5fed27354b9d1@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+LOCATION:Bald Mountain\, Sun Valley\, ID\, USA
+DTSTART;TZID=Europe/Berlin:20270324T190000
+STATUS:CONFIRMED
+X-JULIAN-TIME-STATUS:OFFICIAL-SCHEDULE
+SUMMARY:Ski Alpin Sun Valley Riesenslalom (Männer) – 2. Durchgang
+DESCRIPTION:Separater 2. Durchgang. Start laut offiziellem Zeitplan. Geprü
+ ft am 25.10.2026. Änderungen durch Jury/Wetter möglich. Keine bestätigt
+ e Endzeit angegeben.
+URL:https://assets.fis-ski.com/f/252177/x/8399f37ec9/complett_finaldoc_26_2
+ 7_v1_21-10-2026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:d26fd01660eb7b02287764f38422@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:71df73c4f6e7fa3ef0d06e2c45f7@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+LOCATION:Bald Mountain\, Sun Valley\, ID\, USA
+DTSTART;TZID=Europe/Berlin:20270325T190000
+STATUS:CONFIRMED
+X-JULIAN-TIME-STATUS:OFFICIAL-SCHEDULE
+SUMMARY:Ski Alpin Sun Valley Slalom (Frauen) – 2. Durchgang
+DESCRIPTION:Separater 2. Durchgang. Start laut offiziellem Zeitplan. Geprü
+ ft am 25.10.2026. Änderungen durch Jury/Wetter möglich. Keine bestätigt
+ e Endzeit angegeben.
+URL:https://assets.fis-ski.com/f/252177/x/8399f37ec9/complett_finaldoc_26_2
+ 7_v1_21-10-2026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:d5c79db9b607242e7c0470aaea4b@julian-wintersport
+DTSTAMP:20261025T153149Z
+SEQUENCE:1
+RELATED-TO;RELTYPE=PARENT:747b2c6694be08b10e10ced039ff@julian-wintersport
+X-JULIAN-PHASE:SECOND-RUN
+CATEGORIES:Ski alpin
+TRANSP:TRANSPARENT
+LOCATION:Bald Mountain\, Sun Valley\, ID\, USA
+DTSTART;TZID=Europe/Berlin:20270325T200000
+STATUS:CONFIRMED
+X-JULIAN-TIME-STATUS:OFFICIAL-SCHEDULE
+SUMMARY:Ski Alpin Sun Valley Slalom (Männer) – 2. Durchgang
+DESCRIPTION:Separater 2. Durchgang. Start laut offiziellem Zeitplan. Geprü
+ ft am 25.10.2026. Änderungen durch Jury/Wetter möglich. Keine bestätigt
+ e Endzeit angegeben.
+URL:https://assets.fis-ski.com/f/252177/x/8399f37ec9/complett_finaldoc_26_2
+ 7_v1_21-10-2026.pdf
+END:VEVENT
 END:VCALENDAR
+
