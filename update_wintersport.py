@@ -615,13 +615,16 @@ def make_second_runs(parent_events, stamp):
         if 'LOCATION' in p:
             lines.append(p['LOCATION'])
         if clock:
+            end = (dt.datetime.strptime(date + clock, '%Y%m%d%H%M')
+                   + dt.timedelta(minutes=45 if kind == 'jumping' else 60))
             lines += ['DTSTART;TZID=Europe/Berlin:' + date + 'T' + clock + '00',
+                      'DTEND;TZID=Europe/Berlin:' + end.strftime('%Y%m%dT%H%M%S'),
                       'STATUS:' + official.get('status', 'CONFIRMED'),
                       'X-JULIAN-TIME-STATUS:' + official.get('time_status', 'OFFICIAL-SCHEDULE'),
                       'SUMMARY:' + title + ' – ' + stage + (' – vorläufig' if official.get('status') == 'TENTATIVE' else '')]
             description = ('Separater ' + stage + '. Start laut offiziellem Zeitplan. '
                            'Geprüft am 25.10.2026. Änderungen durch Jury/Wetter möglich. '
-                           'Keine bestätigte Endzeit angegeben.')
+                           'Endzeit als Planungswert.')
             if official.get('note'):
                 description += ' ' + official['note']
         else:
