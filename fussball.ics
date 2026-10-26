@@ -852,31 +852,39 @@ UID:1789639d@fussball-kalender.julian
 DTSTAMP:20260912T084334Z
 DTSTART:20261025T163000Z
 DTEND:20261025T183000Z
-SUMMARY:SC Freiburg – FC Bayern München
+SUMMARY:SC Freiburg – FC Bayern München (1:3)
 LOCATION:Europa-Park Stadion
 DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereinss
- pielplan.
+ pielplan.\nEndstand: 1:3. Ergebnisquelle: https://fcbayern.com/de/news/spi
+ elberichte/2026/10/spielbericht-bundesliga-sc-freiburg-fc-bayern (geprüft
+  am 26.10.2026).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:SC Freiburg – FC Bayern München
 END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261026T080613Z
 END:VEVENT
 BEGIN:VEVENT
 UID:11b4229b@fussball-kalender.julian
 DTSTAMP:20260905T084016Z
 DTSTART:20261025T160000Z
 DTEND:20261025T180000Z
-SUMMARY:LASK – FC Red Bull Salzburg
+SUMMARY:LASK – FC Red Bull Salzburg (1:3)
 LOCATION:Raiffeisen Arena
-DESCRIPTION:LASK – Bundesliga. Quelle: offizieller Vereinsspielplan.
+DESCRIPTION:LASK – Bundesliga. Quelle: offizieller Vereinsspielplan.\nEnd
+ stand: 1:3. Ergebnisquelle: https://www.lask.at/de/m/news/niederlage-im-to
+ pspiel (geprüft am 26.10.2026).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:LASK – FC Red Bull Salzburg
 END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261026T080613Z
 END:VEVENT
 BEGIN:VEVENT
 UID:5dc247f0@fussball-kalender.julian
