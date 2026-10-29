@@ -543,18 +543,19 @@ URL:https://calovo.de/f/sportschau/biathlon
 END:VEVENT
 BEGIN:VEVENT
 UID:f918ab371559d4f469947b6ea921@julian-wintersport
-DTSTAMP:20261024T081731Z
-DTSTART;TZID=Europe/Berlin:20261204T191500
-DTEND;TZID=Europe/Berlin:20261204T211500
+DTSTAMP:20261029T075346Z
+DTSTART;TZID=Europe/Berlin:20261204T190000
 STATUS:CONFIRMED
-SEQUENCE:264
+SEQUENCE:265
 LOCATION:Birds of Prey / Golden Eagle\, Beaver Creek\, CO\, USA
 SUMMARY:Ski Alpin Beaver Creek Abfahrt (Männer)
 CATEGORIES:Ski alpin
 TRANSP:TRANSPARENT
-DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
- u / calovo. Änderungen vorbehalten.
-URL:https://calovo.de/f/sportschau/ski-alpin
+DESCRIPTION:Startzeit laut FIS-Datenbank und FIS-Infosheet 2026/27\, geprü
+ ft am 29.10.2026. Änderungen möglich\; Ende nicht bestätigt.
+URL:https://assets.fis-ski.com/f/252177/x/8399f37ec9/complett_finaldoc_26_2
+ 7_v1_21-10-2026.pdf
+LAST-MODIFIED:20261029T075346Z
 END:VEVENT
 BEGIN:VEVENT
 UID:fec8112f81c62a7127b00b482dc9@julian-wintersport
@@ -620,18 +621,19 @@ URL:https://calovo.de/f/sportschau/skispringen
 END:VEVENT
 BEGIN:VEVENT
 UID:3a5dc636b8a5d32a0bb66d3a5341@julian-wintersport
-DTSTAMP:20261024T081731Z
-DTSTART;TZID=Europe/Berlin:20261205T191500
-DTEND;TZID=Europe/Berlin:20261205T211500
+DTSTAMP:20261029T075346Z
+DTSTART;TZID=Europe/Berlin:20261205T183000
 STATUS:CONFIRMED
-SEQUENCE:264
+SEQUENCE:265
 LOCATION:Birds of Prey / Golden Eagle\, Beaver Creek\, CO\, USA
 SUMMARY:Ski Alpin Beaver Creek Super-G (Männer)
 CATEGORIES:Ski alpin
 TRANSP:TRANSPARENT
-DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
- u / calovo. Änderungen vorbehalten.
-URL:https://calovo.de/f/sportschau/ski-alpin
+DESCRIPTION:Startzeit laut FIS-Datenbank und FIS-Infosheet 2026/27\, geprü
+ ft am 29.10.2026. Änderungen möglich\; Ende nicht bestätigt.
+URL:https://assets.fis-ski.com/f/252177/x/8399f37ec9/complett_finaldoc_26_2
+ 7_v1_21-10-2026.pdf
+LAST-MODIFIED:20261029T075346Z
 END:VEVENT
 BEGIN:VEVENT
 UID:af771b5a34e90834156838686193@julian-wintersport
@@ -862,18 +864,22 @@ URL:https://calovo.de/f/sportschau/biathlon
 END:VEVENT
 BEGIN:VEVENT
 UID:30788b74711381acbd148d253c9b@julian-wintersport
-DTSTAMP:20261024T081731Z
+DTSTAMP:20261029T075346Z
 DTSTART;TZID=Europe/Berlin:20261212T190000
 DTEND;TZID=Europe/Berlin:20261212T210000
-STATUS:CONFIRMED
-SEQUENCE:264
+STATUS:TENTATIVE
+SEQUENCE:265
 LOCATION:Birds of Prey / Golden Eagle\, Beaver Creek\, CO\, USA
 SUMMARY:Ski Alpin Beaver Creek Abfahrt (Frauen)
 CATEGORIES:Ski alpin
 TRANSP:TRANSPARENT
-DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
- u / calovo. Änderungen vorbehalten.
+DESCRIPTION:Startzeit vorläufig\, Quellenwiderspruch am 29.10.2026: FIS-Da
+ tenbank: 18:00 MEZ\; FIS-Infosheet: 19:00 MEZ. Bisherige veröffentlichte 
+ Planzeit beibehalten\; endgültige Bestätigung offen. Zweiter Durchgang s
+ eparat eingetragen\, soweit vorhanden.
 URL:https://calovo.de/f/sportschau/ski-alpin
+X-JULIAN-TIME-STATUS:SOURCE-CONFLICT
+LAST-MODIFIED:20261029T075346Z
 END:VEVENT
 BEGIN:VEVENT
 UID:54e63b6c26ede0ec3ac2b0d59d14@julian-wintersport
@@ -892,20 +898,23 @@ URL:https://calovo.de/f/sportschau/skispringen
 END:VEVENT
 BEGIN:VEVENT
 UID:65441efa4c973fd768e5d7b36eab@julian-wintersport
-DTSTAMP:20261025T153149Z
+DTSTAMP:20261029T075346Z
 DTSTART;TZID=Europe/Berlin:20261212T093000
 DTEND;TZID=Europe/Berlin:20261212T120000
-STATUS:CONFIRMED
-SEQUENCE:265
+STATUS:TENTATIVE
+SEQUENCE:266
 LOCATION:La face de Bellevarde\, Val dIsere\, Frankreich
 SUMMARY:Ski Alpin Val dIsere Riesenslalom (Männer)
 CATEGORIES:Ski alpin
 TRANSP:TRANSPARENT
-DESCRIPTION:Start des 1. Durchgangs laut offiziellem FIS-Zeitplan 2026/27\,
-  geprüft 25.10.2026. Der zweite Durchgang ist separat eingetragen. Änder
- ungen vorbehalten.
+DESCRIPTION:Startzeit vorläufig\, Quellenwiderspruch am 29.10.2026: FIS-Da
+ tenbank: 10:00 MEZ\; FIS-Infosheet: 09:30 MEZ. Bisherige veröffentlichte 
+ Planzeit beibehalten\; endgültige Bestätigung offen. Zweiter Durchgang s
+ eparat eingetragen\, soweit vorhanden.
 URL:https://assets.fis-ski.com/f/252177/x/8399f37ec9/complett_finaldoc_26_2
  7_v1_21-10-2026.pdf
+X-JULIAN-TIME-STATUS:SOURCE-CONFLICT
+LAST-MODIFIED:20261029T075346Z
 END:VEVENT
 BEGIN:VEVENT
 UID:7e42e2580606bd8c9bdcc4d48aff@julian-wintersport
@@ -1031,20 +1040,23 @@ URL:https://calovo.de/f/sportschau/skispringen
 END:VEVENT
 BEGIN:VEVENT
 UID:8a868643eef0ac5da4eb88259e4d@julian-wintersport
-DTSTAMP:20261025T153149Z
+DTSTAMP:20261029T075346Z
 DTSTART;TZID=Europe/Berlin:20261213T093000
 DTEND;TZID=Europe/Berlin:20261213T120000
-STATUS:CONFIRMED
-SEQUENCE:265
+STATUS:TENTATIVE
+SEQUENCE:266
 LOCATION:La face de Bellevarde\, Val dIsere\, Frankreich
 SUMMARY:Ski Alpin Val dIsere Slalom (Männer)
 CATEGORIES:Ski alpin
 TRANSP:TRANSPARENT
-DESCRIPTION:Start des 1. Durchgangs laut offiziellem FIS-Zeitplan 2026/27\,
-  geprüft 25.10.2026. Der zweite Durchgang ist separat eingetragen. Änder
- ungen vorbehalten.
+DESCRIPTION:Startzeit vorläufig\, Quellenwiderspruch am 29.10.2026: FIS-Da
+ tenbank: 10:00 MEZ\; FIS-Infosheet: 09:30 MEZ. Bisherige veröffentlichte 
+ Planzeit beibehalten\; endgültige Bestätigung offen. Zweiter Durchgang s
+ eparat eingetragen\, soweit vorhanden.
 URL:https://assets.fis-ski.com/f/252177/x/8399f37ec9/complett_finaldoc_26_2
  7_v1_21-10-2026.pdf
+X-JULIAN-TIME-STATUS:SOURCE-CONFLICT
+LAST-MODIFIED:20261029T075346Z
 END:VEVENT
 BEGIN:VEVENT
 UID:b684bfddcd4655ff04de903a0e9c@julian-wintersport
@@ -3913,20 +3925,23 @@ URL:https://calovo.de/f/sportschau/biathlon
 END:VEVENT
 BEGIN:VEVENT
 UID:3dfb443bf8444e48114c0ecc6d49@julian-wintersport
-DTSTAMP:20261025T153149Z
+DTSTAMP:20261029T075346Z
 DTSTART;TZID=Europe/Berlin:20270313T100000
 DTEND;TZID=Europe/Berlin:20270313T113000
-STATUS:CONFIRMED
-SEQUENCE:265
+STATUS:TENTATIVE
+SEQUENCE:266
 LOCATION:Gästrappet\, Are\, Schweden
 SUMMARY:Ski Alpin Åre Riesenslalom (Männer)
 CATEGORIES:Ski alpin
 TRANSP:TRANSPARENT
-DESCRIPTION:Start des 1. Durchgangs laut offiziellem FIS-Zeitplan 2026/27\,
-  geprüft 25.10.2026. Der zweite Durchgang ist separat eingetragen. Änder
- ungen vorbehalten.
+DESCRIPTION:Startzeit vorläufig\, Quellenwiderspruch am 29.10.2026: FIS-Da
+ tenbank: 09:30 MEZ\; FIS-Infosheet: 10:00 MEZ. Bisherige veröffentlichte 
+ Planzeit beibehalten\; endgültige Bestätigung offen. Zweiter Durchgang s
+ eparat eingetragen\, soweit vorhanden.
 URL:https://assets.fis-ski.com/f/252177/x/8399f37ec9/complett_finaldoc_26_2
  7_v1_21-10-2026.pdf
+X-JULIAN-TIME-STATUS:SOURCE-CONFLICT
+LAST-MODIFIED:20261029T075346Z
 END:VEVENT
 BEGIN:VEVENT
 UID:43d821e8bec824df75355ecba3b8@julian-wintersport
@@ -7194,6 +7209,76 @@ DESCRIPTION:Separater 2. Durchgang. Start laut offiziellem Zeitplan. Geprü
  ungswert.
 URL:https://assets.fis-ski.com/f/252177/x/8399f37ec9/complett_finaldoc_26_2
  7_v1_21-10-2026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:fis-AL131852@julian-wintersport
+DTSTAMP:20261029T075346Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270211
+SUMMARY:Ski alpin WM Crans-Montana – Riesenslalom – Qualifikation (Dame
+ n)
+CATEGORIES:Ski alpin
+LOCATION:Crans-Montana\, Schweiz
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+X-JULIAN-TIME-STATUS:UNCONFIRMED
+DESCRIPTION:Datum laut FIS-WM-Kalender und Veranstalter\, geprüft 29.10.20
+ 26. Startzeit noch nicht bestätigt\; transparenter ganztägiger Terminmar
+ ker.
+URL:https://www.cransmontana2027.ch/de/wettkaempfe/rennprogramm/
+END:VEVENT
+BEGIN:VEVENT
+UID:fis-AL131855@julian-wintersport
+DTSTAMP:20261029T075346Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270211
+DTEND;VALUE=DATE:20270212
+SUMMARY:Ski alpin WM Crans-Montana – Riesenslalom – Qualifikation (Herr
+ en)
+CATEGORIES:Ski alpin
+LOCATION:Crans-Montana\, Schweiz
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+X-JULIAN-TIME-STATUS:UNCONFIRMED
+DESCRIPTION:Datum laut FIS-WM-Kalender und Veranstalter\, geprüft 29.10.20
+ 26. Startzeit noch nicht bestätigt\; transparenter ganztägiger Terminmar
+ ker.
+URL:https://www.cransmontana2027.ch/de/wettkaempfe/rennprogramm/
+END:VEVENT
+BEGIN:VEVENT
+UID:fis-AL131856@julian-wintersport
+DTSTAMP:20261029T075346Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+SUMMARY:Ski alpin WM Crans-Montana – Slalom – Qualifikation (Damen)
+CATEGORIES:Ski alpin
+LOCATION:Crans-Montana\, Schweiz
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+X-JULIAN-TIME-STATUS:UNCONFIRMED
+DESCRIPTION:Datum laut FIS-WM-Kalender und Veranstalter\, geprüft 29.10.20
+ 26. Startzeit noch nicht bestätigt\; transparenter ganztägiger Terminmar
+ ker.
+URL:https://www.cransmontana2027.ch/de/wettkaempfe/rennprogramm/
+END:VEVENT
+BEGIN:VEVENT
+UID:fis-AL131859@julian-wintersport
+DTSTAMP:20261029T075346Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:Ski alpin WM Crans-Montana – Slalom – Qualifikation (Herren)
+CATEGORIES:Ski alpin
+LOCATION:Crans-Montana\, Schweiz
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+X-JULIAN-TIME-STATUS:UNCONFIRMED
+DESCRIPTION:Datum laut FIS-WM-Kalender und Veranstalter\, geprüft 29.10.20
+ 26. Startzeit noch nicht bestätigt\; transparenter ganztägiger Terminmar
+ ker.
+URL:https://www.cransmontana2027.ch/de/wettkaempfe/rennprogramm/
 END:VEVENT
 END:VCALENDAR
 
