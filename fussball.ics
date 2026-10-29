@@ -2191,35 +2191,43 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:dfb-bayern-20261028@fussball-kalender.julian
-DTSTAMP:20260912T084334Z
+DTSTAMP:20261029T071215Z
 DTSTART:20261028T194500Z
 DTEND:20261028T214500Z
-SUMMARY:FC Bayern München – 1. FC Magdeburg
+SUMMARY:FC Bayern München – 1. FC Magdeburg (6:1)
 LOCATION:Allianz Arena
 DESCRIPTION:FC Bayern München – DFB-Pokal, 2. Runde. Quelle: offizieller
-  Vereinsspielplan.
+  Vereinsspielplan.\nEndstand: 6:1 Ergebnisquelle: https://fcbayern.com/de/
+ news/2026/10/nachbericht-dfb-pokalspiel-fc-bayern-vs-1-fc-magdeburg (gepr
+ üft am 29.10.2026).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:FC Bayern München – 1. FC Magdeburg
 END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261029T071215Z
 END:VEVENT
 BEGIN:VEVENT
 UID:oefb-cup-lask-20261028@fussball-kalender.julian
-DTSTAMP:20260912T084334Z
+DTSTAMP:20261029T071215Z
 DTSTART:20261028T193000Z
 DTEND:20261028T213000Z
-SUMMARY:LASK – SV Oberbank Ried
+SUMMARY:LASK – SV Oberbank Ried (5:4 n. V.)
 LOCATION:Raiffeisen Arena
 DESCRIPTION:LASK – UNIQA ÖFB-Cup, Achtelfinale. Quelle: offizieller Vere
- insspielplan.
+ insspielplan.\nEndstand: 5:4 n. V. Ergebnisquelle: https://www.svried.at/n
+ ews/54-auswaertsniederlage-im-cup-achtelfinale-gegen-den-lask/ (geprüft a
+ m 29.10.2026).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:LASK – SV Oberbank Ried
 END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261029T071215Z
 END:VEVENT
 BEGIN:VEVENT
 UID:oefb-match-4188351@fussball-kalender.julian
