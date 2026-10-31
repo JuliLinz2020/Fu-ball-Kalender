@@ -888,11 +888,11 @@ LAST-MODIFIED:20261026T080613Z
 END:VEVENT
 BEGIN:VEVENT
 UID:5dc247f0@fussball-kalender.julian
-DTSTAMP:20260919T081809Z
+DTSTAMP:20261031T094922Z
 DTSTART:20261031T160000Z
 DTEND:20261031T180000Z
 SUMMARY:First Vienna FC 1894 – FC Blau-Weiß Linz
-LOCATION:Hohe Warte
+LOCATION:Naturarena Hohe Warte
 DESCRIPTION:Blau-Weiß Linz – 2. Liga. Quelle: offizieller Vereinsspielpl
  an.
 TRANSP:TRANSPARENT
@@ -901,6 +901,8 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:First Vienna FC 1894 – FC Blau-Weiß Linz
 END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261031T094922Z
 END:VEVENT
 BEGIN:VEVENT
 UID:8c274c82@fussball-kalender.julian
@@ -1118,9 +1120,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:b6875a5@fussball-kalender.julian
-DTSTAMP:20260711T120102Z
-DTSTART:20261212T143000Z
-DTEND:20261212T163000Z
+DTSTAMP:20261031T094922Z
+DTSTART:20261211T193000Z
+DTEND:20261211T213000Z
 SUMMARY:ASK Voitsberg – FC Blau-Weiß Linz
 LOCATION:Münzer Bioindustrie Sportpark
 DESCRIPTION:Blau-Weiß Linz – 2. Liga. Quelle: offizieller Vereinsspielpl
@@ -1131,6 +1133,8 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:ASK Voitsberg – FC Blau-Weiß Linz
 END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261031T094922Z
 END:VEVENT
 BEGIN:VEVENT
 UID:d07553b4@fussball-kalender.julian
@@ -2303,10 +2307,11 @@ LAST-MODIFIED:20261017T081125Z
 END:VEVENT
 BEGIN:VEVENT
 UID:bw-2liga-2026-27-56923@fussball-kalender.julian
-DTSTAMP:20261018T064120Z
+DTSTAMP:20261031T094922Z
 DTSTART:20270226T173000Z
 DTEND:20270228T113000Z
 SUMMARY:Zeitfenster vorläufig: FAC WIEN – FC Blau-Weiß Linz
+LOCATION:FAC Platz
 DESCRIPTION:Blau-Weiß Linz – ADMIRAL 2. Liga 2026/27\, Runde 17. Offizie
  lles Terminfenster: 26.02.2027 bis 28.02.2027. Anstoßzeit noch nicht fest
  gelegt. Vorläufiges durchgehendes Auswahlfenster anhand der offiziellen A
@@ -2319,15 +2324,16 @@ DESCRIPTION:Blau-Weiß Linz – ADMIRAL 2. Liga 2026/27\, Runde 17. Offizie
 URL:https://www.2liga.at/de/spielbericht/saison-2026-2027/56923/vorbericht
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
-SEQUENCE:1
-LAST-MODIFIED:20261018T064120Z
+SEQUENCE:2
+LAST-MODIFIED:20261031T094922Z
 END:VEVENT
 BEGIN:VEVENT
 UID:bw-2liga-2026-27-56929@fussball-kalender.julian
-DTSTAMP:20261018T064120Z
+DTSTAMP:20261031T094922Z
 DTSTART:20270305T173000Z
 DTEND:20270307T113000Z
 SUMMARY:Zeitfenster vorläufig: FC Blau-Weiß Linz – First Vienna FC 1894
+LOCATION:Hofmann Personal Stadion
 DESCRIPTION:Blau-Weiß Linz – ADMIRAL 2. Liga 2026/27\, Runde 18. Offizie
  lles Terminfenster: 05.03.2027 bis 07.03.2027. Anstoßzeit noch nicht fest
  gelegt. Vorläufiges durchgehendes Auswahlfenster anhand der offiziellen A
@@ -2340,15 +2346,16 @@ DESCRIPTION:Blau-Weiß Linz – ADMIRAL 2. Liga 2026/27\, Runde 18. Offizie
 URL:https://www.2liga.at/de/spielbericht/saison-2026-2027/56929/vorbericht
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
-SEQUENCE:1
-LAST-MODIFIED:20261018T064120Z
+SEQUENCE:2
+LAST-MODIFIED:20261031T094922Z
 END:VEVENT
 BEGIN:VEVENT
 UID:bw-2liga-2026-27-56941@fussball-kalender.julian
-DTSTAMP:20261018T064120Z
+DTSTAMP:20261031T094922Z
 DTSTART:20270312T173000Z
 DTEND:20270314T113000Z
 SUMMARY:Zeitfenster vorläufig: FC Hertha Wels – FC Blau-Weiß Linz
+LOCATION:eww Stadion
 DESCRIPTION:Blau-Weiß Linz – ADMIRAL 2. Liga 2026/27\, Runde 19. Offizie
  lles Terminfenster: 12.03.2027 bis 14.03.2027. Anstoßzeit noch nicht fest
  gelegt. Vorläufiges durchgehendes Auswahlfenster anhand der offiziellen A
@@ -2361,15 +2368,16 @@ DESCRIPTION:Blau-Weiß Linz – ADMIRAL 2. Liga 2026/27\, Runde 19. Offizie
 URL:https://www.2liga.at/de/spielbericht/saison-2026-2027/56941/vorbericht
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
-SEQUENCE:1
-LAST-MODIFIED:20261018T064120Z
+SEQUENCE:2
+LAST-MODIFIED:20261031T094922Z
 END:VEVENT
 BEGIN:VEVENT
 UID:bw-2liga-2026-27-56945@fussball-kalender.julian
-DTSTAMP:20261018T064120Z
+DTSTAMP:20261031T094922Z
 DTSTART:20270319T173000Z
 DTEND:20270321T113000Z
 SUMMARY:Zeitfenster vorläufig: FC Blau-Weiß Linz – KSV 1919
+LOCATION:Hofmann Personal Stadion
 DESCRIPTION:Blau-Weiß Linz – ADMIRAL 2. Liga 2026/27\, Runde 20. Offizie
  lles Terminfenster: 19.03.2027 bis 21.03.2027. Anstoßzeit noch nicht fest
  gelegt. Vorläufiges durchgehendes Auswahlfenster anhand der offiziellen A
@@ -2382,15 +2390,16 @@ DESCRIPTION:Blau-Weiß Linz – ADMIRAL 2. Liga 2026/27\, Runde 20. Offizie
 URL:https://www.2liga.at/de/spielbericht/saison-2026-2027/56945/vorbericht
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
-SEQUENCE:1
-LAST-MODIFIED:20261018T064120Z
+SEQUENCE:2
+LAST-MODIFIED:20261031T094922Z
 END:VEVENT
 BEGIN:VEVENT
 UID:bw-2liga-2026-27-56960@fussball-kalender.julian
-DTSTAMP:20261018T064120Z
+DTSTAMP:20261031T094922Z
 DTSTART:20270402T163000Z
 DTEND:20270404T103000Z
 SUMMARY:Zeitfenster vorläufig: FC Wacker Innsbruck – FC Blau-Weiß Linz
+LOCATION:Tivoli Stadion
 DESCRIPTION:Blau-Weiß Linz – ADMIRAL 2. Liga 2026/27\, Runde 21. Offizie
  lles Terminfenster: 02.04.2027 bis 04.04.2027. Anstoßzeit noch nicht fest
  gelegt. Vorläufiges durchgehendes Auswahlfenster anhand der offiziellen A
@@ -2403,15 +2412,16 @@ DESCRIPTION:Blau-Weiß Linz – ADMIRAL 2. Liga 2026/27\, Runde 21. Offizie
 URL:https://www.2liga.at/de/spielbericht/saison-2026-2027/56960/vorbericht
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
-SEQUENCE:1
-LAST-MODIFIED:20261018T064120Z
+SEQUENCE:2
+LAST-MODIFIED:20261031T094922Z
 END:VEVENT
 BEGIN:VEVENT
 UID:bw-2liga-2026-27-56961@fussball-kalender.julian
-DTSTAMP:20261018T064120Z
+DTSTAMP:20261031T094922Z
 DTSTART:20270406T163000Z
 DTEND:20270407T203000Z
 SUMMARY:Zeitfenster vorläufig: FC Blau-Weiß Linz – SV Austria Salzburg
+LOCATION:Hofmann Personal Stadion
 DESCRIPTION:Blau-Weiß Linz – ADMIRAL 2. Liga 2026/27\, Runde 22. Offizie
  lles Terminfenster: 06.04.2027 bis 07.04.2027. Anstoßzeit noch nicht fest
  gelegt. Vorläufiges durchgehendes Auswahlfenster anhand der offiziellen A
@@ -2424,15 +2434,16 @@ DESCRIPTION:Blau-Weiß Linz – ADMIRAL 2. Liga 2026/27\, Runde 22. Offizie
 URL:https://www.2liga.at/de/spielbericht/saison-2026-2027/56961/vorbericht
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
-SEQUENCE:1
-LAST-MODIFIED:20261018T064120Z
+SEQUENCE:2
+LAST-MODIFIED:20261031T094922Z
 END:VEVENT
 BEGIN:VEVENT
 UID:bw-2liga-2026-27-56969@fussball-kalender.julian
-DTSTAMP:20261018T064120Z
+DTSTAMP:20261031T094922Z
 DTSTART:20270409T163000Z
 DTEND:20270411T103000Z
 SUMMARY:Zeitfenster vorläufig: Admira Wacker – FC Blau-Weiß Linz
+LOCATION:DATENPOL ARENA
 DESCRIPTION:Blau-Weiß Linz – ADMIRAL 2. Liga 2026/27\, Runde 23. Offizie
  lles Terminfenster: 09.04.2027 bis 11.04.2027. Anstoßzeit noch nicht fest
  gelegt. Vorläufiges durchgehendes Auswahlfenster anhand der offiziellen A
@@ -2445,16 +2456,17 @@ DESCRIPTION:Blau-Weiß Linz – ADMIRAL 2. Liga 2026/27\, Runde 23. Offizie
 URL:https://www.2liga.at/de/spielbericht/saison-2026-2027/56969/vorbericht
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
-SEQUENCE:1
-LAST-MODIFIED:20261018T064120Z
+SEQUENCE:2
+LAST-MODIFIED:20261031T094922Z
 END:VEVENT
 BEGIN:VEVENT
 UID:bw-2liga-2026-27-56977@fussball-kalender.julian
-DTSTAMP:20261018T064120Z
+DTSTAMP:20261031T094922Z
 DTSTART:20270416T163000Z
 DTEND:20270418T103000Z
 SUMMARY:Zeitfenster vorläufig: FC Blau-Weiß Linz – Young Violets Austri
  a Wien
+LOCATION:Hofmann Personal Stadion
 DESCRIPTION:Blau-Weiß Linz – ADMIRAL 2. Liga 2026/27\, Runde 24. Offizie
  lles Terminfenster: 16.04.2027 bis 18.04.2027. Anstoßzeit noch nicht fest
  gelegt. Vorläufiges durchgehendes Auswahlfenster anhand der offiziellen A
@@ -2467,15 +2479,16 @@ DESCRIPTION:Blau-Weiß Linz – ADMIRAL 2. Liga 2026/27\, Runde 24. Offizie
 URL:https://www.2liga.at/de/spielbericht/saison-2026-2027/56977/vorbericht
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
-SEQUENCE:1
-LAST-MODIFIED:20261018T064120Z
+SEQUENCE:2
+LAST-MODIFIED:20261031T094922Z
 END:VEVENT
 BEGIN:VEVENT
 UID:bw-2liga-2026-27-56985@fussball-kalender.julian
-DTSTAMP:20261018T064120Z
+DTSTAMP:20261031T094922Z
 DTSTART:20270423T163000Z
 DTEND:20270425T103000Z
 SUMMARY:Zeitfenster vorläufig: FC Blau-Weiß Linz – SKN St. Pölten
+LOCATION:Hofmann Personal Stadion
 DESCRIPTION:Blau-Weiß Linz – ADMIRAL 2. Liga 2026/27\, Runde 25. Offizie
  lles Terminfenster: 23.04.2027 bis 25.04.2027. Anstoßzeit noch nicht fest
  gelegt. Vorläufiges durchgehendes Auswahlfenster anhand der offiziellen A
@@ -2488,15 +2501,16 @@ DESCRIPTION:Blau-Weiß Linz – ADMIRAL 2. Liga 2026/27\, Runde 25. Offizie
 URL:https://www.2liga.at/de/spielbericht/saison-2026-2027/56985/vorbericht
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
-SEQUENCE:1
-LAST-MODIFIED:20261018T064120Z
+SEQUENCE:2
+LAST-MODIFIED:20261031T094922Z
 END:VEVENT
 BEGIN:VEVENT
 UID:bw-2liga-2026-27-56999@fussball-kalender.julian
-DTSTAMP:20261018T064120Z
+DTSTAMP:20261031T094922Z
 DTSTART:20270430T163000Z
 DTEND:20270502T103000Z
 SUMMARY:Zeitfenster vorläufig: SK Sturm Graz II – FC Blau-Weiß Linz
+LOCATION:Solarstadion Gleisdorf
 DESCRIPTION:Blau-Weiß Linz – ADMIRAL 2. Liga 2026/27\, Runde 26. Offizie
  lles Terminfenster: 30.04.2027 bis 02.05.2027. Anstoßzeit noch nicht fest
  gelegt. Vorläufiges durchgehendes Auswahlfenster anhand der offiziellen A
@@ -2509,15 +2523,16 @@ DESCRIPTION:Blau-Weiß Linz – ADMIRAL 2. Liga 2026/27\, Runde 26. Offizie
 URL:https://www.2liga.at/de/spielbericht/saison-2026-2027/56999/vorbericht
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
-SEQUENCE:1
-LAST-MODIFIED:20261018T064120Z
+SEQUENCE:2
+LAST-MODIFIED:20261031T094922Z
 END:VEVENT
 BEGIN:VEVENT
 UID:bw-2liga-2026-27-57002@fussball-kalender.julian
-DTSTAMP:20261018T064120Z
+DTSTAMP:20261031T094922Z
 DTSTART:20270507T163000Z
 DTEND:20270509T103000Z
 SUMMARY:Zeitfenster vorläufig: FC Liefering – FC Blau-Weiß Linz
+LOCATION:Red Bull Arena
 DESCRIPTION:Blau-Weiß Linz – ADMIRAL 2. Liga 2026/27\, Runde 27. Offizie
  lles Terminfenster: 07.05.2027 bis 09.05.2027. Anstoßzeit noch nicht fest
  gelegt. Vorläufiges durchgehendes Auswahlfenster anhand der offiziellen A
@@ -2530,15 +2545,16 @@ DESCRIPTION:Blau-Weiß Linz – ADMIRAL 2. Liga 2026/27\, Runde 27. Offizie
 URL:https://www.2liga.at/de/spielbericht/saison-2026-2027/57002/vorbericht
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
-SEQUENCE:1
-LAST-MODIFIED:20261018T064120Z
+SEQUENCE:2
+LAST-MODIFIED:20261031T094922Z
 END:VEVENT
 BEGIN:VEVENT
 UID:bw-2liga-2026-27-57009@fussball-kalender.julian
-DTSTAMP:20261018T064120Z
+DTSTAMP:20261031T094922Z
 DTSTART:20270514T163000Z
 DTEND:20270514T203000Z
 SUMMARY:Zeitfenster vorläufig: FC Blau-Weiß Linz – SK Rapid II
+LOCATION:Hofmann Personal Stadion
 DESCRIPTION:Blau-Weiß Linz – ADMIRAL 2. Liga 2026/27\, Runde 28. Offizie
  lles Terminfenster: 14.05.2027. Anstoßzeit noch nicht festgelegt. Vorläu
  figes durchgehendes Auswahlfenster anhand der offiziellen Anstoß-Slots (E
@@ -2551,15 +2567,16 @@ DESCRIPTION:Blau-Weiß Linz – ADMIRAL 2. Liga 2026/27\, Runde 28. Offizie
 URL:https://www.2liga.at/de/spielbericht/saison-2026-2027/57009/vorbericht
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
-SEQUENCE:1
-LAST-MODIFIED:20261018T064120Z
+SEQUENCE:2
+LAST-MODIFIED:20261031T094922Z
 END:VEVENT
 BEGIN:VEVENT
 UID:bw-2liga-2026-27-57024@fussball-kalender.julian
-DTSTAMP:20261018T061650Z
+DTSTAMP:20261031T094922Z
 DTSTART;VALUE=DATE:20270517
 DTEND;VALUE=DATE:20270518
 SUMMARY:Termin vorläufig: Schwarz-Weiss Bregenz – FC Blau-Weiß Linz
+LOCATION:ImmoAgentur Stadion
 DESCRIPTION:Blau-Weiß Linz – ADMIRAL 2. Liga 2026/27\, Runde 29. Offizie
  lles Terminfenster: 17.05.2027. Anstoßzeit noch nicht festgelegt. Ganztä
  giger Platzhalter für das Terminfenster\, keine bestätigte Uhrzeit. Quel
@@ -2567,19 +2584,40 @@ DESCRIPTION:Blau-Weiß Linz – ADMIRAL 2. Liga 2026/27\, Runde 29. Offizie
 URL:https://www.2liga.at/de/spielbericht/saison-2026-2027/57024/vorbericht
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
-SEQUENCE:0
+SEQUENCE:1
+LAST-MODIFIED:20261031T094922Z
 END:VEVENT
 BEGIN:VEVENT
 UID:bw-2liga-2026-27-57025@fussball-kalender.julian
-DTSTAMP:20261018T061650Z
+DTSTAMP:20261031T094922Z
 DTSTART;VALUE=DATE:20270523
 DTEND;VALUE=DATE:20270524
 SUMMARY:Termin vorläufig: FC Blau-Weiß Linz – SKU Ertl Glas Amstetten
+LOCATION:Hofmann Personal Stadion
 DESCRIPTION:Blau-Weiß Linz – ADMIRAL 2. Liga 2026/27\, Runde 30. Offizie
  lles Terminfenster: 23.05.2027. Anstoßzeit noch nicht festgelegt. Ganztä
  giger Platzhalter für das Terminfenster\, keine bestätigte Uhrzeit. Quel
  le: https://www.2liga.at/de/spielbericht/saison-2026-2027/57025/vorbericht
 URL:https://www.2liga.at/de/spielbericht/saison-2026-2027/57025/vorbericht
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+SEQUENCE:1
+LAST-MODIFIED:20261031T094922Z
+END:VEVENT
+BEGIN:VEVENT
+UID:bayern-test-20270105-ajax@fussball-kalender.julian
+DTSTAMP:20261031T094922Z
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270106
+SUMMARY:Termin vorläufig: FC Bayern München – Ajax Amsterdam
+LOCATION:Raila Odinga International Stadium at Talanta Sports City\, Nairob
+ i
+DESCRIPTION:FC Bayern München – Testspiel zur Eröffnung des neuen Natio
+ nalstadions in Nairobi. Datum bestätigt\, Anstoßzeit noch nicht festgele
+ gt. Quelle: https://fcbayern.com/de/news/2026/10/fc-bayern-in-kenia-gegen-
+ ajax-amsterdam
+URL:https://fcbayern.com/de/news/2026/10/fc-bayern-in-kenia-gegen-ajax-amst
+ erdam
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 SEQUENCE:0
