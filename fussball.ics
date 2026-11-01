@@ -891,49 +891,58 @@ UID:5dc247f0@fussball-kalender.julian
 DTSTAMP:20261031T094922Z
 DTSTART:20261031T160000Z
 DTEND:20261031T180000Z
-SUMMARY:First Vienna FC 1894 – FC Blau-Weiß Linz
+SUMMARY:First Vienna FC 1894 – FC Blau-Weiß Linz (0:6)
 LOCATION:Naturarena Hohe Warte
 DESCRIPTION:Blau-Weiß Linz – 2. Liga. Quelle: offizieller Vereinsspielpl
- an.
+ an.\nEndstand: 0:6. Ergebnisquelle: https://blauweiss-linz.at/news/sechsma
+ l-blau-weiss-traumabend-auf-der-hohen-warte/ (geprüft am 01.11.2026).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:First Vienna FC 1894 – FC Blau-Weiß Linz
 END:VALARM
-SEQUENCE:1
-LAST-MODIFIED:20261031T094922Z
+SEQUENCE:2
+LAST-MODIFIED:20261101T075534Z
 END:VEVENT
 BEGIN:VEVENT
 UID:8c274c82@fussball-kalender.julian
 DTSTAMP:20260912T084334Z
 DTSTART:20261031T173000Z
 DTEND:20261031T193000Z
-SUMMARY:FC Bayern München – Borussia Dortmund
+SUMMARY:FC Bayern München – Borussia Dortmund (2:2)
 LOCATION:Allianz Arena
 DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereinss
- pielplan.
+ pielplan.\nEndstand: 2:2. Ergebnisquelle: https://www.bundesliga.com/de/bu
+ ndesliga/news/fc-bayern-muenchen-borussia-dortmund-spieltag-8-spielbericht
+ -highlights-39814 (geprüft am 01.11.2026).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:FC Bayern München – Borussia Dortmund
 END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261101T075534Z
 END:VEVENT
 BEGIN:VEVENT
 UID:5eb1a9bc@fussball-kalender.julian
 DTSTAMP:20260905T084016Z
 DTSTART:20261031T183000Z
 DTEND:20261031T203000Z
-SUMMARY:LASK – WSG Tirol
+SUMMARY:LASK – WSG Tirol (2:1)
 LOCATION:Raiffeisen Arena
-DESCRIPTION:LASK – Bundesliga. Quelle: offizieller Vereinsspielplan.
+DESCRIPTION:LASK – Bundesliga. Quelle: offizieller Vereinsspielplan.\nEnd
+ stand: 2:1. Ergebnisquelle: https://www.lask.at/de/m/matches/pros/admiral-
+ bundesliga-26-27/11-runde-11 (geprüft am 01.11.2026).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:LASK – WSG Tirol
 END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261101T075534Z
 END:VEVENT
 BEGIN:VEVENT
 UID:1b97a52f@fussball-kalender.julian
@@ -1630,16 +1639,21 @@ UID:oefb-match-4104606@fussball-kalender.julian
 DTSTAMP:20260829T131441Z
 DTSTART:20261031T143000Z
 DTEND:20261031T163000Z
-SUMMARY:SC Marchtrenk – ASKÖ DONAU Linz
+SUMMARY:SC Marchtrenk – ASKÖ DONAU Linz (1:0)
 LOCATION:WIMBERGER ARENA Marchtrenk SC
 DESCRIPTION:ASKÖ DONAU Linz – Landesliga Ost. Quelle: offizieller ÖFB-S
- pielplan.
+ pielplan.\nEndstand: 1:0. Ergebnisquelle: https://www.ligaportal.at/ooe/la
+ ndesliga/landesliga-ost/spielberichte/130092-mitspielen-war-nicht-das-ziel
+ -marchtrenk-belohnt-seinen-klaren-plan-mit-einem-1-0-gegen-donau (geprüft
+  am 01.11.2026).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:SC Marchtrenk – ASKÖ DONAU Linz
 END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261101T075534Z
 END:VEVENT
 BEGIN:VEVENT
 UID:oefb-match-4104604@fussball-kalender.julian
