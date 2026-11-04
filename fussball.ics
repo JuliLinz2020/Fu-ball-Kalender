@@ -2052,32 +2052,40 @@ UID:ucl-bayern-2026-md4@fussball-kalender.julian
 DTSTAMP:20260829T180109Z
 DTSTART:20261103T200000Z
 DTEND:20261103T220000Z
-SUMMARY:Atlético Madrid – FC Bayern München
+SUMMARY:Atlético Madrid – FC Bayern München (0:2)
 LOCATION:Riyadh Air Metropolitano
 DESCRIPTION:FC Bayern München – UEFA Champions League\, Ligaphase Spielt
- ag 4. Quelle: offizielle UEFA-/Vereinsspielpläne.
+ ag 4. Quelle: offizielle UEFA-/Vereinsspielpläne.\nEndstand: 0:2. Ergebni
+ squelle: https://fcbayern.com/de/news/spielberichte/2026/11/spielbericht-c
+ hampions-league-atletico-madrid-fc-bayern (geprüft am 04.11.2026).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Atlético Madrid – FC Bayern München
 END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261104T070653Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ucl-lask-2026-md4@fussball-kalender.julian
 DTSTAMP:20260829T180109Z
 DTSTART:20261103T200000Z
 DTEND:20261103T220000Z
-SUMMARY:LASK – SK Slovan Bratislava
+SUMMARY:LASK – SK Slovan Bratislava (4:0)
 LOCATION:Oberösterreich Arena
 DESCRIPTION:LASK – UEFA Champions League\, Ligaphase Spieltag 4. Quelle: 
- offizielle UEFA-/Vereinsspielpläne.
+ offizielle UEFA-/Vereinsspielpläne.\nEndstand: 4:0. Ergebnisquelle: https
+ ://www.skslovan.com/zapasy/gamecenter.php?gameID=21259&type=stars (geprüf
+ t am 04.11.2026).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:LASK – SK Slovan Bratislava
 END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261104T070653Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ucl-lask-2026-md5@fussball-kalender.julian
