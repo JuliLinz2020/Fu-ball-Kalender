@@ -102,35 +102,37 @@ URL:https://calovo.de/f/sportschau/skispringen
 END:VEVENT
 BEGIN:VEVENT
 UID:fis-JP7796@julian-wintersport
-DTSTAMP:20261024T081731Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261120
-DTEND;VALUE=DATE:20261121
+DTSTAMP:20261105T075326Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Berlin:20261120T140000
 SUMMARY:Skispringen – Qualifikation Lillehammer (Herren)
 LOCATION:Lillehammer
 CATEGORIES:Skispringen
 TRANSP:TRANSPARENT
-STATUS:TENTATIVE
-DESCRIPTION:Terminquelle: FIS Weltcupkalender 2026/27. Startzeit noch nicht
-  bestätigt\; vorläufig ganztägig. Änderungen möglich.
-URL:https://www.fis-ski.com/DB/general/results.html?sectorcode=JP&raceid=77
- 96
+STATUS:CONFIRMED
+DESCRIPTION:Qualifikation laut FIS-Datum und Veranstalterprogramm Lillehamm
+ er\, geprüft 05.11.2026. Österreichische Zeit. Ende nicht bestätigt\; w
+ etterbedingte Änderungen möglich.
+URL:https://www.wclhmr.no/en/program
+X-JULIAN-TIME-STATUS:OFFICIAL-SCHEDULE
+LAST-MODIFIED:20261105T075326Z
 END:VEVENT
 BEGIN:VEVENT
 UID:fis-JP7798@julian-wintersport
-DTSTAMP:20261024T081731Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261120
-DTEND;VALUE=DATE:20261121
+DTSTAMP:20261105T075326Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Berlin:20261120T103000
 SUMMARY:Skispringen – Qualifikation Lillehammer (Damen)
 LOCATION:Lillehammer
 CATEGORIES:Skispringen
 TRANSP:TRANSPARENT
-STATUS:TENTATIVE
-DESCRIPTION:Terminquelle: FIS Weltcupkalender 2026/27. Startzeit noch nicht
-  bestätigt\; vorläufig ganztägig. Änderungen möglich.
-URL:https://www.fis-ski.com/DB/general/results.html?sectorcode=JP&raceid=77
- 98
+STATUS:CONFIRMED
+DESCRIPTION:Qualifikation laut FIS-Datum und Veranstalterprogramm Lillehamm
+ er\, geprüft 05.11.2026. Österreichische Zeit. Ende nicht bestätigt\; w
+ etterbedingte Änderungen möglich.
+URL:https://www.wclhmr.no/en/program
+X-JULIAN-TIME-STATUS:OFFICIAL-SCHEDULE
+LAST-MODIFIED:20261105T075326Z
 END:VEVENT
 BEGIN:VEVENT
 UID:0ea2fa7031c1b5be24c1d8f1a9f2@julian-wintersport
@@ -149,18 +151,23 @@ URL:https://calovo.de/f/sportschau/skispringen
 END:VEVENT
 BEGIN:VEVENT
 UID:897f3391e11bf19258515831280a@julian-wintersport
-DTSTAMP:20261024T081731Z
+DTSTAMP:20261105T075326Z
 DTSTART;TZID=Europe/Berlin:20261121T143500
 DTEND;TZID=Europe/Berlin:20261121T163500
-STATUS:CONFIRMED
-SEQUENCE:584
+STATUS:TENTATIVE
+SEQUENCE:585
 LOCATION:Lysgårdsbakken HS 140\, Lillehammer\, Norwegen
 SUMMARY:Skispringen Lillehammer HS 140 Einzel (Frauen)
 CATEGORIES:Skispringen
 TRANSP:TRANSPARENT
-DESCRIPTION:Eigener gemeinsamer Wintersportkalender. Terminbasis: Sportscha
- u / calovo. Änderungen vorbehalten.
+DESCRIPTION:Vorläufige Planzeit 14:35 am 21.11.2026. FIS führt diesen Tag
+  als Damen-Einzelweltcup\; das Veranstalterprogramm bezeichnet den Program
+ mpunkt um 14:35 als Qualifikation. Art/Startzeit des Hauptbewerbs noch wid
+ ersprüchlich\, geprüft 05.11.2026. Keine zusätzliche Qualifikation ohne
+  Bestätigung angelegt.
 URL:https://calovo.de/f/sportschau/skispringen
+X-JULIAN-TIME-STATUS:SOURCE-CONFLICT
+LAST-MODIFIED:20261105T075326Z
 END:VEVENT
 BEGIN:VEVENT
 UID:efd5055e902c89120b9bdb2a3f71@julian-wintersport
@@ -224,35 +231,37 @@ URL:https://calovo.de/f/sportschau/skispringen
 END:VEVENT
 BEGIN:VEVENT
 UID:fis-JP8010@julian-wintersport
-DTSTAMP:20261024T081731Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261122
-DTEND;VALUE=DATE:20261123
+DTSTAMP:20261105T075326Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Berlin:20261122T143000
 SUMMARY:Skispringen – Qualifikation Lillehammer (Herren)
 LOCATION:Lillehammer
 CATEGORIES:Skispringen
 TRANSP:TRANSPARENT
-STATUS:TENTATIVE
-DESCRIPTION:Terminquelle: FIS Weltcupkalender 2026/27. Startzeit noch nicht
-  bestätigt\; vorläufig ganztägig. Änderungen möglich.
-URL:https://www.fis-ski.com/DB/general/results.html?sectorcode=JP&raceid=80
- 10
+STATUS:CONFIRMED
+DESCRIPTION:Qualifikation laut FIS-Datum und Veranstalterprogramm Lillehamm
+ er\, geprüft 05.11.2026. Österreichische Zeit. Ende nicht bestätigt\; w
+ etterbedingte Änderungen möglich.
+URL:https://www.wclhmr.no/en/program
+X-JULIAN-TIME-STATUS:OFFICIAL-SCHEDULE
+LAST-MODIFIED:20261105T075326Z
 END:VEVENT
 BEGIN:VEVENT
 UID:fis-JP8011@julian-wintersport
-DTSTAMP:20261024T081731Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261122
-DTEND;VALUE=DATE:20261123
+DTSTAMP:20261105T075326Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Berlin:20261122T103000
 SUMMARY:Skispringen – Qualifikation Lillehammer (Damen)
 LOCATION:Lillehammer
 CATEGORIES:Skispringen
 TRANSP:TRANSPARENT
-STATUS:TENTATIVE
-DESCRIPTION:Terminquelle: FIS Weltcupkalender 2026/27. Startzeit noch nicht
-  bestätigt\; vorläufig ganztägig. Änderungen möglich.
-URL:https://www.fis-ski.com/DB/general/results.html?sectorcode=JP&raceid=80
- 11
+STATUS:CONFIRMED
+DESCRIPTION:Qualifikation laut FIS-Datum und Veranstalterprogramm Lillehamm
+ er\, geprüft 05.11.2026. Österreichische Zeit. Ende nicht bestätigt\; w
+ etterbedingte Änderungen möglich.
+URL:https://www.wclhmr.no/en/program
+X-JULIAN-TIME-STATUS:OFFICIAL-SCHEDULE
+LAST-MODIFIED:20261105T075326Z
 END:VEVENT
 BEGIN:VEVENT
 UID:248fe965366485ea05e3786ee208@julian-wintersport
@@ -864,22 +873,21 @@ URL:https://calovo.de/f/sportschau/biathlon
 END:VEVENT
 BEGIN:VEVENT
 UID:30788b74711381acbd148d253c9b@julian-wintersport
-DTSTAMP:20261029T075346Z
+DTSTAMP:20261105T075326Z
 DTSTART;TZID=Europe/Berlin:20261212T190000
-DTEND;TZID=Europe/Berlin:20261212T210000
-STATUS:TENTATIVE
-SEQUENCE:265
+STATUS:CONFIRMED
+SEQUENCE:266
 LOCATION:Birds of Prey / Golden Eagle\, Beaver Creek\, CO\, USA
 SUMMARY:Ski Alpin Beaver Creek Abfahrt (Frauen)
 CATEGORIES:Ski alpin
 TRANSP:TRANSPARENT
-DESCRIPTION:Startzeit vorläufig\, Quellenwiderspruch am 29.10.2026: FIS-Da
- tenbank: 18:00 MEZ\; FIS-Infosheet: 19:00 MEZ. Bisherige veröffentlichte 
- Planzeit beibehalten\; endgültige Bestätigung offen. Zweiter Durchgang s
- eparat eingetragen\, soweit vorhanden.
-URL:https://calovo.de/f/sportschau/ski-alpin
-X-JULIAN-TIME-STATUS:SOURCE-CONFLICT
-LAST-MODIFIED:20261029T075346Z
+DESCRIPTION:Start 19:00 MEZ jetzt übereinstimmend in FIS-Datenbank (aktual
+ isiert 02.11.2026) und FIS-Infosheet. Geprüft am 05.11.2026. Quellenwider
+ spruch aufgelöst. Ende nicht bestätigt.
+URL:https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=13
+ 1602
+X-JULIAN-TIME-STATUS:OFFICIAL-SCHEDULE
+LAST-MODIFIED:20261105T075326Z
 END:VEVENT
 BEGIN:VEVENT
 UID:54e63b6c26ede0ec3ac2b0d59d14@julian-wintersport
@@ -7212,73 +7220,111 @@ URL:https://assets.fis-ski.com/f/252177/x/8399f37ec9/complett_finaldoc_26_2
 END:VEVENT
 BEGIN:VEVENT
 UID:fis-AL131852@julian-wintersport
-DTSTAMP:20261029T075346Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270210
-DTEND;VALUE=DATE:20270211
+DTSTAMP:20261105T075326Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Berlin:20270210T090000
 SUMMARY:Ski alpin WM Crans-Montana – Riesenslalom – Qualifikation (Dame
  n)
 CATEGORIES:Ski alpin
 LOCATION:Crans-Montana\, Schweiz
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-JULIAN-TIME-STATUS:UNCONFIRMED
-DESCRIPTION:Datum laut FIS-WM-Kalender und Veranstalter\, geprüft 29.10.20
- 26. Startzeit noch nicht bestätigt\; transparenter ganztägiger Terminmar
- ker.
-URL:https://www.cransmontana2027.ch/de/wettkaempfe/rennprogramm/
+X-JULIAN-TIME-STATUS:OFFICIAL-SCHEDULE
+DESCRIPTION:Startzeit laut aktueller FIS-WM-Datenbank\, geprüft 05.11.2026
+ . Österreichische Zeit. Änderungen möglich\; Ende noch nicht bestätigt
+ .
+URL:https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=13
+ 1852
+LAST-MODIFIED:20261105T075326Z
 END:VEVENT
 BEGIN:VEVENT
 UID:fis-AL131855@julian-wintersport
-DTSTAMP:20261029T075346Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270211
-DTEND;VALUE=DATE:20270212
+DTSTAMP:20261105T075326Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Berlin:20270211T090000
 SUMMARY:Ski alpin WM Crans-Montana – Riesenslalom – Qualifikation (Herr
  en)
 CATEGORIES:Ski alpin
 LOCATION:Crans-Montana\, Schweiz
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-JULIAN-TIME-STATUS:UNCONFIRMED
-DESCRIPTION:Datum laut FIS-WM-Kalender und Veranstalter\, geprüft 29.10.20
- 26. Startzeit noch nicht bestätigt\; transparenter ganztägiger Terminmar
- ker.
-URL:https://www.cransmontana2027.ch/de/wettkaempfe/rennprogramm/
+X-JULIAN-TIME-STATUS:OFFICIAL-SCHEDULE
+DESCRIPTION:Startzeit laut aktueller FIS-WM-Datenbank\, geprüft 05.11.2026
+ . Österreichische Zeit. Änderungen möglich\; Ende noch nicht bestätigt
+ .
+URL:https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=13
+ 1855
+LAST-MODIFIED:20261105T075326Z
 END:VEVENT
 BEGIN:VEVENT
 UID:fis-AL131856@julian-wintersport
-DTSTAMP:20261029T075346Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270212
-DTEND;VALUE=DATE:20270213
+DTSTAMP:20261105T075326Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Berlin:20270212T090000
 SUMMARY:Ski alpin WM Crans-Montana – Slalom – Qualifikation (Damen)
 CATEGORIES:Ski alpin
 LOCATION:Crans-Montana\, Schweiz
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-JULIAN-TIME-STATUS:UNCONFIRMED
-DESCRIPTION:Datum laut FIS-WM-Kalender und Veranstalter\, geprüft 29.10.20
- 26. Startzeit noch nicht bestätigt\; transparenter ganztägiger Terminmar
- ker.
-URL:https://www.cransmontana2027.ch/de/wettkaempfe/rennprogramm/
+X-JULIAN-TIME-STATUS:OFFICIAL-SCHEDULE
+DESCRIPTION:Startzeit laut aktueller FIS-WM-Datenbank\, geprüft 05.11.2026
+ . Österreichische Zeit. Änderungen möglich\; Ende noch nicht bestätigt
+ .
+URL:https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=13
+ 1856
+LAST-MODIFIED:20261105T075326Z
 END:VEVENT
 BEGIN:VEVENT
 UID:fis-AL131859@julian-wintersport
-DTSTAMP:20261029T075346Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270213
-DTEND;VALUE=DATE:20270214
+DTSTAMP:20261105T075326Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Berlin:20270213T090000
 SUMMARY:Ski alpin WM Crans-Montana – Slalom – Qualifikation (Herren)
 CATEGORIES:Ski alpin
 LOCATION:Crans-Montana\, Schweiz
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-JULIAN-TIME-STATUS:UNCONFIRMED
-DESCRIPTION:Datum laut FIS-WM-Kalender und Veranstalter\, geprüft 29.10.20
- 26. Startzeit noch nicht bestätigt\; transparenter ganztägiger Terminmar
- ker.
-URL:https://www.cransmontana2027.ch/de/wettkaempfe/rennprogramm/
+X-JULIAN-TIME-STATUS:OFFICIAL-SCHEDULE
+DESCRIPTION:Startzeit laut aktueller FIS-WM-Datenbank\, geprüft 05.11.2026
+ . Österreichische Zeit. Änderungen möglich\; Ende noch nicht bestätigt
+ .
+URL:https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=13
+ 1859
+LAST-MODIFIED:20261105T075326Z
+END:VEVENT
+BEGIN:VEVENT
+UID:fis-AL131684@julian-wintersport
+DTSTAMP:20261105T075326Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Berlin:20270313T110000
+SUMMARY:Ski alpin Kvitfjell Super-G (Damen)
+CATEGORIES:Ski alpin
+LOCATION:Kvitfjell\, Norwegen
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-JULIAN-TIME-STATUS:OFFICIAL-SCHEDULE
+URL:https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=13
+ 1684
+DESCRIPTION:Ersatzveranstaltung für Narvik. Termin und Startzeit laut FIS-
+ Weltcupdatenbank\, geprüft 05.11.2026. Start 11:00 MEZ\; Ende nicht best
+ ätigt. Verlegung durch FIS und nationalen Verband veröffentlicht.
+END:VEVENT
+BEGIN:VEVENT
+UID:fis-AL131683@julian-wintersport
+DTSTAMP:20261105T075326Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Berlin:20270312T110000
+SUMMARY:Ski alpin Kvitfjell Abfahrt (Damen)
+CATEGORIES:Ski alpin
+LOCATION:Kvitfjell\, Norwegen
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-JULIAN-TIME-STATUS:OFFICIAL-SCHEDULE
+URL:https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=13
+ 1683
+DESCRIPTION:Ersatzveranstaltung für Narvik. Termin und Startzeit laut FIS-
+ Weltcupdatenbank\, geprüft 05.11.2026. Start 11:00 MEZ\; Ende nicht best
+ ätigt. Verlegung durch FIS und nationalen Verband veröffentlicht.
 END:VEVENT
 END:VCALENDAR
 
