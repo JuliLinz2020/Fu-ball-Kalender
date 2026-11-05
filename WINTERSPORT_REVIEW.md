@@ -1,3 +1,28 @@
+# Wintersportkalender – geprüfter Stand 05.11.2026
+
+Aktuell: **414 Einträge**. Alle 412 zuvor veröffentlichten UIDs erhalten; 402 bestehende VEVENT-Blöcke unverändert, 10 gezielt aktualisiert, 2 ergänzt. Abo-URL unverändert.
+
+## Prüfung 05.11.2026
+
+- Aktuelle offizielle FIS-ICS-Dateien für AL/WC, AL/WSC, JP/WC und JP/WSC vollständig abgerufen und gegen die vorhandenen Termine nach Datum, Geschlecht und Disziplin abgeglichen. IBU-Events und Competitions für alle 11 Blöcke erneut abgerufen: alle 70 Renntermine/Startzeiten stimmen mit dem Kalender überein. Keine neue belegte Absage festgestellt.
+- Zwei zuvor fehlende Damenrennen ergänzt: Kvitfjell 12.03.2027 Abfahrt und 13.03.2027 Super-G, beide 11:00 MEZ laut FIS-Datenbank. Ersatz für Narvik, bestätigt durch FIS-Datenbank und FISI-Mitteilung vom 29.10.2026. IDs fis-AL131683@julian-wintersport und fis-AL131684@julian-wintersport; keine geschätzten Endzeiten.
+- Vier alpine WM-Qualifikationen behalten ihre IDs und haben jetzt die in der aktuellen FIS-Datenbank publizierte Startzeit 09:00 MEZ: Damen-GS 10.02., Herren-GS 11.02., Damen-SL 12.02., Herren-SL 13.02.2027. IDs fis-AL131852/55/56/59@julian-wintersport.
+- Vier Lillehammer-Qualifikationen mit Veranstalterstartzeiten versehen: 20.11. Damen 10:30, Herren 14:00; 22.11. Damen 10:30, Herren 14:30. FIS bestätigt Datum/Geschlecht. UIDs fis-JP7798/7796/8011/8010@julian-wintersport erhalten.
+- Beaver Creek Damen-Abfahrt 12.12.2026: 19:00 MEZ jetzt konsistent zwischen FIS-Datenbank (LAST-MODIFIED 02.11.2026) und Infosheet. Konfliktmarkierung entfernt, Status CONFIRMED.
+- Die drei Konflikte Val d’Isère 12./13.12.2026 und Åre 13.03.2027 bleiben vorläufig, da bisheriger Infosheet-Stand und aktuelle FIS-Datenbank abweichen.
+- Lillehammer Damen 21.11.2026 14:35 als vorläufigen Quellenkonflikt markiert: FIS nennt diesen Tag Damen-Einzelweltcup, Veranstalter nennt den Programmpunkt um 14:35 Qualifikation. Vorhandene Planzeit/UID erhalten; keine zusätzliche unbestätigte Qualifikation erzeugt.
+- Unbekannte zweite Durchgangszeiten weiterhin transparent ganztägig. Keine geschätzten Start-/Endzeiten ergänzt.
+- Generator wegen der unten beschriebenen sekundären Quellenprobleme nicht blind ausgeführt/veröffentlicht. Neue Einträge werden unabhängig von Quell-UID-Dubletten gegen die aktuelle Live-Datei geprüft.
+
+Zusätzliche Quellen:
+- https://www.wclhmr.no/en/program
+- https://www.fisi.org/coppa-del-mondo-femminile-kvitfjell-prende-il-posto-di-narvik-per-le-gare-veloci-di-marzo/
+- https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=131683
+- https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=131684
+- https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=131602
+
+---
+
 # Wintersportkalender – geprüfter Stand 29.10.2026
 
 Die maßgebliche veröffentlichte Datei ist `wintersport.ics`. Abo-Adresse beibehalten. Alle bisherigen 408 UIDs wurden erhalten; vier bestätigte alpine WM-Qualifikationen wurden hinzugefügt (insgesamt 412 Einträge einschließlich separater zweiter Durchgänge).
