@@ -992,6 +992,22 @@ DESCRIPTION:SV Oberbank Ried – LASK
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:bw-test-20261113-regensburg@fussball-kalender.julian
+DTSTAMP:20261107T093740Z
+DTSTART:20261113T130000Z
+DTEND:20261113T150000Z
+SUMMARY:Jahn Regensburg – FC Blau-Weiß Linz
+LOCATION:Sportpark Kaulbachweg
+DESCRIPTION:Blau-Weiß Linz – Testspiel. Quelle: offizieller Vereinsspiel
+ plan.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Jahn Regensburg – FC Blau-Weiß Linz
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:df26b8bc@fussball-kalender.julian
 DTSTAMP:20260711T120102Z
 DTSTART:20261120T173000Z
@@ -1102,15 +1118,38 @@ DESCRIPTION:FC Blau-Weiß Linz – Schwarz-Weiß Bregenz
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:dfb-pokal-bayern-2026-r3@fussball-kalender.julian
+DTSTAMP:20261107T093740Z
+DTSTART:20261201T194500Z
+DTEND:20261201T214500Z
+SUMMARY:FC Bayern München – Hertha BSC
+LOCATION:Allianz Arena
+DESCRIPTION:FC Bayern München – DFB-Pokal\, Achtelfinale. Quelle: offizi
+ eller Vereinsspielplan.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:FC Bayern München – Hertha BSC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:54d4c125@fussball-kalender.julian
-DTSTAMP:20260711T120102Z
-DTSTART:20261203T230000Z
-DTEND:20261206T225900Z
-SUMMARY:Termin vorläufig: FC Bayern München – SC Paderborn 07
+DTSTAMP:20261107T093740Z
+DTSTART:20261204T193000Z
+DTEND:20261204T213000Z
+SUMMARY:FC Bayern München – SC Paderborn 07
 LOCATION:Allianz Arena
 DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereinss
- pielplan. Datum und Anstoßzeit sind noch nicht endgültig festgelegt.
+ pielplan.
 TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:FC Bayern München – SC Paderborn 07
+END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261107T093740Z
 END:VEVENT
 BEGIN:VEVENT
 UID:593b8c26@fussball-kalender.julian
@@ -1147,14 +1186,21 @@ LAST-MODIFIED:20261031T094922Z
 END:VEVENT
 BEGIN:VEVENT
 UID:d07553b4@fussball-kalender.julian
-DTSTAMP:20260711T120102Z
-DTSTART:20261210T230000Z
-DTEND:20261213T225900Z
-SUMMARY:Termin vorläufig: TSG Hoffenheim – FC Bayern München
+DTSTAMP:20261107T093740Z
+DTSTART:20261213T163000Z
+DTEND:20261213T183000Z
+SUMMARY:TSG Hoffenheim – FC Bayern München
 LOCATION:SNP Arena
 DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereinss
- pielplan. Datum und Anstoßzeit sind noch nicht endgültig festgelegt.
+ pielplan.
 TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:TSG Hoffenheim – FC Bayern München
+END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261107T093740Z
 END:VEVENT
 BEGIN:VEVENT
 UID:e165320d@fussball-kalender.julian
@@ -1173,58 +1219,93 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:222d2874@fussball-kalender.julian
-DTSTAMP:20260711T120102Z
-DTSTART:20261217T230000Z
-DTEND:20261220T225900Z
-SUMMARY:Termin vorläufig: FC Bayern München – Werder Bremen
+DTSTAMP:20261107T093740Z
+DTSTART:20261218T193000Z
+DTEND:20261218T213000Z
+SUMMARY:FC Bayern München – SV Werder Bremen
 LOCATION:Allianz Arena
 DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereinss
- pielplan. Datum und Anstoßzeit sind noch nicht endgültig festgelegt.
+ pielplan.
 TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:FC Bayern München – SV Werder Bremen
+END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261107T093740Z
 END:VEVENT
 BEGIN:VEVENT
 UID:271d875@fussball-kalender.julian
-DTSTAMP:20260711T120102Z
-DTSTART:20270107T230000Z
-DTEND:20270110T225900Z
-SUMMARY:Termin vorläufig: Borussia Mönchengladbach – FC Bayern München
+DTSTAMP:20261107T093740Z
+DTSTART:20270109T173000Z
+DTEND:20270109T193000Z
+SUMMARY:Borussia Mönchengladbach – FC Bayern München
 LOCATION:Borussia-Park
 DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereinss
- pielplan. Datum und Anstoßzeit sind noch nicht endgültig festgelegt.
+ pielplan.
 TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Borussia Mönchengladbach – FC Bayern München
+END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261107T093740Z
 END:VEVENT
 BEGIN:VEVENT
 UID:804db37c@fussball-kalender.julian
-DTSTAMP:20260711T120102Z
-DTSTART:20270111T230000Z
-DTEND:20270114T225900Z
-SUMMARY:Termin vorläufig: FC Bayern München – Bayer 04 Leverkusen
+DTSTAMP:20261107T093740Z
+DTSTART:20270113T193000Z
+DTEND:20270113T213000Z
+SUMMARY:FC Bayern München – Bayer 04 Leverkusen
 LOCATION:Allianz Arena
 DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereinss
- pielplan. Datum und Anstoßzeit sind noch nicht endgültig festgelegt.
+ pielplan.
 TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:FC Bayern München – Bayer 04 Leverkusen
+END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261107T093740Z
 END:VEVENT
 BEGIN:VEVENT
 UID:c0fa782d@fussball-kalender.julian
-DTSTAMP:20260711T120102Z
-DTSTART:20270114T230000Z
-DTEND:20270117T225900Z
-SUMMARY:Termin vorläufig: Eintracht Frankfurt – FC Bayern München
+DTSTAMP:20261107T093740Z
+DTSTART:20270116T173000Z
+DTEND:20270116T193000Z
+SUMMARY:Eintracht Frankfurt – FC Bayern München
 LOCATION:Deutsche Bank Park
 DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereinss
- pielplan. Datum und Anstoßzeit sind noch nicht endgültig festgelegt.
+ pielplan.
 TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Eintracht Frankfurt – FC Bayern München
+END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261107T093740Z
 END:VEVENT
 BEGIN:VEVENT
 UID:a995428a@fussball-kalender.julian
-DTSTAMP:20260711T120102Z
-DTSTART:20270121T230000Z
-DTEND:20270124T225900Z
-SUMMARY:Termin vorläufig: VfB Stuttgart – FC Bayern München
+DTSTAMP:20261107T093740Z
+DTSTART:20270123T143000Z
+DTEND:20270123T163000Z
+SUMMARY:VfB Stuttgart – FC Bayern München
 LOCATION:MHP Arena
 DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereinss
- pielplan. Datum und Anstoßzeit sind noch nicht endgültig festgelegt.
+ pielplan.
 TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:VfB Stuttgart – FC Bayern München
+END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261107T093740Z
 END:VEVENT
 BEGIN:VEVENT
 UID:84063b02@fussball-kalender.julian
@@ -1279,6 +1360,19 @@ SUMMARY:Termin vorläufig: LASK – RZ Pellets WAC
 LOCATION:Raiffeisen Arena
 DESCRIPTION:LASK – Bundesliga. Quelle: offizieller Vereinsspielplan. Datu
  m und Anstoßzeit sind noch nicht endgültig festgelegt.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:oefb-cup-lask-2027-qf@fussball-kalender.julian
+DTSTAMP:20261107T093740Z
+DTSTART:20270209T230000Z
+DTEND:20270211T225900Z
+SUMMARY:Termin vorläufig: LASK – FC Red Bull Salzburg
+LOCATION:Raiffeisen Arena
+DESCRIPTION:LASK – UNIQA ÖFB-Cup\, Viertelfinale. Quelle: offizieller Ve
+ reinsspielplan. Datum und Anstoßzeit sind noch nicht endgültig festgeleg
+ t.
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2315,11 +2409,11 @@ LAST-MODIFIED:20261018T063616Z
 END:VEVENT
 BEGIN:VEVENT
 UID:oefb-match-4198332@fussball-kalender.julian
-DTSTAMP:20261017T081125Z
+DTSTAMP:20261017T081125Z
 DTSTART:20270226T190000Z
 DTEND:20270226T210000Z
 SUMMARY:SPG Allhaming/Weißkirchen Juniors 1b – ASKÖ DONAU Linz
-LOCATION:Sportpark am Weyerbach-Weißkirchen
+LOCATION:Sportpark am Weyerbach-Weißkirchen
 DESCRIPTION:ASKÖ DONAU Linz – Testspiel. Quelle: offizieller ÖFB-Spielp
  lan.
 TRANSP:TRANSPARENT
