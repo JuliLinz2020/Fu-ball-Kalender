@@ -1660,16 +1660,20 @@ UID:oefb-match-4104604@fussball-kalender.julian
 DTSTAMP:20260829T131441Z
 DTSTART:20261106T180000Z
 DTEND:20261106T200000Z
-SUMMARY:ASKÖ DONAU Linz – Union Ansfelden
+SUMMARY:ASKÖ DONAU Linz – Union Ansfelden (4:0)
 LOCATION:LINZ AG Arena
 DESCRIPTION:ASKÖ DONAU Linz – Landesliga Ost. Quelle: offizieller ÖFB-S
- pielplan.
+ pielplan.\nEndstand: 4:0. Ergebnisquelle: https://ticker.ligaportal.at/liv
+ e-ticker/1264041/askoe-donau-linz-gegen-union-ansfelden (geprüft am 07.11
+ .2026).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:ASKÖ DONAU Linz – Union Ansfelden
 END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261107T071613Z
 END:VEVENT
 BEGIN:VEVENT
 UID:oefb-match-4166889@fussball-kalender.julian
