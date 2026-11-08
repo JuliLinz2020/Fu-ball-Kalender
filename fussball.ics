@@ -949,47 +949,58 @@ UID:1b97a52f@fussball-kalender.julian
 DTSTAMP:20260711T120102Z
 DTSTART:20261107T163000Z
 DTEND:20261107T183000Z
-SUMMARY:FC Blau-Weiß Linz – FAC Wien
+SUMMARY:FC Blau-Weiß Linz – FAC Wien (3:0)
 LOCATION:Hofmann Personal Stadion
 DESCRIPTION:Blau-Weiß Linz – 2. Liga. Quelle: offizieller Vereinsspielpl
- an.
+ an.\nEndstand: 3:0. Ergebnisquelle: https://www.2liga.at/de/spielbericht/s
+ aison-2026-2027/56881/matchcenter (geprüft am 08.11.2026).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:FC Blau-Weiß Linz – FAC Wien
 END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261108T075058Z
 END:VEVENT
 BEGIN:VEVENT
 UID:886a96be@fussball-kalender.julian
 DTSTAMP:20260912T084334Z
 DTSTART:20261107T143000Z
 DTEND:20261107T163000Z
-SUMMARY:1. FSV Mainz 05 – FC Bayern München
+SUMMARY:1. FSV Mainz 05 – FC Bayern München (1:2)
 LOCATION:MEWA Arena
 DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereinss
- pielplan.
+ pielplan.\nEndstand: 1:2. Ergebnisquelle: https://fcbayern.com/de/news/spi
+ elberichte/2026/11/spielbericht-bundesliga-1.-fsv-mainz-05-fc-bayern (gepr
+ üft am 08.11.2026).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:1. FSV Mainz 05 – FC Bayern München
 END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261108T075058Z
 END:VEVENT
 BEGIN:VEVENT
 UID:11d4cf3e@fussball-kalender.julian
 DTSTAMP:20260905T084016Z
 DTSTART:20261107T183000Z
 DTEND:20261107T203000Z
-SUMMARY:SV Oberbank Ried – LASK
+SUMMARY:SV Oberbank Ried – LASK (2:4)
 LOCATION:BWT Oberösterreichische Arena
-DESCRIPTION:LASK – Bundesliga. Quelle: offizieller Vereinsspielplan.
+DESCRIPTION:LASK – Bundesliga. Quelle: offizieller Vereinsspielplan.\nEnd
+ stand: 2:4. Ergebnisquelle: https://www.bundesliga.at/de/spielbericht/sais
+ on-2026-2027/56729/matchcenter (geprüft am 08.11.2026).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:SV Oberbank Ried – LASK
 END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261108T075058Z
 END:VEVENT
 BEGIN:VEVENT
 UID:bw-test-20261113-regensburg@fussball-kalender.julian
