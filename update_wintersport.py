@@ -160,20 +160,20 @@ ALPINE_SCHEDULES = {'390adea0f863f49942b708c094eb@julian-wintersport': {'date': 
                                                      'source_checked': '2026-10-25'},
  '65441efa4c973fd768e5d7b36eab@julian-wintersport': {'date': '20261212',
                                                      'summary': 'Ski Alpin Val dIsere Riesenslalom (Männer)',
-                                                     'first_time': '0930',
+                                                     'first_time': '1000',
                                                      'second_time': '1300',
                                                      'timezone': 'Europe/Berlin',
-                                                     'source_url': 'https://assets.fis-ski.com/f/252177/x/8399f37ec9/complett_finaldoc_26_27_v1_21-10-2026.pdf',
+                                                     'source_url': 'https://www.worldcup-valdisere.com/agenda/',
                                                      'pdf_page_index': 16,
-                                                     'source_checked': '2026-10-25'},
+                                                     'source_checked': '2026-11-12'},
  '8a868643eef0ac5da4eb88259e4d@julian-wintersport': {'date': '20261213',
                                                      'summary': 'Ski Alpin Val dIsere Slalom (Männer)',
-                                                     'first_time': '0930',
+                                                     'first_time': '1000',
                                                      'second_time': '1300',
                                                      'timezone': 'Europe/Berlin',
-                                                     'source_url': 'https://assets.fis-ski.com/f/252177/x/8399f37ec9/complett_finaldoc_26_27_v1_21-10-2026.pdf',
+                                                     'source_url': 'https://www.worldcup-valdisere.com/agenda/',
                                                      'pdf_page_index': 16,
-                                                     'source_checked': '2026-10-25'},
+                                                     'source_checked': '2026-11-12'},
  '10e7940d641ac6de1b9124135126@julian-wintersport': {'date': '20261220',
                                                      'summary': 'Ski Alpin St. Moritz Riesenslalom (Frauen)',
                                                      'first_time': '0930',
@@ -836,4 +836,5 @@ if __name__ == '__main__':
     calendar,counts = build(feeds, previous)
     (ROOT/'wintersport.ics').write_bytes(calendar.encode('utf-8'))
     print(counts, 'plus',len(WM),'WM events. Total:',calendar.count('BEGIN:VEVENT'))
+
 
