@@ -1,3 +1,28 @@
+# Wintersportkalender – geprüfter Stand 12.11.2026
+
+Aktuell **415 Einträge**. Alle 414 bisherigen UIDs erhalten. 410 bestehende VEVENT-Blöcke unverändert, vier aktualisiert, eine neue bestätigte Qualifikation ergänzt.
+
+## Prüfung 12.11.2026
+
+- FIS AL/WC, AL/WSC, JP/WC und JP/WSC frisch abgerufen und mit der aktuellen Live-Datei abgeglichen. Neue/entfernte FIS-JP-UIDs und Änderungen von Datum, Ort, Bewerb, Status mit dem Abruf 05.11. verglichen. Keine neue belegte Rennabsage in den abgerufenen FIS-Daten.
+- Val d’Isère Herren-Riesenslalom 12.12.2026 und Herren-Slalom 13.12.2026: erster Lauf jetzt 10:00 MEZ statt 09:30. Aktuelles Veranstalterprogramm stimmt mit FIS-Datenbank überein; altes Infosheet überholt. Zweiter Lauf unverändert separat 13:00. Zwei bestehende UIDs erhalten; Konfliktkennzeichen entfernt. Zugehörige first_time/source_url/source_checked-Einträge in ALPINE_SCHEDULES aktualisiert.
+- Lillehammer Damen-Einzelbewerb 21.11.2026 um 14:35: norwegisches Veranstalterprogramm bezeichnet den Eintrag eindeutig als „Konkurranse“, übereinstimmend mit FIS. Die englische Übersetzung „Qualification“ ist fehlerhaft. Quellenkonflikt entfernt, vorhandener Hauptbewerb bestätigt, keine zusätzliche Qualifikation erfunden.
+- Sapporo Herren-Qualifikation JP7861 von 23.01. auf 22.01.2027 verschoben; UID fis-JP7861@julian-wintersport erhalten. Neue zusätzliche Qualifikation am 24.01.2027 laut FIS JP8043 ergänzt, UID fis-JP8043@julian-wintersport. Beide ohne bestätigte Uhrzeit als transparente Datumsmarker.
+- Åre Herren-Riesenslalom 13.03.2027 bleibt vorläufig: Veranstalter und bisheriges Infosheet 10:00, aktuelle FIS-Datenbank 09:30. Vorhandene 10:00-Planzeit beibehalten.
+- Biathlon-Detail-API meldet HTTP 401 Unauthorized bei Events und Competitions. Kein erfolgreicher vollständiger Abgleich aller 70 Rennstartzeiten behaupten. Öffentliche IBU-Kalenderseite erfolgreich als alternative Quelle gelesen: eingebettete öffentliche Seitendaten enthalten alle elf aktuellen Veranstaltungsblöcke und die sechs Kontiolahti-Wettkämpfe. Blockdaten und Kontiolahti-Startzeiten/Status stimmen mit dem zuletzt verifizierten Stand überein. Die übrigen 64 Rennstartzeiten waren heute nicht erneut vollständig verifizierbar und wurden unverändert gelassen.
+- Keine Kalender-UID entfernt. Unbekannte Startzeiten bleiben unbekannt. Bestehende zweite Durchgänge unverändert.
+
+Aktuelle Primärquellen:
+- https://www.worldcup-valdisere.com/agenda/
+- https://www.worldcup-valdisere.com/en/event-calendar/
+- https://www.wclhmr.no/program (norwegisches Original maßgeblich)
+- https://worldcupare.com/en/info-programme/
+- https://www.fis-ski.com/DB/general/results.html?sectorcode=JP&raceid=7861
+- https://www.fis-ski.com/DB/general/results.html?sectorcode=JP&raceid=8043
+- https://www.biathlonworld.com/calendar (öffentliche eventInitialState/competitionsInitialState)
+
+---
+
 # Wintersportkalender – geprüfter Stand 05.11.2026
 
 Aktuell: **414 Einträge**. Alle 412 zuvor veröffentlichten UIDs erhalten; 402 bestehende VEVENT-Blöcke unverändert, 10 gezielt aktualisiert, 2 ergänzt. Abo-URL unverändert.
