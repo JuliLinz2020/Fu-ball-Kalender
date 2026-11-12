@@ -151,23 +151,22 @@ URL:https://calovo.de/f/sportschau/skispringen
 END:VEVENT
 BEGIN:VEVENT
 UID:897f3391e11bf19258515831280a@julian-wintersport
-DTSTAMP:20261105T075326Z
+DTSTAMP:20261112T075836Z
 DTSTART;TZID=Europe/Berlin:20261121T143500
 DTEND;TZID=Europe/Berlin:20261121T163500
-STATUS:TENTATIVE
-SEQUENCE:585
+STATUS:CONFIRMED
+SEQUENCE:586
 LOCATION:Lysgårdsbakken HS 140\, Lillehammer\, Norwegen
 SUMMARY:Skispringen Lillehammer HS 140 Einzel (Frauen)
 CATEGORIES:Skispringen
 TRANSP:TRANSPARENT
-DESCRIPTION:Vorläufige Planzeit 14:35 am 21.11.2026. FIS führt diesen Tag
-  als Damen-Einzelweltcup\; das Veranstalterprogramm bezeichnet den Program
- mpunkt um 14:35 als Qualifikation. Art/Startzeit des Hauptbewerbs noch wid
- ersprüchlich\, geprüft 05.11.2026. Keine zusätzliche Qualifikation ohne
-  Bestätigung angelegt.
-URL:https://calovo.de/f/sportschau/skispringen
-X-JULIAN-TIME-STATUS:SOURCE-CONFLICT
-LAST-MODIFIED:20261105T075326Z
+DESCRIPTION:Damen-Einzelwettkampf am 21.11.2026 um 14:35 MEZ durch norwegis
+ ches Veranstalterprogramm und FIS-Bewerbsart bestätigt. Norwegisch: Konku
+ rranse\, nicht Kvalifisering\; fehlerhafte englische Bezeichnung verworfen
+ . Geprüft 12.11.2026. Änderungen möglich.
+URL:https://www.wclhmr.no/program
+X-JULIAN-TIME-STATUS:OFFICIAL-SCHEDULE
+LAST-MODIFIED:20261112T075836Z
 END:VEVENT
 BEGIN:VEVENT
 UID:efd5055e902c89120b9bdb2a3f71@julian-wintersport
@@ -906,23 +905,21 @@ URL:https://calovo.de/f/sportschau/skispringen
 END:VEVENT
 BEGIN:VEVENT
 UID:65441efa4c973fd768e5d7b36eab@julian-wintersport
-DTSTAMP:20261029T075346Z
-DTSTART;TZID=Europe/Berlin:20261212T093000
-DTEND;TZID=Europe/Berlin:20261212T120000
-STATUS:TENTATIVE
-SEQUENCE:266
+DTSTAMP:20261112T075836Z
+DTSTART;TZID=Europe/Berlin:20261212T100000
+STATUS:CONFIRMED
+SEQUENCE:267
 LOCATION:La face de Bellevarde\, Val dIsere\, Frankreich
 SUMMARY:Ski Alpin Val dIsere Riesenslalom (Männer)
 CATEGORIES:Ski alpin
 TRANSP:TRANSPARENT
-DESCRIPTION:Startzeit vorläufig\, Quellenwiderspruch am 29.10.2026: FIS-Da
- tenbank: 10:00 MEZ\; FIS-Infosheet: 09:30 MEZ. Bisherige veröffentlichte 
- Planzeit beibehalten\; endgültige Bestätigung offen. Zweiter Durchgang s
- eparat eingetragen\, soweit vorhanden.
-URL:https://assets.fis-ski.com/f/252177/x/8399f37ec9/complett_finaldoc_26_2
- 7_v1_21-10-2026.pdf
-X-JULIAN-TIME-STATUS:SOURCE-CONFLICT
-LAST-MODIFIED:20261029T075346Z
+DESCRIPTION:1. Lauf 10:00 MEZ laut aktuellem Veranstalterprogramm und FIS-D
+ atenbank\, geprüft 12.11.2026. Früheres FIS-Infosheet 09:30 überholt. Z
+ weiter Lauf separat um 13:00 eingetragen. Ende nicht bestätigt\; Änderun
+ gen möglich.
+URL:https://www.worldcup-valdisere.com/agenda/
+X-JULIAN-TIME-STATUS:OFFICIAL-SCHEDULE
+LAST-MODIFIED:20261112T075836Z
 END:VEVENT
 BEGIN:VEVENT
 UID:7e42e2580606bd8c9bdcc4d48aff@julian-wintersport
@@ -1048,23 +1045,21 @@ URL:https://calovo.de/f/sportschau/skispringen
 END:VEVENT
 BEGIN:VEVENT
 UID:8a868643eef0ac5da4eb88259e4d@julian-wintersport
-DTSTAMP:20261029T075346Z
-DTSTART;TZID=Europe/Berlin:20261213T093000
-DTEND;TZID=Europe/Berlin:20261213T120000
-STATUS:TENTATIVE
-SEQUENCE:266
+DTSTAMP:20261112T075836Z
+DTSTART;TZID=Europe/Berlin:20261213T100000
+STATUS:CONFIRMED
+SEQUENCE:267
 LOCATION:La face de Bellevarde\, Val dIsere\, Frankreich
 SUMMARY:Ski Alpin Val dIsere Slalom (Männer)
 CATEGORIES:Ski alpin
 TRANSP:TRANSPARENT
-DESCRIPTION:Startzeit vorläufig\, Quellenwiderspruch am 29.10.2026: FIS-Da
- tenbank: 10:00 MEZ\; FIS-Infosheet: 09:30 MEZ. Bisherige veröffentlichte 
- Planzeit beibehalten\; endgültige Bestätigung offen. Zweiter Durchgang s
- eparat eingetragen\, soweit vorhanden.
-URL:https://assets.fis-ski.com/f/252177/x/8399f37ec9/complett_finaldoc_26_2
- 7_v1_21-10-2026.pdf
-X-JULIAN-TIME-STATUS:SOURCE-CONFLICT
-LAST-MODIFIED:20261029T075346Z
+DESCRIPTION:1. Lauf 10:00 MEZ laut aktuellem Veranstalterprogramm und FIS-D
+ atenbank\, geprüft 12.11.2026. Früheres FIS-Infosheet 09:30 überholt. Z
+ weiter Lauf separat um 13:00 eingetragen. Ende nicht bestätigt\; Änderun
+ gen möglich.
+URL:https://www.worldcup-valdisere.com/agenda/
+X-JULIAN-TIME-STATUS:OFFICIAL-SCHEDULE
+LAST-MODIFIED:20261112T075836Z
 END:VEVENT
 BEGIN:VEVENT
 UID:b684bfddcd4655ff04de903a0e9c@julian-wintersport
@@ -2528,19 +2523,21 @@ URL:https://calovo.de/f/sportschau/biathlon
 END:VEVENT
 BEGIN:VEVENT
 UID:fis-JP7861@julian-wintersport
-DTSTAMP:20261024T081731Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270123
-DTEND;VALUE=DATE:20270124
+DTSTAMP:20261112T075836Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
 SUMMARY:Skispringen – Qualifikation Sapporo (Herren)
 LOCATION:Sapporo
 CATEGORIES:Skispringen
 TRANSP:TRANSPARENT
 STATUS:TENTATIVE
-DESCRIPTION:Terminquelle: FIS Weltcupkalender 2026/27. Startzeit noch nicht
-  bestätigt\; vorläufig ganztägig. Änderungen möglich.
+DESCRIPTION:Herren-Qualifikation Sapporo laut aktueller FIS-Datenbank vom 2
+ 3.01. auf 22.01.2027 verschoben. Startzeit nicht bestätigt\; transparente
+ r ganztägiger Terminmarker. Geprüft 12.11.2026.
 URL:https://www.fis-ski.com/DB/general/results.html?sectorcode=JP&raceid=78
  61
+LAST-MODIFIED:20261112T075836Z
 END:VEVENT
 BEGIN:VEVENT
 UID:42e57040f2856b2e04dc2e50b816@julian-wintersport
@@ -7325,6 +7322,24 @@ URL:https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=13
 DESCRIPTION:Ersatzveranstaltung für Narvik. Termin und Startzeit laut FIS-
  Weltcupdatenbank\, geprüft 05.11.2026. Start 11:00 MEZ\; Ende nicht best
  ätigt. Verlegung durch FIS und nationalen Verband veröffentlicht.
+END:VEVENT
+BEGIN:VEVENT
+UID:fis-JP8043@julian-wintersport
+DTSTAMP:20261112T075836Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:Skispringen – Qualifikation Sapporo (Herren)
+CATEGORIES:Skispringen
+LOCATION:Sapporo\, Japan
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+X-JULIAN-TIME-STATUS:UNCONFIRMED
+URL:https://www.fis-ski.com/DB/general/results.html?sectorcode=JP&raceid=80
+ 43
+DESCRIPTION:Zusätzliche Herren-Qualifikation am 24.01.2027 laut neuem FIS-
+ Datenbankeintrag JP8043\, geprüft 12.11.2026. Startzeit offen\; transpare
+ nter ganztägiger Terminmarker. Änderungen möglich.
 END:VEVENT
 END:VCALENDAR
 
