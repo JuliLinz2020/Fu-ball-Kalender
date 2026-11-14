@@ -1007,16 +1007,19 @@ UID:bw-test-20261113-regensburg@fussball-kalender.julian
 DTSTAMP:20261107T093740Z
 DTSTART:20261113T130000Z
 DTEND:20261113T150000Z
-SUMMARY:Jahn Regensburg – FC Blau-Weiß Linz
+SUMMARY:Jahn Regensburg – FC Blau-Weiß Linz (2:0)
 LOCATION:Sportpark Kaulbachweg
 DESCRIPTION:Blau-Weiß Linz – Testspiel. Quelle: offizieller Vereinsspiel
- plan.
+ plan.\nEndstand: 2:0. Ergebnisquelle: https://blauweiss-linz.at/news/auswa
+ ertstest-in-regensburg-endet-mit-niederlage/ (geprüft am 14.11.2026).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Jahn Regensburg – FC Blau-Weiß Linz
 END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261114T074509Z
 END:VEVENT
 BEGIN:VEVENT
 UID:df26b8bc@fussball-kalender.julian
