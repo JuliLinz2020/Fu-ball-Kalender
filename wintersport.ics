@@ -4715,22 +4715,21 @@ URL:https://calovo.de/f/sportschau/skispringen
 END:VEVENT
 BEGIN:VEVENT
 UID:3ccc2e739e319f7670edb2e88480@julian-wintersport
-DTSTAMP:20261025T154029Z
-SEQUENCE:2
+DTSTAMP:20261119T074128Z
+SEQUENCE:3
 RELATED-TO;RELTYPE=PARENT:2a5b16ee64d38f7decafc396254c@julian-wintersport
 X-JULIAN-PHASE:SECOND-RUN
 CATEGORIES:Ski alpin
 TRANSP:TRANSPARENT
 LOCATION:Superstar\, Killington\, VT\, USA
-DTSTART;TZID=Europe/Berlin:20261129T190000
-DTEND;TZID=Europe/Berlin:20261129T200000
+DTSTART;TZID=Europe/Berlin:20261129T193000
 STATUS:CONFIRMED
 X-JULIAN-TIME-STATUS:OFFICIAL-SCHEDULE
 SUMMARY:Ski Alpin Killington Slalom (Frauen) – 2. Durchgang
-DESCRIPTION:Separater 2. Durchgang. Start laut offiziellem Zeitplan. Geprü
- ft am 25.10.2026. Änderungen durch Jury/Wetter möglich. Endzeit als Plan
- ungswert.
-URL:https://assets.fis-ski.com/f/252177/x/8399f37ec9/complett_finaldoc_26_2
+DESCRIPTION:2. Lauf 19:30 MEZ (13:30 Ortszeit Killington).
+ Laut Veranstalter und FIS-Datenbank, geprueft 19.11.2026.
+ Ende nicht bestaetigt; wetterbedingte Aenderungen moeglich.
+URL:https://killington.com/the-killington-cup
  7_v1_21-10-2026.pdf
 END:VEVENT
 BEGIN:VEVENT
