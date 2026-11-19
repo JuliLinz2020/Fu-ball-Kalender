@@ -119,11 +119,11 @@ ALPINE_SCHEDULES = {'390adea0f863f49942b708c094eb@julian-wintersport': {'date': 
  '2a5b16ee64d38f7decafc396254c@julian-wintersport': {'date': '20261129',
                                                      'summary': 'Ski Alpin Killington Slalom (Frauen)',
                                                      'first_time': '1630',
-                                                     'second_time': '1900',
+                                                     'second_time': '1930',
                                                      'timezone': 'Europe/Berlin',
-                                                     'source_url': 'https://assets.fis-ski.com/f/252177/x/8399f37ec9/complett_finaldoc_26_27_v1_21-10-2026.pdf',
+                                                     'source_url': 'https://killington.com/the-killington-cup',
                                                      'pdf_page_index': 8,
-                                                     'source_checked': '2026-10-25'},
+                                                     'source_checked': '2026-11-19'},
  '64b60b15e948f22f7d1ca912f011@julian-wintersport': {'date': '20261129',
                                                      'summary': 'Ski Alpin Copper Mountain Riesenslalom '
                                                                 '(Männer)',
@@ -836,5 +836,6 @@ if __name__ == '__main__':
     calendar,counts = build(feeds, previous)
     (ROOT/'wintersport.ics').write_bytes(calendar.encode('utf-8'))
     print(counts, 'plus',len(WM),'WM events. Total:',calendar.count('BEGIN:VEVENT'))
+
 
 
