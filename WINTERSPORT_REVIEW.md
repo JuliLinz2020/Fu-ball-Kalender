@@ -1,3 +1,29 @@
+# Wintersportkalender – geprüfter Stand 19.11.2026
+
+Aktuell **415 Einträge**, alle 415 bisherigen UIDs erhalten. Nur ein Termin inhaltlich geändert, keine Löschung, keine zusätzliche Veranstaltung.
+
+## Prüfung 19.11.2026
+
+- FIS AL/WC (83 Einträge), AL/WSC (15), JP/WC (111), JP/WSC (11) frisch abgerufen. Datum, Beginn, Ort, Bewerb und Status gegen aktuelle Live-Datei und den Abruf vom 12.11. abgeglichen. Keine neuen Renntermine, Datumsverlegungen oder belegten Absagen in diesen Daten. Kontaktdatenänderungen haben keinen Einfluss auf Wettkampftermine.
+- Zweite alpine Läufe ausdrücklich gegen Run 1 loc / Run 2 loc und UTC-Startzeit der FIS abgeglichen, nicht pauschal geschätzt.
+- Korrektur: Damen-Slalom Killington am 29.11.2026, zweiter Lauf jetzt **19:30 MEZ statt 19:00**. FIS AL131584 nennt 13:30 lokale Zeit; Veranstalterprogramm bestätigt 1:30 p.m. in Vermont (America/New_York), entsprechend 19:30 Europe/Vienna. Bestehende UID 3ccc2e739e319f7670edb2e88480@julian-wintersport erhalten, SEQUENCE erhöht. Unbestätigte geschätzte Endzeit entfernt. Zugehörige ALPINE_SCHEDULES-second_time auf 1930 und Quellenprüfung aktualisiert.
+- Lillehammer-Programm 20.–22.11. durch aktuelles norwegisches Veranstalterprogramm und FIS-Saisonvorschau bestätigt; vorhandene Startzeiten unverändert.
+- Gurgl 21./22.11. jeweils Lauf 1 10:30, Lauf 2 13:30 laut offiziellem FIS-Veranstaltungsprogramm bestätigt; bereits so eingetragen.
+- Åre 13.03.2027 weiterhin Quellenkonflikt: FIS-Datenbank 09:30, Veranstalterprogramm 10:00. Vorhandene 10:00 als vorläufig beibehalten.
+- IBU-Detail-API liefert weiterhin HTTP 401 Unauthorized. Öffentliche IBU-Kalenderseite frisch gelesen: alle elf Veranstaltungsblöcke und die sechs Kontiolahti-Rennen ohne Zeit-/Statusänderung gegenüber 12.11. Die übrigen 64 Rennstartzeiten konnten heute nicht vollständig erneut überprüft werden und wurden unverändert belassen. Kein vollständiger 70-Rennen-Abgleich behauptet.
+- Keine Startzeit oder Qualifikation erfunden. Generator weiter nicht blind über sekundäre Exportdaten veröffentlichen (siehe ältere Warnung unten).
+
+Primärquellen:
+- https://killington.com/the-killington-cup
+- https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=131584
+- https://www.wclhmr.no/program
+- https://fis100.fis-ski.com/ski-jumping/news/2026-27/female-ski-jumpers-set-for-history-making-season
+- https://www.fis-ski.com/DB/v2/download/competition-attachment/de501ac1-6641-4731-84cc-c4d76c56e532.pdf
+- https://worldcupare.com/en/info-programme/
+- https://www.biathlonworld.com/calendar
+
+---
+
 # Wintersportkalender – geprüfter Stand 12.11.2026
 
 Aktuell **415 Einträge**. Alle 414 bisherigen UIDs erhalten. 410 bestehende VEVENT-Blöcke unverändert, vier aktualisiert, eine neue bestätigte Qualifikation ergänzt.
