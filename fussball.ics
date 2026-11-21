@@ -1026,32 +1026,39 @@ UID:df26b8bc@fussball-kalender.julian
 DTSTAMP:20260711T120102Z
 DTSTART:20261120T173000Z
 DTEND:20261120T193000Z
-SUMMARY:SK Rapid II – FC Blau-Weiß Linz
+SUMMARY:SK Rapid II – FC Blau-Weiß Linz (1:6)
 LOCATION:Allianz Stadion
 DESCRIPTION:Blau-Weiß Linz – 2. Liga. Quelle: offizieller Vereinsspielpl
- an.
+ an.\nEndstand: 1:6. Ergebnisquelle: https://www.bundesliga.at/de/spielberi
+ cht/saison-2026-2027/56894/matchcenter (geprüft am 21.11.2026).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:SK Rapid II – FC Blau-Weiß Linz
 END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261121T075512Z
 END:VEVENT
 BEGIN:VEVENT
 UID:d1f14bf0@fussball-kalender.julian
 DTSTAMP:20260912T084334Z
 DTSTART:20261120T193000Z
 DTEND:20261120T213000Z
-SUMMARY:FC Bayern München – 1. FC Köln
+SUMMARY:FC Bayern München – 1. FC Köln (1:1)
 LOCATION:Allianz Arena
 DESCRIPTION:FC Bayern München – Bundesliga. Quelle: offizieller Vereinss
- pielplan.
+ pielplan.\nEndstand: 1:1. Ergebnisquelle: https://datencenter.dfb.de/daten
+ center/bundesliga/2026-2027/10/fc-bayern-muenchen-1-fc-koeln-2419425 (gepr
+ üft am 21.11.2026).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:FC Bayern München – 1. FC Köln
 END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261121T075512Z
 END:VEVENT
 BEGIN:VEVENT
 UID:69df7063@fussball-kalender.julian
