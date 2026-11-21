@@ -2800,20 +2800,24 @@ LAST-MODIFIED:20261031T094922Z
 END:VEVENT
 BEGIN:VEVENT
 UID:bayern-test-20270105-ajax@fussball-kalender.julian
-DTSTAMP:20261031T094922Z
-DTSTART;VALUE=DATE:20270105
-DTEND;VALUE=DATE:20270106
-SUMMARY:Termin vorläufig: FC Bayern München – Ajax Amsterdam
+DTSTAMP:20261121T094300Z
+DTSTART:20270105T171500Z
+DTEND:20270105T191500Z
+SUMMARY:FC Bayern München – Ajax Amsterdam
 LOCATION:Raila Odinga International Stadium at Talanta Sports City\, Nairob
  i
 DESCRIPTION:FC Bayern München – Testspiel zur Eröffnung des neuen Natio
- nalstadions in Nairobi. Datum bestätigt\, Anstoßzeit noch nicht festgele
- gt. Quelle: https://fcbayern.com/de/news/2026/10/fc-bayern-in-kenia-gegen-
- ajax-amsterdam
-URL:https://fcbayern.com/de/news/2026/10/fc-bayern-in-kenia-gegen-ajax-amst
- erdam
-STATUS:TENTATIVE
+ nalstadions in Nairobi. Anstoßzeit laut offiziellem Vereinsspielplan. Que
+ lle: https://fcbayern.com/de/match-center/matchplan
+URL:https://fcbayern.com/de/match-center/matchplan
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-SEQUENCE:0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:FC Bayern München – Ajax Amsterdam
+END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261121T094300Z
 END:VEVENT
 END:VCALENDAR
