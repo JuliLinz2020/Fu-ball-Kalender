@@ -1065,15 +1065,19 @@ UID:69df7063@fussball-kalender.julian
 DTSTAMP:20260905T084016Z
 DTSTART:20261121T160000Z
 DTEND:20261121T180000Z
-SUMMARY:LASK – TSV Hartberg
+SUMMARY:LASK – TSV Hartberg (2:1)
 LOCATION:Raiffeisen Arena
-DESCRIPTION:LASK – Bundesliga. Quelle: offizieller Vereinsspielplan.
+DESCRIPTION:LASK – Bundesliga. Quelle: offizieller Vereinsspielplan.\nEnd
+ stand: 2:1. Ergebnisquelle: https://www.bundesliga.at/de/spielbericht/sais
+ on-2026-2027/56732/matchcenter (geprüft am 22.11.2026).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:LASK – TSV Hartberg
 END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261122T073718Z
 END:VEVENT
 BEGIN:VEVENT
 UID:b75bc9a2@fussball-kalender.julian
