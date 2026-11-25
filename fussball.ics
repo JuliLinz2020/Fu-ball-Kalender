@@ -2220,16 +2220,19 @@ UID:ucl-lask-2026-md5@fussball-kalender.julian
 DTSTAMP:20260829T180109Z
 DTSTART:20261124T174500Z
 DTEND:20261124T194500Z
-SUMMARY:FK Bodø/Glimt – LASK
+SUMMARY:FK Bodø/Glimt – LASK (1:0)
 LOCATION:Aspmyra Stadion
 DESCRIPTION:LASK – UEFA Champions League\, Ligaphase Spieltag 5. Quelle: 
- offizielle UEFA-/Vereinsspielpläne.
+ offizielle UEFA-/Vereinsspielpläne.\nEndstand: 1:0. Ergebnisquelle: https
+ ://www.lask.at/de/m/news/sb-bodoe-lask (geprüft am 25.11.2026).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:FK Bodø/Glimt – LASK
 END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261125T075403Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ucl-bayern-2026-md5@fussball-kalender.julian
