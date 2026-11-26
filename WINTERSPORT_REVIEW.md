@@ -1,3 +1,32 @@
+# Wintersportkalender – geprüfter Stand 26.11.2026
+
+Aktuell **417 Einträge**. Alle 415 bisherigen UIDs erhalten; 408 bestehende VEVENT-Blöcke unverändert, sieben gezielt aktualisiert und zwei bestätigt neue Qualifikationen ergänzt. Abo-Adresse unverändert.
+
+## Prüfung 26.11.2026
+
+- FIS-Dateien AL/WC, AL/WSC, JP/WC und JP/WSC frisch abgerufen und nach Datum, Geschlecht, Bewerb, Uhrzeit und Status gegen aktuelle Live-Datei abgeglichen; zweite alpine Läufe anhand expliziter Run-2-Zeiten separat geprüft. Keine belegte neue Absage in diesen Daten.
+- Ruka Herren-Qualifikation JP7801: von bisherigem Datumsmarker 28.11. auf **27.11.2026, 17:15 MEZ** geändert. FIS-Datum und Veranstalterprogramm stimmen überein (18:15 Ortszeit Finnland = 17:15 Europe/Vienna). UID fis-JP7801@julian-wintersport erhalten.
+- Neue zusätzliche Ruka-Qualifikation JP8044 am **29.11.2026, 12:45 MEZ** (13:45 Ortszeit), bestätigt durch neue FIS-UID und Veranstalterprogramm. UID fis-JP8044@julian-wintersport.
+- Hinzenbach Damen-Qualifikation JP7818 am 28.11.2026 nun mit **12:00 MEZ** statt unbekannter Uhrzeit; bestehende UID erhalten. Die Suchsnippet-Angabe 08:45 betrifft den SONNTAG, nicht den Samstag. Vollständiger offizieller Gemeindetext mit Veranstalterprogramm bestätigt Samstag 12:00 / Bewerb 13:30, Sonntag 08:45 / Bewerb 10:15.
+- Neue zusätzliche Hinzenbach-Qualifikation JP8045 am **29.11.2026, 08:45 MEZ**, neue FIS-UID und offizielles veröffentlichtes Veranstalterprogramm bestätigen Datum/Start. UID fis-JP8045@julian-wintersport.
+- Fünf zuvor zeitlich offene zweite Durchgänge Lillehammer nachgetragen, ausdrücklich aus Round 2 loc der aktuellen FIS-Datenbank (keine Schätzung): Mixed 20.11. 17:10; Herren 21.11. 18:17; Damen 21.11. 15:39; Herren 22.11. 17:15; Damen 22.11. 12:56, jeweils MEZ. Vorhandene Kind-UIDs erhalten und SEQUENCE erhöht; Titelzusatz Uhrzeit offen entfernt. Keine zweite Qualifikationsrunde erzeugt.
+- Keine geschätzten Endzeiten ergänzt. Bei konkretisierten Uhrzeiten alte Datums-/Schätz-Endzeiten entfernt.
+- IBU-Detail-API weiterhin HTTP 401 Unauthorized. Öffentliche Kalenderseite frisch gelesen; elf Veranstaltungsblöcke und sechs Kontiolahti-Startzeiten ohne Änderung. Startlistenstatus wurde inzwischen veröffentlicht (keine Rennterminänderung). Die übrigen 64 Biathlon-Rennstartzeiten heute nicht vollständig erneut überprüfbar und unverändert belassen.
+- Åre 13.03.2027 bleibt wie dokumentiert vorläufig (FIS-Datenbank 09:30, Veranstalter 10:00). Keine blind erzeugte Gesamtdatei veröffentlichen; handgeprüfte Zeiten/UIDs und nachgetragene zweite Durchgänge bewahren.
+
+Primärquellen:
+- https://rukanordic.com/en/schedule/
+- https://rukanordic.com/wp-content/uploads/2026/10/Schedule-Ruka-Nordic-2026.pdf
+- https://www.fraham.at/Skisprung-Weltcup_der_Damen_in_Hinzenbach_erstmals_bei_freiem_Eintritt_ (vollständiger Veranstalterzeitplan, Abschnitt Programm im Überblick)
+- https://www.fis-ski.com/DB/services/public/icalendar-feed-fis-events.html?seasoncode=2027&sectorcode=JP&categorycode=WC
+- https://www.fis-ski.com/DB/general/results.html?sectorcode=JP&raceid=7801
+- https://www.fis-ski.com/DB/general/results.html?sectorcode=JP&raceid=8044
+- https://www.fis-ski.com/DB/general/results.html?sectorcode=JP&raceid=7818
+- https://www.fis-ski.com/DB/general/results.html?sectorcode=JP&raceid=8045
+- https://www.biathlonworld.com/calendar
+
+---
+
 # Wintersportkalender – geprüfter Stand 19.11.2026
 
 Aktuell **415 Einträge**, alle 415 bisherigen UIDs erhalten. Nur ein Termin inhaltlich geändert, keine Löschung, keine zusätzliche Veranstaltung.
