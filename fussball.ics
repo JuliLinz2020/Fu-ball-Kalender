@@ -2239,16 +2239,20 @@ UID:ucl-bayern-2026-md5@fussball-kalender.julian
 DTSTAMP:20260829T180109Z
 DTSTART:20261125T200000Z
 DTEND:20261125T220000Z
-SUMMARY:OSC Lille – FC Bayern München
+SUMMARY:OSC Lille – FC Bayern München (2:1)
 LOCATION:Decathlon Arena – Stade Pierre-Mauroy
 DESCRIPTION:FC Bayern München – UEFA Champions League\, Ligaphase Spielt
- ag 5. Quelle: offizielle UEFA-/Vereinsspielpläne.
+ ag 5. Quelle: offizielle UEFA-/Vereinsspielpläne.\nEndstand: 2:1. Ergebni
+ squelle: https://fcbayern.com/de/news/spielberichte/2026/11/spielbericht-c
+ hampions-league-osc-lille-fc-bayern (geprüft am 26.11.2026).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:OSC Lille – FC Bayern München
 END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261126T072340Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ucl-bayern-2026-md6@fussball-kalender.julian
